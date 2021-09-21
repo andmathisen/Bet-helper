@@ -30,7 +30,24 @@ class Match:
 
     def getAwayTeam(self):
         return self.awayTeam
+class FutureMatch:
+    def __init__(self,homeTeam,awayTeam, hOdds, uOdds, bOdds):
+        self.homeTeam = homeTeam
+        self.awayTeam = awayTeam
+        self.hOdds = hOdds
+        self.uOdds = uOdds
+        self.bOdds = bOdds
 
+    def getOdds(self):
+        return float(self.hOdds),float(self.uOdds), float(self.bOdds)
+
+    def getHomeTeam(self):
+        return self.homeTeam
+
+    def getAwayTeam(self):
+        return self.awayTeam
+    def printMatch(self):
+        print(self.getHomeTeam(),self.getAwayTeam(),self.getOdds())
 class Team:
     def __init__(self,position,wins,draws,losses,teamName, goals,conceded,points):
         self.position = position
@@ -89,8 +106,7 @@ class Team:
                     winRateAway +=3
 
 
-            print("nr:",i)
-            print(self.teamName,winRateAll)
+
 
         return round(winRateAll/(nMatches),2),round(winRateHome/matchesHome,2),round(winRateAway/matchesAway,2),round(scoredHome/matchesHome,2),round(scoredAway/matchesAway,2),round(concededHome/matchesHome,2),round(concededAway/matchesAway,2)
 
