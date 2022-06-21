@@ -23,6 +23,12 @@ class Match:
         return int(self.hGoals),int(self.bGoals)
 
     def getOdds(self):
+        if self.hOdds == '-':
+            self.hOdds = 0
+        if self.uOdds == '-':
+            self.uOdds = 0
+        if self.bOdds == '-':
+            self.bOdds = 0
         return float(self.hOdds),float(self.uOdds), float(self.bOdds)
 
     def getHomeTeam(self):
@@ -39,6 +45,12 @@ class FutureMatch:
         self.bOdds = bOdds
 
     def getOdds(self):
+        if self.hOdds == '-':
+            self.hOdds = 0
+        if self.uOdds == '-':
+            self.uOdds = 0
+        if self.bOdds == '-':
+            self.bOdds = 0
         return float(self.hOdds),float(self.uOdds), float(self.bOdds)
 
     def getHomeTeam(self):
@@ -73,14 +85,19 @@ class Team:
         scoredAway = 0
         concededHome = 0
         concededAway = 0
+        
+
+        nMatches = min(len(self.form),nMatches)
         for i in range(nMatches):
             m = self.form[i]
+            
             hGoals, bGoals = m.getScore()
             h,u,b = m.getOdds()
             hOddsBoost = 1+(h*0.1)
             uOddsBoost = 1+(u*0.1)
             bOddsBoost = 1+(b*0.1)
 
+            
             if self is m.getHomeTeam():
 
                 matchesHome += 1
@@ -93,7 +110,6 @@ class Team:
                     winRateAll +=3
                     winRateHome +=3
 
-
             else:
                 matchesAway +=1
                 scoredAway += bGoals
@@ -105,10 +121,8 @@ class Team:
                     winRateAll +=3
                     winRateAway +=3
 
-
-
-
-        return round(winRateAll/(nMatches),2),round(winRateHome/matchesHome,2),round(winRateAway/matchesAway,2),round(scoredHome/matchesHome,2),round(scoredAway/matchesAway,2),round(concededHome/matchesHome,2),round(concededAway/matchesAway,2)
+        
+        return round(winRateAll/(max(nMatches,1)),2),round(winRateHome/max(matchesHome,1),2),round(winRateAway/max(matchesAway,1),2),round(scoredHome/max(matchesHome,1),2),round(scoredAway/max(matchesAway,1),2),round(concededHome/max(matchesHome,1),2),round(concededAway/max(matchesAway,1),2)
 
     def printNLastMatches(self,n):
             for i in range(n):
