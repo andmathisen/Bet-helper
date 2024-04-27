@@ -98,7 +98,7 @@ def stringToMatch(date, matches):
 
 
 
-def predictMatch(home, away):
+def NaivePredictMatch(home, away):
     h = 0.33
     u = 0.33
     b = 0.33
@@ -354,7 +354,7 @@ def mainTopMatches(teams,matchesList):
                 if teamClass == None:
                     valid_league = False
                     break
-                teams[teamClass.getName()] = teamClass
+                teams[teamClass.getName()] = teamClass                
             if valid_league:
                 for matches in results:
                     matchClasses = stringToMatch(matches[0], matches[1:])
@@ -362,14 +362,13 @@ def mainTopMatches(teams,matchesList):
                         valid_league == False
                         break
                     matchesList += matchClasses
-            if valid_league:
                 todaysMatches = scrapeTodaysMatches(league)
                 for match in todaysMatches:
                     if match.getHomeTeam() in teams and match.getAwayTeam() in teams:
                         home = teams[match.getHomeTeam()]
                         away = teams[match.getAwayTeam()]
 
-                        hPredicted,uPredicted,bPredicted,expectedResult = predictMatch(home,away)
+                        hPredicted,uPredicted,bPredicted,expectedResult = NaivePredictMatch(home,away)
                         hOdds,uOdds, bOdds = match.getOdds()
                         mhOdds,muOdds, mbOdds = round(hOdds*hPredicted,2),round(uOdds*uPredicted,2),round(bOdds*bPredicted,2)
                         all_matches[max([mhOdds,muOdds,mbOdds])] = {"Match":str(home.getName()+ "-" + away.getName()), "Predicted odds":str(round(hPredicted,2)) + "|" + str(round(uPredicted,2)) + "|" +str(round(bPredicted,2)),
