@@ -29,6 +29,70 @@ except Exception as e:
 try:
     import shap
     SHAP_AVAILABLE = True
+    
+    # Monkey-patch SHAP's XGBTreeModelLoader to handle XGBoost 3.1+ base_score string format
+    # This fixes: ValueError: could not convert string to float: '[3.0560273E-1,2.5976232E-1,4.3463498E-1]'
+    # SHAP 0.50.0+ should have this fix, but if it doesn't work, this patch ensures it does
+    try:
+        if hasattr(shap.explainers, '_tree') and hasattr(shap.explainers._tree, 'XGBTreeModelLoader'):
+            original_init = shap.explainers._tree.XGBTreeModelLoader.__init__
+            
+            def patched_init(self, xgb_model):
+                """Monkey-patched XGBTreeModelLoader to handle string base_score from XGBoost 3.1+"""
+                try:
+                    # Try original initialization first
+                    return original_init(self, xgb_model)
+                except (ValueError, TypeError) as e:
+                    error_str = str(e)
+                    # Check if this is the base_score conversion error we're trying to fix
+                    if "base_score" in error_str.lower() or "could not convert string to float" in error_str.lower():
+                        # Try to fix the base_score in the model before retrying
+                        try:
+                            import re
+                            if hasattr(xgb_model, 'get_booster'):
+                                booster = xgb_model.get_booster()
+                                config_str = booster.save_config()
+                                config_dict = json.loads(config_str)
+                                
+                                # Navigate to base_score
+                                learner = config_dict.get("learner", {})
+                                learner_model_param = learner.get("learner_model_param", {})
+                                base_score_val = learner_model_param.get("base_score", None)
+                                
+                                # Fix if it's a string representation of a list
+                                if base_score_val and isinstance(base_score_val, str) and (base_score_val.startswith('[') or ',' in base_score_val):
+                                    cleaned = base_score_val.strip('[]')
+                                    values = [float(x.strip()) for x in re.split(r',\s*', cleaned)]
+                                    fixed_base_score = str(sum(values) / len(values)) if len(values) > 0 else "0.0"
+                                    
+                                    learner_model_param["base_score"] = fixed_base_score
+                                    learner["learner_model_param"] = learner_model_param
+                                    config_dict["learner"] = learner
+                                    booster.load_config(json.dumps(config_dict))
+                                    logging.info(f"[SHAP Patch] Fixed base_score in model from '{base_score_val}' to '{fixed_base_score}', retrying TreeExplainer initialization")
+                                    
+                                    # Retry original initialization with fixed model
+                                    return original_init(self, xgb_model)
+                                else:
+                                    # base_score wasn't a string list, so this isn't our issue
+                                    raise e
+                            else:
+                                # Model doesn't have get_booster, so this isn't an XGBoost model
+                                raise e
+                        except Exception as fix_err:
+                            logging.warning(f"[SHAP Patch] Failed to fix base_score: {fix_err}")
+                            # If fix fails, re-raise original error
+                            raise e
+                    # If it's not a base_score error, re-raise it
+                    raise e
+            
+            # Apply the monkey-patch
+            shap.explainers._tree.XGBTreeModelLoader.__init__ = patched_init
+            logging.info("[SHAP Patch] Applied monkey-patch for XGBoost 3.1+ base_score handling")
+    except Exception as patch_err:
+        # If monkey-patch fails, log but continue - TreeExplainer might still work or we'll use fallback
+        logging.debug(f"Could not apply SHAP monkey-patch: {patch_err}")
+        
 except Exception as e:
     SHAP_AVAILABLE = False
     shap = None
@@ -43,6 +107,14 @@ from bet_helper.predict.core import (
     _create_historical_data_fingerprint,
 )
 from bet_helper.models import TeamData, MatchData, calculate_team_form
+
+# Explicit class order: LabelEncoder encodes alphabetically (A, D, H)
+# This must match the order used throughout the codebase
+# LabelEncoder sorts alphabetically: A=0, D=1, H=2
+CLASS_ORDER = ["A", "D", "H"]  # Away, Draw, Home (alphabetical order)
+CLASS_NAMES = ["away", "draw", "home"]  # Corresponding output names
+CLASS_TO_INDEX = {"A": 0, "D": 1, "H": 2}  # Map label to encoded index
+INDEX_TO_CLASS = {0: "A", 1: "D", 2: "H"}  # Map encoded index to label
 
 
 def extract_features_for_match(
@@ -201,11 +273,16 @@ def extract_features_for_match(
 
 def prepare_training_data_from_historical(
     historical_data: dict,
-    min_matches: int = 100,
+    min_matches: int = 100,  # Minimum total dataset size
+    min_team_matches: int = 5,  # Minimum matches per team (for form calculation)
     reference_date: datetime | None = None,
 ) -> tuple[list[dict[str, float]], list[str]]:
     """
     Prepare training data from historical matches using time-aware feature extraction.
+    
+    Args:
+        min_matches: Minimum total dataset size required
+        min_team_matches: Minimum number of past matches each team must have (for feature calculation)
     
     Returns:
         Tuple of (features_list, labels_list) where labels are "H", "D", or "A"
@@ -242,18 +319,22 @@ def prepare_training_data_from_historical(
     
     matches_with_dates.sort(key=lambda x: x[0])  # Oldest first
     
-    if len(matches_with_dates) < min_matches:
-        logging.debug(f"Not enough matches ({len(matches_with_dates)} < {min_matches}) for ML training")
+    total_matches = len(matches_with_dates)
+    if total_matches < min_matches:
+        logging.debug(f"Not enough matches ({total_matches} < {min_matches}) for ML training")
         return [], []
+    
+    logging.info(f"Processing {total_matches} historical matches for training data...")
+    logging.info(f"  Ensuring each team has at least {min_team_matches} matches in history before including their match")
     
     features_list = []
     labels_list = []
+    processed_count = 0
+    skipped_count = 0
+    skipped_insufficient_history = 0
     
     # Process each match using only past data
     for idx, (match_date, match_id, match_data) in enumerate(matches_with_dates):
-        if idx < min_matches:  # Skip early matches - need minimum history
-            continue
-        
         try:
             # Filter to past data only
             past_data = {}
@@ -266,13 +347,14 @@ def prepare_training_data_from_historical(
                     past_data[hist_id] = hist_match
             
             if len(past_data) < min_matches:
+                skipped_insufficient_history += 1
                 continue
             
             # Extract match info
             match_str = match_data.get("Match", "")
             home_name, away_name = [s.strip() for s in match_str.split("-", 1)]
             
-            # Build teams/form from past data only
+            # Build teams/form from past data only and count how many times each team appears
             # Sort past matches by date descending (newest first) so form is ordered correctly
             past_items = list(past_data.items())
             def _dt_past(md: dict) -> datetime:
@@ -281,6 +363,8 @@ def prepare_training_data_from_historical(
             past_items.sort(key=lambda kv: _dt_past(kv[1]), reverse=True)
             
             teams = {}
+            team_match_counts = {}  # Track how many matches each team has in past_data
+            
             for hist_id, hist_match in past_items:
                 try:
                     hist_match_str = hist_match.get("Match", "")
@@ -295,10 +379,17 @@ def prepare_training_data_from_historical(
                     ag = int(ag_s.strip())
                     hist_date_str = hist_match.get("Date", "")
                     
+                    # Initialize teams if not seen before
                     if hist_home not in teams:
                         teams[hist_home] = TeamData(name=hist_home)
+                        team_match_counts[hist_home] = 0
                     if hist_away not in teams:
                         teams[hist_away] = TeamData(name=hist_away)
+                        team_match_counts[hist_away] = 0
+                    
+                    # Count matches for each team
+                    team_match_counts[hist_home] += 1
+                    team_match_counts[hist_away] += 1
                     
                     m = MatchData(date=hist_date_str, home_team=hist_home, away_team=hist_away, home_goals=hg, away_goals=ag)
                     teams[hist_home].add_match(m)
@@ -306,7 +397,18 @@ def prepare_training_data_from_historical(
                 except Exception:
                     continue
             
+            # Ensure both teams exist in past_data
             if home_name not in teams or away_name not in teams:
+                skipped_insufficient_history += 1
+                continue
+            
+            # Ensure each team has appeared in at least min_team_matches past matches
+            # This ensures we have enough history to calculate form features (last 5-10 matches)
+            home_matches = team_match_counts.get(home_name, 0)
+            away_matches = team_match_counts.get(away_name, 0)
+            
+            if home_matches < min_team_matches or away_matches < min_team_matches:
+                skipped_insufficient_history += 1
                 continue
             
             home_team = teams[home_name]
@@ -352,27 +454,46 @@ def prepare_training_data_from_historical(
                 
                 features_list.append(features)
                 labels_list.append(label)
-            except (ValueError, TypeError):
+                processed_count += 1
+                
+                # Log progress every 50 matches or periodically
+                if processed_count % 50 == 0:
+                    progress_pct = (processed_count / total_matches * 100) if total_matches > 0 else 0
+                    logging.info(f"  Progress: {processed_count}/{total_matches} matches processed ({progress_pct:.1f}%) - "
+                               f"{len(features_list)} valid samples, {skipped_count} skipped "
+                               f"({skipped_insufficient_history} insufficient history)")
+            except (ValueError, TypeError) as e:
+                skipped_count += 1
                 continue
             
         except Exception as e:
+            skipped_count += 1
             logging.debug(f"Error preparing training data for match {match_id}: {e}")
             continue
     
+    logging.info(f"Training data preparation complete: {len(features_list)} valid samples from {total_matches} matches")
+    logging.info(f"  Skipped: {skipped_count} total ({skipped_insufficient_history} insufficient team history, "
+                f"{skipped_count - skipped_insufficient_history} other errors)")
+    logging.info(f"  Success rate: {(len(features_list)/total_matches*100):.1f}%")
     return features_list, labels_list
 
 
 def train_ml_model(
     historical_data: dict,
     league: str,
-    min_matches: int = 100,
+    min_matches: int = 100,  # Minimum total dataset size
+    min_team_matches: int = 5,  # Minimum matches per team (for form calculation)
     reference_date: datetime | None = None,
 ) -> tuple[Any, list[str] | None]:
     """
     Train XGBoost model for H/D/A prediction.
     
+    Args:
+        min_matches: Minimum total dataset size required
+        min_team_matches: Minimum number of past matches each team must have (for feature calculation)
+    
     Returns:
-        Tuple of (trained_model, feature_names) or (None, None) if training fails
+        Tuple of (trained_model, feature_names, baseline) or (None, None, None) if training fails
     """
     if not XGBOOST_AVAILABLE:
         logging.warning("XGBoost not available - cannot train ML model")
@@ -382,7 +503,7 @@ def train_ml_model(
         reference_date = datetime.now()
     
     logging.info(f"Preparing training data for {league} ML model...")
-    features_list, labels_list = prepare_training_data_from_historical(historical_data, min_matches, reference_date)
+    features_list, labels_list = prepare_training_data_from_historical(historical_data, min_matches, min_team_matches, reference_date)
     
     if len(features_list) < min_matches:
         logging.warning(f"Not enough training samples ({len(features_list)} < {min_matches}) for {league}")
@@ -390,61 +511,183 @@ def train_ml_model(
     
     # Convert to numpy arrays
     # Get feature names (from first sample - all should have same keys)
+    logging.info("Converting training data to numpy arrays...")
     feature_names = sorted(features_list[0].keys())
+    logging.info(f"  Extracted {len(feature_names)} features: {', '.join(feature_names[:5])}{'...' if len(feature_names) > 5 else ''}")
+    
     X = np.array([[features[f] for f in feature_names] for features in features_list], dtype=np.float32)
     y = np.array(labels_list)
+    logging.info(f"  Training set shape: X={X.shape}, y={y.shape}")
     
     # Encode labels
+    # LabelEncoder encodes alphabetically: A=0, D=1, H=2 (matching CLASS_ORDER)
+    logging.info("Encoding labels...")
     label_encoder = LabelEncoder()
     y_encoded = label_encoder.fit_transform(y)
     
+    # Log label distribution
+    label_counts = {label: list(y).count(label) for label in ["H", "D", "A"]}
+    label_dist = {label: (count / len(y)) * 100 for label, count in label_counts.items()}
+    logging.info(f"  Label distribution: Home={label_counts.get('H', 0)} ({label_dist.get('H', 0):.1f}%), "
+                f"Draw={label_counts.get('D', 0)} ({label_dist.get('D', 0):.1f}%), "
+                f"Away={label_counts.get('A', 0)} ({label_dist.get('A', 0):.1f}%)")
+    
+    # Verify class order matches our expectation
+    if len(label_encoder.classes_) == 3:
+        expected_classes = np.array(CLASS_ORDER)  # ["A", "D", "H"]
+        if not np.array_equal(label_encoder.classes_, expected_classes):
+            logging.warning(f"LabelEncoder classes {label_encoder.classes_} don't match expected {expected_classes}. "
+                          f"SHAP explanations may use incorrect class mapping.")
+        else:
+            logging.info(f"  LabelEncoder class order verified: {list(label_encoder.classes_)}")
+    
     # Train XGBoost model
     logging.info(f"Training XGBoost model on {len(X)} samples with {len(feature_names)} features...")
+    logging.info(f"  Model parameters: n_estimators=100, max_depth=4, learning_rate=0.1")
+    logging.info(f"  Regularization: reg_alpha=1.0 (L1), reg_lambda=1.0 (L2), min_child_weight=3")
+    
+    # Split data for validation
+    from sklearn.model_selection import train_test_split
+    X_train, X_val, y_train, y_val = train_test_split(X, y_encoded, test_size=0.2, random_state=42, stratify=y_encoded)
+    logging.info(f"  Train/validation split: {len(X_train)} train, {len(X_val)} validation samples")
     
     model = xgb.XGBClassifier(
         objective="multi:softprob",
         num_class=3,
         n_estimators=100,
-        max_depth=6,
+        max_depth=4,  # Reduced from 6 to reduce overfitting
         learning_rate=0.1,
         subsample=0.8,
         colsample_bytree=0.8,
+        reg_alpha=1.0,  # L1 regularization - encourages feature sparsity
+        reg_lambda=1.0,  # L2 regularization - reduces feature weights
+        min_child_weight=3,  # Minimum sum of instance weight needed in a child (higher = more conservative)
+        gamma=0.1,  # Minimum loss reduction required to make a split (higher = more conservative)
         random_state=42,
         eval_metric="mlogloss",
+        early_stopping_rounds=10,  # Stop if validation loss doesn't improve for 10 rounds (XGBoost 2.0+ requires this in constructor)
+        verbose=1,  # Show training progress (0=silent, 1=warnings, 2=info, 3=debug)
     )
     
-    model.fit(X, y_encoded)
+    logging.info("  Starting XGBoost training (this may take a while)...")
+    start_time = datetime.now()
+    
+    # Fit with early stopping on validation set
+    model.fit(
+        X_train, y_train,
+        eval_set=[(X_train, y_train), (X_val, y_val)],
+        verbose=False  # Suppress per-iteration output, we'll log summary
+    )
+    
+    training_time = (datetime.now() - start_time).total_seconds()
+    
+    # Log feature importance
+    feature_importance = model.feature_importances_
+    importance_dict = dict(zip(feature_names, feature_importance))
+    top_features = sorted(importance_dict.items(), key=lambda x: x[1], reverse=True)[:10]
+    
+    logging.info(f"  ✓ XGBoost training completed in {training_time:.1f} seconds")
+    logging.info(f"  Best iteration: {model.best_iteration if hasattr(model, 'best_iteration') else 'N/A'}")
+    logging.info(f"  Top 10 most important features:")
+    for feat, imp in top_features:
+        logging.info(f"    {feat}: {imp:.4f}")
+    
+    # Use full training set for final model (if we want to retrain on all data)
+    # For now, model is trained on X_train, but we'll use it on X for baseline
+    # In practice, if we want to use all data, we'd retrain without early stopping
+    # For baseline computation, we'll use the validation model or retrain on full data
+    
+    # Compute baseline as average predicted probabilities on full training data
+    # Retrain on full dataset for final model (early stopping already determined optimal complexity)
+    logging.info("Retraining on full dataset for final model...")
+    
+    # Determine best iteration (check for None, not just truthy since 0 is valid)
+    if hasattr(model, 'best_iteration') and model.best_iteration is not None:
+        best_iter = model.best_iteration + 5  # Add 5 for safety margin
+        logging.info(f"  Using best_iteration={model.best_iteration} + 5 = {best_iter} trees")
+    else:
+        best_iter = 100  # Default if best_iteration not available
+        logging.info(f"  Using default n_estimators={best_iter} (best_iteration not available)")
+    
+    model_full = xgb.XGBClassifier(
+        objective="multi:softprob",
+        num_class=3,
+        n_estimators=best_iter,
+        max_depth=4,
+        learning_rate=0.1,
+        subsample=0.8,
+        colsample_bytree=0.8,
+        reg_alpha=1.0,
+        reg_lambda=1.0,
+        min_child_weight=3,
+        gamma=0.1,
+        random_state=42,
+        eval_metric="mlogloss",
+        verbose=0,
+    )
+    model_full.fit(X, y_encoded)
+    
+    # Use full model for predictions
+    model = model_full
+    
+    # Compute baseline as average predicted probabilities on training data
+    # This is the gold-standard approach, independent of SHAP's buggy expected_value
+    # for multiclass XGBoost 3.1+ models
+    logging.info("Computing baseline from training data predictions...")
+    training_probs = model.predict_proba(X)
+    baseline_array = training_probs.mean(axis=0)  # Shape: (3,) for [A=0, D=1, H=2]
+    
+    # Convert to dict using explicit class order
+    # LabelEncoder encodes alphabetically: A=0, D=1, H=2
+    baseline = {
+        "away": float(baseline_array[0]),   # Class 0 = A (Away)
+        "draw": float(baseline_array[1]),   # Class 1 = D (Draw)
+        "home": float(baseline_array[2]),   # Class 2 = H (Home)
+    }
     
     logging.info(f"XGBoost model trained successfully for {league}")
-    return model, feature_names
+    logging.info(f"Computed baseline from training data: Draw={baseline['draw']:.4f}, "
+                f"Home={baseline['home']:.4f}, Away={baseline['away']:.4f}")
+    
+    return model, feature_names, baseline
 
 
-def _load_cached_ml_model(cache_file: Path) -> tuple[Any, list[str] | None, str | None]:
-    """Load cached ML model from file."""
+def _load_cached_ml_model(cache_file: Path) -> tuple[Any, list[str] | None, str | None, dict[str, float] | None]:
+    """Load cached ML model from file.
+    
+    Returns:
+        Tuple of (model, feature_names, fingerprint, baseline) where baseline is {"draw": float, "home": float, "away": float}
+    """
     if not XGBOOST_AVAILABLE:
-        return None, None, None
+        return None, None, None, None
     
     try:
         if not cache_file.exists():
-            return None, None, None
+            return None, None, None, None
         
         cache_data = json.loads(cache_file.read_text(encoding="utf-8"))
         fingerprint = cache_data.get("fingerprint")
         feature_names = cache_data.get("feature_names", [])
         model_path = cache_file.parent / cache_data.get("model_file", "")
+        baseline = cache_data.get("baseline")  # Load baseline from cache (may be None for old caches)
         
         if not model_path.exists():
-            return None, None, None
+            return None, None, None, None
         
         model = pickle.loads(model_path.read_bytes())
-        return model, feature_names, fingerprint
+        return model, feature_names, fingerprint, baseline
     except Exception as e:
         logging.warning(f"Could not load cached ML model: {e}")
-        return None, None, None
+        return None, None, None, None
 
 
-def _save_cached_ml_model(cache_file: Path, model: Any, feature_names: list[str], fingerprint: str) -> None:
-    """Save ML model with fingerprint to cache."""
+def _save_cached_ml_model(cache_file: Path, model: Any, feature_names: list[str], fingerprint: str, baseline: dict[str, float] | None = None) -> None:
+    """Save ML model with fingerprint and baseline to cache.
+    
+    Args:
+        baseline: Baseline probabilities {"draw": float, "home": float, "away": float} 
+                  computed from training data. Should match class order: [Draw=0, Home=1, Away=2]
+    """
     if not XGBOOST_AVAILABLE:
         return
     
@@ -458,13 +701,20 @@ def _save_cached_ml_model(cache_file: Path, model: Any, feature_names: list[str]
             "feature_names": feature_names,
             "model_file": model_file.name,
             "timestamp": datetime.utcnow().isoformat() + "Z",
+            "class_order": CLASS_ORDER,  # Store class order for consistency
         }
+        
+        # Store baseline if provided (computed from training data)
+        if baseline is not None:
+            cache_data["baseline"] = baseline
+            cache_data["baseline_source"] = "training_data"  # Mark where baseline comes from
+        
         cache_file.write_text(json.dumps(cache_data, indent=2), encoding="utf-8")
     except Exception as e:
         logging.warning(f"Could not save ML model cache: {e}")
 
 
-def fit_ml_model(historical_data: dict, league: str, use_all_leagues: bool = True) -> tuple[Any, list[str] | None]:
+def fit_ml_model(historical_data: dict, league: str, use_all_leagues: bool = True) -> tuple[Any, list[str] | None, dict[str, float] | None]:
     """
     Fit or load cached XGBoost model for a league.
     
@@ -472,9 +722,13 @@ def fit_ml_model(historical_data: dict, league: str, use_all_leagues: bool = Tru
     Otherwise, trains on the specified league's data only.
     
     Uses caching to avoid redundant retraining when historical data hasn't changed.
+    
+    Returns:
+        Tuple of (model, feature_names, baseline) where baseline is {"draw": float, "home": float, "away": float}
+        Baseline is computed from training data predictions (not from SHAP's buggy expected_value).
     """
     if not XGBOOST_AVAILABLE:
-        return None, None
+        return None, None, None
     
     # If training on all leagues, load all historical data
     if use_all_leagues:
@@ -515,23 +769,33 @@ def fit_ml_model(historical_data: dict, league: str, use_all_leagues: bool = Tru
     
     # Check cache (using cache_league_key)
     cache_file = data_dir() / f"ml_model_cache_{cache_league_key}.json"
-    cached_model, cached_features, cached_fp = _load_cached_ml_model(cache_file)
+    cached_model, cached_features, cached_fp, cached_baseline = _load_cached_ml_model(cache_file)
     
     if cached_model and cached_features and cached_fp == data_fingerprint:
-        logging.debug(f"Using cached ML model for {cache_league_key} (fingerprint: {data_fingerprint[:16]}...)")
-        return cached_model, cached_features
+        logging.debug(f"Using cached ML model for {cache_league_key} (fingerprint: {cached_fp[:16]}...)")
+        if cached_baseline:
+            logging.info(f"Using training-data baseline for SHAP explanations: "
+                        f"Draw={cached_baseline.get('draw', 0):.4f}, "
+                        f"Home={cached_baseline.get('home', 0):.4f}, "
+                        f"Away={cached_baseline.get('away', 0):.4f}")
+        return cached_model, cached_features, cached_baseline
     
     # Need to train - log this only when actually training
     if use_all_leagues:
         logging.info(f"Training ML model on combined data from all leagues ({len(training_data)} total matches)")
     
     # Train new model
-    model, feature_names = train_ml_model(training_data, cache_league_key)
-    if model and feature_names:
-        _save_cached_ml_model(cache_file, model, feature_names, data_fingerprint)
+    model, feature_names, baseline = train_ml_model(training_data, cache_league_key)
+    if model and feature_names and baseline:
+        _save_cached_ml_model(cache_file, model, feature_names, data_fingerprint, baseline)
         logging.info(f"Trained and cached ML model for {cache_league_key} (fingerprint: {data_fingerprint[:16]}...)")
+        logging.info(f"Using training-data baseline for SHAP explanations: "
+                    f"Draw={baseline.get('draw', 0):.4f}, "
+                    f"Home={baseline.get('home', 0):.4f}, "
+                    f"Away={baseline.get('away', 0):.4f}")
+        return model, feature_names, baseline
     
-    return model, feature_names
+    return None, None, None
 
 
 def predict_with_ml_model(
@@ -573,14 +837,14 @@ def predict_with_ml_model(
         probs = model.predict_proba(X)[0]
         
         # Map to H/D/A
-        # LabelEncoder maps labels alphabetically: D=0, H=1, A=2
+        # LabelEncoder maps labels alphabetically: A=0, D=1, H=2
         # XGBoost's model.classes_ contains the encoded integers [0, 1, 2]
-        # predict_proba returns probabilities in class order: [P(0), P(1), P(2)]
-        # So: probs[0] = P(Draw), probs[1] = P(Home), probs[2] = P(Away)
+        # predict_proba returns probabilities in encoded class order: [P(0), P(1), P(2)]
+        # So: probs[0] = P(A=0=Away), probs[1] = P(D=1=Draw), probs[2] = P(H=2=Home)
         if len(probs) == 3:
-            p_draw = float(probs[0])  # Class 0 = D (Draw)
-            p_home = float(probs[1])  # Class 1 = H (Home)
-            p_away = float(probs[2])  # Class 2 = A (Away)
+            p_away = float(probs[0])  # Class 0 = A (Away)
+            p_draw = float(probs[1])  # Class 1 = D (Draw)
+            p_home = float(probs[2])  # Class 2 = H (Home)
         else:
             # Fallback if unexpected number of classes
             logging.warning(f"Unexpected number of classes in ML model: {len(probs)}")
@@ -597,10 +861,17 @@ def get_shap_explanations(
     feature_names: list[str],
     features: dict[str, float],
     reference_date: datetime | None = None,
+    baseline: dict[str, float] | None = None,
 ) -> dict[str, Any] | None:
     """
     Compute SHAP values for a single prediction to explain feature contributions.
-    
+
+    Args:
+        baseline: Optional baseline probabilities {"draw": float, "home": float, "away": float}
+                  computed from training data. If provided, this will be used instead of SHAP's
+                  buggy expected_value (which is incorrect for multiclass XGBoost 3.1+).
+                  Should match class order: [Draw=0, Home=1, Away=2]
+
     Returns:
         Dict with SHAP values per outcome class, or None if unavailable
     """
@@ -743,21 +1014,10 @@ def get_shap_explanations(
         # Each array is shape (1, n_features) - one sample, n_features contributions
         shap_values = explainer.shap_values(X)
         
-        # Diagnostic: Log raw SHAP values statistics
-        try:
-            if isinstance(shap_values, list) and len(shap_values) >= 3:
-                # Check raw values before any processing
-                raw_draw = shap_values[0]
-                raw_home = shap_values[1]
-                raw_away = shap_values[2]
-                max_draw = np.max(np.abs(raw_draw)) if hasattr(raw_draw, '__iter__') else abs(float(raw_draw))
-                max_home = np.max(np.abs(raw_home)) if hasattr(raw_home, '__iter__') else abs(float(raw_home))
-                max_away = np.max(np.abs(raw_away)) if hasattr(raw_away, '__iter__') else abs(float(raw_away))
-                logging.info(f"[SHAP Diagnostic] Raw SHAP values - max abs: draw={max_draw:.6f}, home={max_home:.6f}, away={max_away:.6f}")
-                if max_draw < 1e-10 and max_home < 1e-10 and max_away < 1e-10:
-                    logging.warning(f"[SHAP Diagnostic] All raw SHAP values are zero - TreeExplainer computed nothing")
-        except Exception as diag_err:
-            logging.warning(f"[SHAP Diagnostic] Could not analyze raw SHAP values: {diag_err}")
+        # Diagnostic: Log what shap_values actually is
+        logging.info(f"[SHAP Diagnostic] shap_values type: {type(shap_values)}, len: {len(shap_values) if hasattr(shap_values, '__len__') else 'N/A'}")
+        if hasattr(shap_values, 'shape'):
+            logging.info(f"[SHAP Diagnostic] shap_values shape: {shap_values.shape}")
         
         # Debug: Log which explainer was used and check if values are non-zero
         if explainer_type == "Explainer (fallback)":
@@ -777,6 +1037,7 @@ def get_shap_explanations(
                 elif shap_values.shape[2] == 3:
                     # Format: (n_samples=1, n_features, n_classes=3)
                     shap_values = [shap_values[0, :, i] for i in range(3)]
+                    logging.info(f"[SHAP Diagnostic] Converted from shape (1, {shap_values[0].shape[0]}, 3) to list of 3 arrays with shapes: {[sv.shape for sv in shap_values]}")
                 else:
                     logging.debug(f"SHAP array shape {shap_values.shape} - trying to infer class dimension")
                     # Try to find dimension with size 3 (number of classes)
@@ -820,58 +1081,94 @@ def get_shap_explanations(
             logging.warning(f"Unexpected SHAP values format: expected list of 3 arrays or array, got {type(shap_values)}, shape={getattr(shap_values, 'shape', 'N/A')}")
             return None
         
-        # Get baseline (expected values)
-        # Wrap in try/except since expected_value format can vary
+        # Diagnostic: Log raw SHAP values statistics (after format conversion)
         try:
-            expected_value = explainer.expected_value
-        except Exception as e:
-            logging.debug(f"Error accessing explainer.expected_value: {e}")
-            expected_value = None
+            if isinstance(shap_values, list) and len(shap_values) >= 3:
+                # Check raw values after format conversion
+                # LabelEncoder encodes: A=0, D=1, H=2
+                raw_away = shap_values[0]  # Class 0 = A (Away)
+                raw_draw = shap_values[1]  # Class 1 = D (Draw)
+                raw_home = shap_values[2]  # Class 2 = H (Home)
+                max_draw = np.max(np.abs(raw_draw)) if hasattr(raw_draw, '__iter__') else abs(float(raw_draw))
+                max_home = np.max(np.abs(raw_home)) if hasattr(raw_home, '__iter__') else abs(float(raw_home))
+                max_away = np.max(np.abs(raw_away)) if hasattr(raw_away, '__iter__') else abs(float(raw_away))
+                logging.info(f"[SHAP Diagnostic] Raw SHAP values - max abs: draw={max_draw:.6f}, home={max_home:.6f}, away={max_away:.6f}")
+                if max_draw < 1e-10 and max_home < 1e-10 and max_away < 1e-10:
+                    logging.warning(f"[SHAP Diagnostic] All raw SHAP values are zero - TreeExplainer computed nothing")
+        except Exception as diag_err:
+            logging.warning(f"[SHAP Diagnostic] Could not analyze raw SHAP values: {diag_err}")
         
-        # Handle different expected_value formats
-        baseline_home = baseline_draw = baseline_away = 0.33  # Default
-        
-        # Handle expected_value - check type first to avoid errors
-        if expected_value is None:
-            # Use default if expected_value is None
-            pass  # Already set to defaults
-        elif isinstance(expected_value, np.ndarray) and len(expected_value) >= 3:
-            try:
-                baseline_home = float(expected_value[1])  # Class 1 = Home
-                baseline_draw = float(expected_value[0])  # Class 0 = Draw
-                baseline_away = float(expected_value[2])  # Class 2 = Away
-            except (ValueError, TypeError, IndexError) as e:
-                logging.debug(f"Error converting numpy array expected_value to float: {e}")
-        elif isinstance(expected_value, (list, tuple)) and len(expected_value) >= 3:
-            # Handle list/tuple format
-            try:
-                baseline_home = float(expected_value[1])
-                baseline_draw = float(expected_value[0])
-                baseline_away = float(expected_value[2])
-            except (ValueError, TypeError, IndexError) as e:
-                logging.debug(f"Error converting list/tuple expected_value to float: {e}")
-        elif isinstance(expected_value, str):
-            # Handle string representation (e.g., '[0.3, 0.3, 0.4]' or '[3.0560273E-1,2.5976232E-1,4.3463498E-1]')
-            try:
-                import re
-                # Remove brackets and split by comma
-                # Handle formats like '[3.0560273E-1,2.5976232E-1,4.3463498E-1]'
-                cleaned = expected_value.strip('[]')
-                # Split by comma, handling scientific notation
-                values = [float(x.strip()) for x in re.split(r',\s*', cleaned)]
-                if len(values) >= 3:
-                    baseline_home = values[1]
-                    baseline_draw = values[0]
-                    baseline_away = values[2]
-            except (ValueError, TypeError, IndexError) as e:
-                logging.debug(f"Could not parse expected_value string '{expected_value}': {e}")
+        # Get baseline (expected values)
+        # Use provided baseline if available (computed from training data - gold standard)
+        # Otherwise fall back to SHAP's expected_value (which may be buggy for multiclass XGBoost 3.1+)
+        if baseline is not None:
+            # Use the provided baseline (computed from training data)
+            # Baseline dict keys match CLASS_NAMES: "draw", "home", "away"
+            baseline_draw = baseline.get("draw", 0.33)
+            baseline_home = baseline.get("home", 0.33)
+            baseline_away = baseline.get("away", 0.33)
+            logging.debug(f"Using training-data baseline: Draw={baseline_draw:.4f}, "
+                         f"Home={baseline_home:.4f}, Away={baseline_away:.4f}")
         else:
-            logging.debug(f"Unexpected expected_value format: {type(expected_value)}, value: {repr(expected_value)[:100]}")
+            # Fallback to SHAP's expected_value (may be incorrect for multiclass XGBoost 3.1+)
+            # SHAP's expected_value is buggy and returns uniform values [0.3056, 0.3056, 0.3056]
+            # instead of the correct base_score [0.3056, 0.2598, 0.4346]
+            try:
+                expected_value = explainer.expected_value
+            except Exception as e:
+                logging.debug(f"Error accessing explainer.expected_value: {e}")
+                expected_value = None
+            
+            # Handle different expected_value formats
+            baseline_home = baseline_draw = baseline_away = 0.33  # Default
+            
+            # Handle expected_value - check type first to avoid errors
+            if expected_value is None:
+                # Use default if expected_value is None
+                pass  # Already set to defaults
+            elif isinstance(expected_value, np.ndarray) and len(expected_value) >= 3:
+                try:
+                    # Map according to class order: [A=0, D=1, H=2] (alphabetical)
+                    baseline_away = float(expected_value[0])  # Class 0 = A (Away)
+                    baseline_draw = float(expected_value[1])  # Class 1 = D (Draw)
+                    baseline_home = float(expected_value[2])  # Class 2 = H (Home)
+                except (ValueError, TypeError, IndexError) as e:
+                    logging.debug(f"Error converting numpy array expected_value to float: {e}")
+            elif isinstance(expected_value, (list, tuple)) and len(expected_value) >= 3:
+                # Handle list/tuple format
+                try:
+                    baseline_away = float(expected_value[0])
+                    baseline_draw = float(expected_value[1])
+                    baseline_home = float(expected_value[2])
+                except (ValueError, TypeError, IndexError) as e:
+                    logging.debug(f"Error converting list/tuple expected_value to float: {e}")
+            elif isinstance(expected_value, str):
+                # Handle string representation (e.g., '[0.3, 0.3, 0.4]' or '[3.0560273E-1,2.5976232E-1,4.3463498E-1]')
+                try:
+                    import re
+                    # Remove brackets and split by comma
+                    # Handle formats like '[3.0560273E-1,2.5976232E-1,4.3463498E-1]'
+                    cleaned = expected_value.strip('[]')
+                    # Split by comma, handling scientific notation
+                    values = [float(x.strip()) for x in re.split(r',\s*', cleaned)]
+                    if len(values) >= 3:
+                        # Map according to class order: [A=0, D=1, H=2] (alphabetical)
+                        baseline_away = values[0]
+                        baseline_draw = values[1]
+                        baseline_home = values[2]
+                except (ValueError, TypeError, IndexError) as e:
+                    logging.debug(f"Could not parse expected_value string '{expected_value}': {e}")
+            else:
+                logging.debug(f"Unexpected expected_value format: {type(expected_value)}, value: {repr(expected_value)[:100]}")
+            
+            logging.warning("Using SHAP's expected_value as baseline (may be incorrect for multiclass XGBoost 3.1+). "
+                          "Consider providing baseline computed from training data.")
         
         # Format SHAP values per class
-        # shap_values[0] = contributions to Draw (class 0)
-        # shap_values[1] = contributions to Home (class 1)
-        # shap_values[2] = contributions to Away (class 2)
+        # LabelEncoder encodes alphabetically: A=0, D=1, H=2
+        # shap_values[0] = contributions to Away (class 0 = A)
+        # shap_values[1] = contributions to Draw (class 1 = D)
+        # shap_values[2] = contributions to Home (class 2 = H)
         explanations = {
             "baseline": {
                 "home": baseline_home,
@@ -891,9 +1188,10 @@ def get_shap_explanations(
             return None
         
         # Get the actual shape of the first class array to determine indexing
-        draw_shape = shap_values[0].shape
-        home_shape = shap_values[1].shape
-        away_shape = shap_values[2].shape
+        # LabelEncoder encodes: A=0, D=1, H=2
+        away_shape = shap_values[0].shape  # Class 0 = A (Away)
+        draw_shape = shap_values[1].shape  # Class 1 = D (Draw)
+        home_shape = shap_values[2].shape  # Class 2 = H (Home)
         
         # Determine number of features from the array shape
         if len(draw_shape) == 2:
@@ -905,23 +1203,24 @@ def get_shap_explanations(
             n_features = draw_shape[0]
             feature_idx_offset = None  # No sample dimension
         else:
-            logging.warning(f"Unexpected shap_values[0] shape: {draw_shape}")
+            logging.warning(f"Unexpected shap_values shape: away={away_shape}, draw={draw_shape}, home={home_shape}")
             return None
         
         # Extract feature contributions
         # Debug: Log sample values to verify SHAP is working - check first few values
         try:
             # Try to get first feature contribution from each class
+            # LabelEncoder encodes: A=0, D=1, H=2
             if feature_idx_offset is None:
                 # 1D array
-                sample_draw = float(shap_values[0][0]) if len(shap_values[0]) > 0 else 0.0
-                sample_home = float(shap_values[1][0]) if len(shap_values[1]) > 0 else 0.0
-                sample_away = float(shap_values[2][0]) if len(shap_values[2]) > 0 else 0.0
+                sample_away = float(shap_values[0][0]) if len(shap_values[0]) > 0 else 0.0  # Class 0 = A
+                sample_draw = float(shap_values[1][0]) if len(shap_values[1]) > 0 else 0.0  # Class 1 = D
+                sample_home = float(shap_values[2][0]) if len(shap_values[2]) > 0 else 0.0  # Class 2 = H
             else:
                 # 2D array
-                sample_draw = float(shap_values[0][0][0]) if shap_values[0].shape[0] > 0 and shap_values[0].shape[1] > 0 else 0.0
-                sample_home = float(shap_values[1][0][0]) if shap_values[1].shape[0] > 0 and shap_values[1].shape[1] > 0 else 0.0
-                sample_away = float(shap_values[2][0][0]) if shap_values[2].shape[0] > 0 and shap_values[2].shape[1] > 0 else 0.0
+                sample_away = float(shap_values[0][0][0]) if shap_values[0].shape[0] > 0 and shap_values[0].shape[1] > 0 else 0.0  # Class 0 = A
+                sample_draw = float(shap_values[1][0][0]) if shap_values[1].shape[0] > 0 and shap_values[1].shape[1] > 0 else 0.0  # Class 1 = D
+                sample_home = float(shap_values[2][0][0]) if shap_values[2].shape[0] > 0 and shap_values[2].shape[1] > 0 else 0.0  # Class 2 = H
             
             # Check if all values are essentially zero
             if abs(sample_draw) < 1e-10 and abs(sample_home) < 1e-10 and abs(sample_away) < 1e-10:
@@ -937,26 +1236,28 @@ def get_shap_explanations(
                 break  # Skip if we've exhausted the SHAP array
             
             # Extract SHAP value based on array shape
+            # LabelEncoder encodes: A=0, D=1, H=2
             try:
                 if feature_idx_offset is None:
                     # Flat array: shap_values[class][feature_idx]
-                    draw_val = shap_values[0][i]
-                    home_val = shap_values[1][i]
-                    away_val = shap_values[2][i]
+                    away_val = shap_values[0][i]  # Class 0 = A (Away)
+                    draw_val = shap_values[1][i]  # Class 1 = D (Draw)
+                    home_val = shap_values[2][i]  # Class 2 = H (Home)
                 else:
                     # 2D array: shap_values[class][sample_idx][feature_idx]
-                    draw_val = shap_values[0][0][i]
-                    home_val = shap_values[1][0][i]
-                    away_val = shap_values[2][0][i]
+                    away_val = shap_values[0][0][i]  # Class 0 = A (Away)
+                    draw_val = shap_values[1][0][i]  # Class 1 = D (Draw)
+                    home_val = shap_values[2][0][i]  # Class 2 = H (Home)
                 
+                explanations["away"][feature] = float(away_val)
                 explanations["draw"][feature] = float(draw_val)
                 explanations["home"][feature] = float(home_val)
-                explanations["away"][feature] = float(away_val)
                 num_features_extracted += 1
             except (IndexError, TypeError) as e:
                 logging.debug(f"Error extracting SHAP value for feature {i} ({feature}): {e}, shapes: draw={draw_shape}, home={home_shape}, away={away_shape}")
                 continue
         
+        logging.info(f"[SHAP Diagnostic] Extracted {num_features_extracted} features from SHAP values (n_features={n_features}, num_feature_names={len(feature_names)})")
         if num_features_extracted == 0:
             logging.warning(f"No features extracted from SHAP values. Shapes: draw={draw_shape}, home={home_shape}, away={away_shape}, n_features={n_features}, num_feature_names={len(feature_names)}")
             return None
@@ -996,6 +1297,7 @@ def get_shap_explanations(
             "away": get_top_features("away"),
         }
         
+        logging.info(f"[SHAP Diagnostic] Successfully created SHAP explanations with {len(explanations.get('home', {}))} home features, {len(explanations.get('draw', {}))} draw features, {len(explanations.get('away', {}))} away features")
         return explanations
     except Exception as e:
         # Log more details to help diagnose issues

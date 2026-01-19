@@ -59,5 +59,16 @@
     "league_SerieB"
   ],
   "model_file": "ml_model_cache_all_leagues_model.pkl",
-  "timestamp": "2026-01-18T19:47:58.864670Z"
+  "timestamp": "2026-01-19T21:37:14.909124Z",
+  "class_order": [
+    "A",
+    "D",
+    "H"
+  ],
+  "baseline": {
+    "away": 0.2971547842025757,
+    "draw": 0.2635384202003479,
+    "home": 0.4393063187599182
+  },
+  "baseline_source": "training_data"
 }

@@ -144,7 +144,7 @@ def generate_predictions(league: str) -> PredictReport:
     isotonic_cal = core.fit_isotonic_calibration(hist, league)
     
     # Train/load ML model (XGBoost)
-    ml_model_obj, ml_feature_names = ml_model.fit_ml_model(hist, league)
+    ml_model_obj, ml_feature_names, ml_baseline = ml_model.fit_ml_model(hist, league)
 
     # Load existing predictions to preserve finished matches
     existing_predictions = load_json(predictions_path(league), default=[]) or []
@@ -236,11 +236,14 @@ def generate_predictions(league: str) -> PredictReport:
                     league=league
                 )
                 shap_explanations = ml_model.get_shap_explanations(
-                    ml_model_obj, ml_feature_names, ml_features, datetime.now()
+                    ml_model_obj, ml_feature_names, ml_features, datetime.now(), baseline=ml_baseline
                 )
+                logging.info(f"[SHAP] Got shap_explanations for {home_name} vs {away_name}: {shap_explanations is not None}")
             except Exception as e:
                 # Log at info level so we can see if SHAP is failing
-                logging.debug(f"SHAP explanation computation failed for {home_name} vs {away_name}: {e}")
+                logging.warning(f"SHAP explanation computation failed for {home_name} vs {away_name}: {e}")
+                import traceback
+                logging.debug(f"SHAP error traceback:\n{traceback.format_exc()}")
 
         market = core._implied_probs_from_decimal_odds(h_odds, d_odds, a_odds)
         blended = None
@@ -316,6 +319,9 @@ def generate_predictions(league: str) -> PredictReport:
         ml_pred = None
         if ml_probs:
             ml_pred = {"home": round(ml_probs[0], 4), "draw": round(ml_probs[1], 4), "away": round(ml_probs[2], 4)}
+        
+        # Debug: Log shap_explanations before creating new_pred
+        logging.info(f"[SHAP] Creating prediction dict for {home_name} vs {away_name}, shap_explanations is None: {shap_explanations is None}")
         
         new_pred = {
             "league": league,
