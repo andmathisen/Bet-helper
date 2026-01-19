@@ -1,0 +1,8800 @@
+{
+  "04 Jan 2026_Sevilla FC-Celta de Vigo": {
+    "Date": "04 Jan 2026",
+    "Match": "Sevilla FC-Celta de Vigo",
+    "Score": "0:1",
+    "Odds": "2.55|3.25|3.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "1.21"
+      }
+    }
+  },
+  "04 Jan 2026_Levante UD-RCD Espanyol": {
+    "Date": "04 Jan 2026",
+    "Match": "Levante UD-RCD Espanyol",
+    "Score": "1:1",
+    "Odds": "3.15|3.25|2.4",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "16"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.85",
+        "away": "1.76"
+      }
+    }
+  },
+  "04 Jan 2026_Rayo Vallecano-RCD Mallorca": {
+    "Date": "04 Jan 2026",
+    "Match": "Rayo Vallecano-RCD Mallorca",
+    "Score": "2:1",
+    "Odds": "1.93|3.25|4.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.47",
+        "away": "0.98"
+      }
+    }
+  },
+  "04 Jan 2026_Valencia CF-Elche CF": {
+    "Date": "04 Jan 2026",
+    "Match": "Valencia CF-Elche CF",
+    "Score": "1:1",
+    "Odds": "2.14|3.1|3.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.68",
+        "away": "0.68"
+      }
+    }
+  },
+  "04 Jan 2026_Girona FC-CA Osasuna": {
+    "Date": "04 Jan 2026",
+    "Match": "Girona FC-CA Osasuna",
+    "Score": "1:0",
+    "Odds": "2.35|3.2|3.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "cards": {
+        "home": "4",
+        "away": "6"
+      },
+      "corners": {
+        "home": "2",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.07",
+        "away": "1.18"
+      }
+    }
+  },
+  "04 Jan 2026_Villarreal-Deportivo Alavés": {
+    "Date": "04 Jan 2026",
+    "Match": "Villarreal-Deportivo Alavés",
+    "Score": "3:1",
+    "Odds": "1.48|4.2|6.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "1.71"
+      }
+    }
+  },
+  "04 Jan 2026_Real Oviedo-Real Betis": {
+    "Date": "04 Jan 2026",
+    "Match": "Real Oviedo-Real Betis",
+    "Score": "1:1",
+    "Odds": "4.25|3.45|1.98",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.41",
+        "away": "1.72"
+      }
+    }
+  },
+  "04 Jan 2026_Getafe CF-Real Sociedad": {
+    "Date": "04 Jan 2026",
+    "Match": "Getafe CF-Real Sociedad",
+    "Score": "1:2",
+    "Odds": "3.5|2.91|2.37",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.79",
+        "away": "1.58"
+      }
+    }
+  },
+  "04 Jan 2026_Real Sociedad-Atlético Madrid": {
+    "Date": "04 Jan 2026",
+    "Match": "Real Sociedad-Atlético Madrid",
+    "Score": "1:1",
+    "Odds": "3.9|3.73|1.95",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.09",
+        "away": "1.04"
+      }
+    }
+  },
+  "04 Jan 2026_Deportivo Alavés-Real Oviedo": {
+    "Date": "04 Jan 2026",
+    "Match": "Deportivo Alavés-Real Oviedo",
+    "Score": "1:1",
+    "Odds": "1.87|3.1|4.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "2.11",
+        "away": "1.92"
+      }
+    }
+  },
+  "21 Dec 2025_RCD Mallorca-Girona FC": {
+    "Date": "21 Dec 2025",
+    "Match": "RCD Mallorca-Girona FC",
+    "Score": "1:2",
+    "Odds": "2.2|3.0|3.45",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.06",
+        "away": "1.18"
+      }
+    }
+  },
+  "21 Dec 2025_Real Madrid-Real Betis": {
+    "Date": "21 Dec 2025",
+    "Match": "Real Madrid-Real Betis",
+    "Score": "5:1",
+    "Odds": "1.49|4.7|5.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.30",
+        "away": "1.49"
+      }
+    }
+  },
+  "21 Dec 2025_Sevilla FC-Levante UD": {
+    "Date": "21 Dec 2025",
+    "Match": "Sevilla FC-Levante UD",
+    "Score": "0:3",
+    "Odds": "1.81|3.7|4.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "0.81"
+      }
+    }
+  },
+  "21 Dec 2025_RCD Espanyol-FC Barcelona": {
+    "Date": "21 Dec 2025",
+    "Match": "RCD Espanyol-FC Barcelona",
+    "Score": "0:2",
+    "Odds": "6.0|4.84|1.46",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "31%",
+        "away": "69%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "1.75"
+      }
+    }
+  },
+  "21 Dec 2025_Elche CF-Villarreal": {
+    "Date": "21 Dec 2025",
+    "Match": "Elche CF-Villarreal",
+    "Score": "1:3",
+    "Odds": "3.25|3.4|2.13",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "78%",
+        "away": "22%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.86",
+        "away": "1.21"
+      }
+    }
+  },
+  "21 Dec 2025_CA Osasuna-Athletic Club Bilbao": {
+    "Date": "21 Dec 2025",
+    "Match": "CA Osasuna-Athletic Club Bilbao",
+    "Score": "1:1",
+    "Odds": "3.1|3.0|2.36",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.17",
+        "away": "1.84"
+      }
+    }
+  },
+  "21 Dec 2025_Celta de Vigo-Valencia CF": {
+    "Date": "21 Dec 2025",
+    "Match": "Celta de Vigo-Valencia CF",
+    "Score": "4:1",
+    "Odds": "1.95|3.28|4.05",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.78"
+      }
+    }
+  },
+  "21 Dec 2025_Rayo Vallecano-Getafe CF": {
+    "Date": "21 Dec 2025",
+    "Match": "Rayo Vallecano-Getafe CF",
+    "Score": "1:1",
+    "Odds": "2.06|2.9|4.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.37",
+        "away": "1.35"
+      }
+    }
+  },
+  "21 Dec 2025_Athletic Club Bilbao-RCD Espanyol": {
+    "Date": "21 Dec 2025",
+    "Match": "Athletic Club Bilbao-RCD Espanyol",
+    "Score": "1:2",
+    "Odds": "1.67|3.2|4.75",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "cards": {
+        "home": "5",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.03",
+        "away": "1.20"
+      }
+    }
+  },
+  "21 Dec 2025_Real Betis-Getafe CF": {
+    "Date": "21 Dec 2025",
+    "Match": "Real Betis-Getafe CF",
+    "Score": "4:0",
+    "Odds": "1.61|3.28|5.35",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "12"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.01",
+        "away": "1.55"
+      }
+    }
+  },
+  "14 Dec 2025_Elche CF-Rayo Vallecano": {
+    "Date": "14 Dec 2025",
+    "Match": "Elche CF-Rayo Vallecano",
+    "Score": "4:0",
+    "Odds": "2.45|3.15|3.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.85",
+        "away": "2.00"
+      }
+    }
+  },
+  "14 Dec 2025_Villarreal-FC Barcelona": {
+    "Date": "14 Dec 2025",
+    "Match": "Villarreal-FC Barcelona",
+    "Score": "0:2",
+    "Odds": "3.7|4.43|1.75",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "21%",
+        "away": "79%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "14"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.50",
+        "away": "2.23"
+      }
+    }
+  },
+  "14 Dec 2025_Girona FC-Atlético Madrid": {
+    "Date": "14 Dec 2025",
+    "Match": "Girona FC-Atlético Madrid",
+    "Score": "0:3",
+    "Odds": "4.6|4.0|1.73",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "1.73"
+      }
+    }
+  },
+  "14 Dec 2025_Real Madrid-Sevilla FC": {
+    "Date": "14 Dec 2025",
+    "Match": "Real Madrid-Sevilla FC",
+    "Score": "2:0",
+    "Odds": "1.21|7.0|13.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.07",
+        "away": "1.43"
+      }
+    }
+  },
+  "14 Dec 2025_CA Osasuna-Deportivo Alavés": {
+    "Date": "14 Dec 2025",
+    "Match": "CA Osasuna-Deportivo Alavés",
+    "Score": "3:0",
+    "Odds": "2.2|2.9|3.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.86",
+        "away": "0.84"
+      }
+    }
+  },
+  "14 Dec 2025_Levante UD-Real Sociedad": {
+    "Date": "14 Dec 2025",
+    "Match": "Levante UD-Real Sociedad",
+    "Score": "1:1",
+    "Odds": "2.93|3.3|2.41",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "12"
+      },
+      "cards": {
+        "home": "6",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "1.83"
+      }
+    }
+  },
+  "14 Dec 2025_Real Oviedo-Celta de Vigo": {
+    "Date": "14 Dec 2025",
+    "Match": "Real Oviedo-Celta de Vigo",
+    "Score": "0:0",
+    "Odds": "3.6|3.3|2.16",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "0.73"
+      }
+    }
+  },
+  "14 Dec 2025_Valencia CF-RCD Mallorca": {
+    "Date": "14 Dec 2025",
+    "Match": "Valencia CF-RCD Mallorca",
+    "Score": "1:1",
+    "Odds": "1.98|3.25|4.2",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "2"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "12",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.79",
+        "away": "0.56"
+      }
+    }
+  },
+  "14 Dec 2025_Rayo Vallecano-Real Betis": {
+    "Date": "14 Dec 2025",
+    "Match": "Rayo Vallecano-Real Betis",
+    "Score": "0:0",
+    "Odds": "2.62|3.25|2.68",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.37",
+        "away": "1.46"
+      }
+    }
+  },
+  "14 Dec 2025_Deportivo Alavés-Real Madrid": {
+    "Date": "14 Dec 2025",
+    "Match": "Deportivo Alavés-Real Madrid",
+    "Score": "1:2",
+    "Odds": "5.4|3.9|1.44",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.93",
+        "away": "1.52"
+      }
+    }
+  },
+  "07 Dec 2025_Celta de Vigo-Athletic Club Bilbao": {
+    "Date": "07 Dec 2025",
+    "Match": "Celta de Vigo-Athletic Club Bilbao",
+    "Score": "2:0",
+    "Odds": "2.9|2.9|2.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.62",
+        "away": "1.48"
+      }
+    }
+  },
+  "07 Dec 2025_Sevilla FC-Real Oviedo": {
+    "Date": "07 Dec 2025",
+    "Match": "Sevilla FC-Real Oviedo",
+    "Score": "4:0",
+    "Odds": "2.06|3.22|4.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.53",
+        "away": "0.60"
+      }
+    }
+  },
+  "07 Dec 2025_Getafe CF-RCD Espanyol": {
+    "Date": "07 Dec 2025",
+    "Match": "Getafe CF-RCD Espanyol",
+    "Score": "0:1",
+    "Odds": "2.6|2.78|3.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "2"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.10",
+        "away": "0.81"
+      }
+    }
+  },
+  "07 Dec 2025_FC Barcelona-CA Osasuna": {
+    "Date": "07 Dec 2025",
+    "Match": "FC Barcelona-CA Osasuna",
+    "Score": "2:0",
+    "Odds": "1.2|7.2|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "80%",
+        "away": "20%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "1"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "14",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "6"
+      },
+      "xg": {
+        "home": "2.72",
+        "away": "0.46"
+      }
+    }
+  },
+  "07 Dec 2025_RCD Mallorca-Elche CF": {
+    "Date": "07 Dec 2025",
+    "Match": "RCD Mallorca-Elche CF",
+    "Score": "3:1",
+    "Odds": "2.45|3.0|3.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.82",
+        "away": "0.93"
+      }
+    }
+  },
+  "07 Dec 2025_Atlético Madrid-Valencia CF": {
+    "Date": "07 Dec 2025",
+    "Match": "Atlético Madrid-Valencia CF",
+    "Score": "2:1",
+    "Odds": "1.31|5.6|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.39",
+        "away": "1.31"
+      }
+    }
+  },
+  "07 Dec 2025_Real Sociedad-Girona FC": {
+    "Date": "07 Dec 2025",
+    "Match": "Real Sociedad-Girona FC",
+    "Score": "1:2",
+    "Odds": "1.75|3.75|4.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.50",
+        "away": "1.68"
+      }
+    }
+  },
+  "07 Dec 2025_CA Osasuna-Levante UD": {
+    "Date": "07 Dec 2025",
+    "Match": "CA Osasuna-Levante UD",
+    "Score": "2:0",
+    "Odds": "1.71|3.85|4.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "1.47"
+      }
+    }
+  },
+  "07 Dec 2025_Real Madrid-Celta de Vigo": {
+    "Date": "07 Dec 2025",
+    "Match": "Real Madrid-Celta de Vigo",
+    "Score": "0:2",
+    "Odds": "1.27|6.35|9.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "2"
+      },
+      "cards": {
+        "home": "9",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.49",
+        "away": "0.93"
+      }
+    }
+  },
+  "02 Dec 2025_RCD Espanyol-Rayo Vallecano": {
+    "Date": "02 Dec 2025",
+    "Match": "RCD Espanyol-Rayo Vallecano",
+    "Score": "1:0",
+    "Odds": "2.44|3.2|3.15",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "cards": {
+        "home": "4",
+        "away": "8"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.04",
+        "away": "0.82"
+      }
+    }
+  },
+  "02 Dec 2025_Valencia CF-Sevilla FC": {
+    "Date": "02 Dec 2025",
+    "Match": "Valencia CF-Sevilla FC",
+    "Score": "1:1",
+    "Odds": "1.94|3.3|3.85",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "6"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "0.80"
+      }
+    }
+  },
+  "02 Dec 2025_Elche CF-Girona FC": {
+    "Date": "02 Dec 2025",
+    "Match": "Elche CF-Girona FC",
+    "Score": "3:0",
+    "Odds": "2.1|3.3|3.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "1.15"
+      }
+    }
+  },
+  "02 Dec 2025_Athletic Club Bilbao-Atlético Madrid": {
+    "Date": "02 Dec 2025",
+    "Match": "Athletic Club Bilbao-Atlético Madrid",
+    "Score": "1:0",
+    "Odds": "3.25|3.17|2.66",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.01"
+      }
+    }
+  },
+  "02 Dec 2025_Real Betis-FC Barcelona": {
+    "Date": "02 Dec 2025",
+    "Match": "Real Betis-FC Barcelona",
+    "Score": "3:5",
+    "Odds": "4.04|4.5|1.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.79",
+        "away": "1.83"
+      }
+    }
+  },
+  "02 Dec 2025_Deportivo Alavés-Real Sociedad": {
+    "Date": "02 Dec 2025",
+    "Match": "Deportivo Alavés-Real Sociedad",
+    "Score": "1:0",
+    "Odds": "2.75|2.95|2.97",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "1.05"
+      }
+    }
+  },
+  "02 Dec 2025_Villarreal-Getafe CF": {
+    "Date": "02 Dec 2025",
+    "Match": "Villarreal-Getafe CF",
+    "Score": "2:0",
+    "Odds": "1.7|3.7|6.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.29",
+        "away": "0.59"
+      }
+    }
+  },
+  "02 Dec 2025_Real Oviedo-RCD Mallorca": {
+    "Date": "02 Dec 2025",
+    "Match": "Real Oviedo-RCD Mallorca",
+    "Score": "0:0",
+    "Odds": "2.59|3.0|3.05",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "6",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.54",
+        "away": "1.49"
+      }
+    }
+  },
+  "02 Dec 2025_Athletic Club Bilbao-Real Madrid": {
+    "Date": "02 Dec 2025",
+    "Match": "Athletic Club Bilbao-Real Madrid",
+    "Score": "0:3",
+    "Odds": "4.7|4.13|1.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "1.70"
+      }
+    }
+  },
+  "02 Dec 2025_FC Barcelona-Atlético Madrid": {
+    "Date": "02 Dec 2025",
+    "Match": "FC Barcelona-Atlético Madrid",
+    "Score": "3:1",
+    "Odds": "1.58|4.1|3.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.01",
+        "away": "0.87"
+      }
+    }
+  },
+  "28 Nov 2025_Rayo Vallecano-Valencia CF": {
+    "Date": "28 Nov 2025",
+    "Match": "Rayo Vallecano-Valencia CF",
+    "Score": "1:1",
+    "Odds": "1.84|3.25|3.65",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "10",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.05",
+        "away": "1.16"
+      }
+    }
+  },
+  "28 Nov 2025_Girona FC-Real Madrid": {
+    "Date": "28 Nov 2025",
+    "Match": "Girona FC-Real Madrid",
+    "Score": "1:1",
+    "Odds": "6.7|5.0|1.43",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "25"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "21"
+      },
+      "cards": {
+        "home": "3",
+        "away": "0"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.07",
+        "away": "2.60"
+      }
+    }
+  },
+  "28 Nov 2025_Celta de Vigo-RCD Espanyol": {
+    "Date": "28 Nov 2025",
+    "Match": "Celta de Vigo-RCD Espanyol",
+    "Score": "0:1",
+    "Odds": "2.0|3.3|3.92",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.29",
+        "away": "1.01"
+      }
+    }
+  },
+  "28 Nov 2025_Sevilla FC-Real Betis": {
+    "Date": "28 Nov 2025",
+    "Match": "Sevilla FC-Real Betis",
+    "Score": "0:2",
+    "Odds": "2.72|3.25|2.68",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.19",
+        "away": "1.14"
+      }
+    }
+  },
+  "28 Nov 2025_Real Sociedad-Villarreal": {
+    "Date": "28 Nov 2025",
+    "Match": "Real Sociedad-Villarreal",
+    "Score": "2:3",
+    "Odds": "2.6|3.0|2.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "7"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.03",
+        "away": "1.28"
+      }
+    }
+  },
+  "28 Nov 2025_Atlético Madrid-Real Oviedo": {
+    "Date": "28 Nov 2025",
+    "Match": "Atlético Madrid-Real Oviedo",
+    "Score": "2:0",
+    "Odds": "1.22|6.0|13.6",
+    "Result": "Home"
+  },
+  "28 Nov 2025_Levante UD-Athletic Club Bilbao": {
+    "Date": "28 Nov 2025",
+    "Match": "Levante UD-Athletic Club Bilbao",
+    "Score": "0:2",
+    "Odds": "3.2|3.3|2.19",
+    "Result": "Away"
+  },
+  "28 Nov 2025_FC Barcelona-Deportivo Alavés": {
+    "Date": "28 Nov 2025",
+    "Match": "FC Barcelona-Deportivo Alavés",
+    "Score": "3:1",
+    "Odds": "1.16|6.0|9.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "8"
+      },
+      "xg": {
+        "home": "2.02",
+        "away": "0.91"
+      }
+    }
+  },
+  "28 Nov 2025_RCD Mallorca-CA Osasuna": {
+    "Date": "28 Nov 2025",
+    "Match": "RCD Mallorca-CA Osasuna",
+    "Score": "2:2",
+    "Odds": "2.33|3.0|3.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.01",
+        "away": "1.43"
+      }
+    }
+  },
+  "28 Nov 2025_Getafe CF-Elche CF": {
+    "Date": "28 Nov 2025",
+    "Match": "Getafe CF-Elche CF",
+    "Score": "1:0",
+    "Odds": "2.22|2.7|3.65",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "34%",
+        "away": "66%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.65",
+        "away": "1.10"
+      }
+    }
+  },
+  "21 Nov 2025_RCD Espanyol-Sevilla FC": {
+    "Date": "21 Nov 2025",
+    "Match": "RCD Espanyol-Sevilla FC",
+    "Score": "2:1",
+    "Odds": "1.84|3.37|3.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "33%",
+        "away": "67%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "22"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "16"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "13"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.11",
+        "away": "2.15"
+      }
+    }
+  },
+  "21 Nov 2025_Elche CF-Real Madrid": {
+    "Date": "21 Nov 2025",
+    "Match": "Elche CF-Real Madrid",
+    "Score": "2:2",
+    "Odds": "6.5|5.0|1.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "13"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.79",
+        "away": "2.25"
+      }
+    }
+  },
+  "21 Nov 2025_Getafe CF-Atlético Madrid": {
+    "Date": "21 Nov 2025",
+    "Match": "Getafe CF-Atlético Madrid",
+    "Score": "0:1",
+    "Odds": "5.0|3.52|1.78",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "5"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "1.55"
+      }
+    }
+  },
+  "21 Nov 2025_Real Betis-Girona FC": {
+    "Date": "21 Nov 2025",
+    "Match": "Real Betis-Girona FC",
+    "Score": "1:1",
+    "Odds": "1.55|4.56|6.22",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "7"
+      },
+      "cards": {
+        "home": "5",
+        "away": "4"
+      },
+      "corners": {
+        "home": "8",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.38",
+        "away": "1.30"
+      }
+    }
+  },
+  "21 Nov 2025_Real Oviedo-Rayo Vallecano": {
+    "Date": "21 Nov 2025",
+    "Match": "Real Oviedo-Rayo Vallecano",
+    "Score": "0:0",
+    "Odds": "3.5|3.2|2.2",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.03",
+        "away": "1.47"
+      }
+    }
+  },
+  "21 Nov 2025_Villarreal-RCD Mallorca": {
+    "Date": "21 Nov 2025",
+    "Match": "Villarreal-RCD Mallorca",
+    "Score": "2:1",
+    "Odds": "1.4|5.25|8.13",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.86",
+        "away": "1.05"
+      }
+    }
+  },
+  "21 Nov 2025_CA Osasuna-Real Sociedad": {
+    "Date": "21 Nov 2025",
+    "Match": "CA Osasuna-Real Sociedad",
+    "Score": "1:3",
+    "Odds": "2.78|3.1|2.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "5",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "2.14"
+      }
+    }
+  },
+  "21 Nov 2025_FC Barcelona-Athletic Club Bilbao": {
+    "Date": "21 Nov 2025",
+    "Match": "FC Barcelona-Athletic Club Bilbao",
+    "Score": "4:0",
+    "Odds": "1.42|5.0|7.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "11"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "7",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.01",
+        "away": "1.25"
+      }
+    }
+  },
+  "21 Nov 2025_Deportivo Alavés-Celta de Vigo": {
+    "Date": "21 Nov 2025",
+    "Match": "Deportivo Alavés-Celta de Vigo",
+    "Score": "0:1",
+    "Odds": "2.56|2.94|2.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.68",
+        "away": "0.90"
+      }
+    }
+  },
+  "21 Nov 2025_Valencia CF-Levante UD": {
+    "Date": "21 Nov 2025",
+    "Match": "Valencia CF-Levante UD",
+    "Score": "1:0",
+    "Odds": "1.93|3.25|3.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.26",
+        "away": "0.55"
+      }
+    }
+  },
+  "07 Nov 2025_Celta de Vigo-FC Barcelona": {
+    "Date": "07 Nov 2025",
+    "Match": "Celta de Vigo-FC Barcelona",
+    "Score": "2:4",
+    "Odds": "3.75|4.18|1.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "12"
+      },
+      "cards": {
+        "home": "1",
+        "away": "5"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.78",
+        "away": "2.51"
+      }
+    }
+  },
+  "07 Nov 2025_RCD Mallorca-Getafe CF": {
+    "Date": "07 Nov 2025",
+    "Match": "RCD Mallorca-Getafe CF",
+    "Score": "1:0",
+    "Odds": "2.58|2.58|2.98",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "11"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "14"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "1.63"
+      }
+    }
+  },
+  "07 Nov 2025_Valencia CF-Real Betis": {
+    "Date": "07 Nov 2025",
+    "Match": "Valencia CF-Real Betis",
+    "Score": "1:1",
+    "Odds": "3.35|3.45|2.15",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "1.09"
+      }
+    }
+  },
+  "07 Nov 2025_Rayo Vallecano-Real Madrid": {
+    "Date": "07 Nov 2025",
+    "Match": "Rayo Vallecano-Real Madrid",
+    "Score": "0:0",
+    "Odds": "5.25|4.6|1.52",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "16"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.32",
+        "away": "2.10"
+      }
+    }
+  },
+  "07 Nov 2025_Athletic Club Bilbao-Real Oviedo": {
+    "Date": "07 Nov 2025",
+    "Match": "Athletic Club Bilbao-Real Oviedo",
+    "Score": "1:0",
+    "Odds": "1.48|3.77|7.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.22",
+        "away": "0.60"
+      }
+    }
+  },
+  "07 Nov 2025_RCD Espanyol-Villarreal": {
+    "Date": "07 Nov 2025",
+    "Match": "RCD Espanyol-Villarreal",
+    "Score": "0:2",
+    "Odds": "2.8|3.5|2.21",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.67",
+        "away": "0.95"
+      }
+    }
+  },
+  "07 Nov 2025_Atlético Madrid-Levante UD": {
+    "Date": "07 Nov 2025",
+    "Match": "Atlético Madrid-Levante UD",
+    "Score": "3:1",
+    "Odds": "1.2|7.4|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "74%",
+        "away": "26%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "21",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.95",
+        "away": "0.80"
+      }
+    }
+  },
+  "07 Nov 2025_Sevilla FC-CA Osasuna": {
+    "Date": "07 Nov 2025",
+    "Match": "Sevilla FC-CA Osasuna",
+    "Score": "1:0",
+    "Odds": "2.25|3.25|3.8",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "5",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.18",
+        "away": "1.13"
+      }
+    }
+  },
+  "07 Nov 2025_Girona FC-Deportivo Alavés": {
+    "Date": "07 Nov 2025",
+    "Match": "Girona FC-Deportivo Alavés",
+    "Score": "1:0",
+    "Odds": "2.3|3.1|3.48",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.23",
+        "away": "1.53"
+      }
+    }
+  },
+  "07 Nov 2025_Elche CF-Real Sociedad": {
+    "Date": "07 Nov 2025",
+    "Match": "Elche CF-Real Sociedad",
+    "Score": "1:1",
+    "Odds": "2.6|3.1|2.68",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "1.41"
+      }
+    }
+  },
+  "31 Oct 2025_Real Oviedo-CA Osasuna": {
+    "Date": "31 Oct 2025",
+    "Match": "Real Oviedo-CA Osasuna",
+    "Score": "0:0",
+    "Odds": "3.1|2.95|2.53",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.88",
+        "away": "1.35"
+      }
+    }
+  },
+  "31 Oct 2025_Real Betis-RCD Mallorca": {
+    "Date": "31 Oct 2025",
+    "Match": "Real Betis-RCD Mallorca",
+    "Score": "3:0",
+    "Odds": "1.58|4.0|6.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "13"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.82",
+        "away": "1.38"
+      }
+    }
+  },
+  "31 Oct 2025_FC Barcelona-Elche CF": {
+    "Date": "31 Oct 2025",
+    "Match": "FC Barcelona-Elche CF",
+    "Score": "3:1",
+    "Odds": "1.09|6.75|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.71",
+        "away": "1.12"
+      }
+    }
+  },
+  "31 Oct 2025_Deportivo Alavés-RCD Espanyol": {
+    "Date": "31 Oct 2025",
+    "Match": "Deportivo Alavés-RCD Espanyol",
+    "Score": "2:1",
+    "Odds": "2.4|3.1|3.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "16"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.39",
+        "away": "1.69"
+      }
+    }
+  },
+  "31 Oct 2025_Levante UD-Celta de Vigo": {
+    "Date": "31 Oct 2025",
+    "Match": "Levante UD-Celta de Vigo",
+    "Score": "1:2",
+    "Odds": "2.87|3.36|2.45",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "14"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "2.20"
+      }
+    }
+  },
+  "31 Oct 2025_Real Madrid-Valencia CF": {
+    "Date": "31 Oct 2025",
+    "Match": "Real Madrid-Valencia CF",
+    "Score": "4:0",
+    "Odds": "1.2|7.0|14.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.75",
+        "away": "0.55"
+      }
+    }
+  },
+  "31 Oct 2025_Real Sociedad-Athletic Club Bilbao": {
+    "Date": "31 Oct 2025",
+    "Match": "Real Sociedad-Athletic Club Bilbao",
+    "Score": "3:2",
+    "Odds": "2.5|3.0|2.77",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.17",
+        "away": "1.27"
+      }
+    }
+  },
+  "31 Oct 2025_Atlético Madrid-Sevilla FC": {
+    "Date": "31 Oct 2025",
+    "Match": "Atlético Madrid-Sevilla FC",
+    "Score": "3:0",
+    "Odds": "1.21|5.0|9.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "1.02"
+      }
+    }
+  },
+  "31 Oct 2025_Villarreal-Rayo Vallecano": {
+    "Date": "31 Oct 2025",
+    "Match": "Villarreal-Rayo Vallecano",
+    "Score": "4:0",
+    "Odds": "1.73|3.81|5.1",
+    "Result": "Home"
+  },
+  "31 Oct 2025_Getafe CF-Girona FC": {
+    "Date": "31 Oct 2025",
+    "Match": "Getafe CF-Girona FC",
+    "Score": "2:1",
+    "Odds": "2.17|3.06|4.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.38",
+        "away": "0.93"
+      }
+    }
+  },
+  "24 Oct 2025_Real Betis-Atlético Madrid": {
+    "Date": "24 Oct 2025",
+    "Match": "Real Betis-Atlético Madrid",
+    "Score": "0:2",
+    "Odds": "3.34|3.25|2.22",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.07",
+        "away": "1.08"
+      }
+    }
+  },
+  "24 Oct 2025_Rayo Vallecano-Deportivo Alavés": {
+    "Date": "24 Oct 2025",
+    "Match": "Rayo Vallecano-Deportivo Alavés",
+    "Score": "1:0",
+    "Odds": "2.1|3.0|3.84",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "1.22"
+      }
+    }
+  },
+  "24 Oct 2025_CA Osasuna-Celta de Vigo": {
+    "Date": "24 Oct 2025",
+    "Match": "CA Osasuna-Celta de Vigo",
+    "Score": "2:3",
+    "Odds": "2.5|3.1|2.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "2.15",
+        "away": "1.22"
+      }
+    }
+  },
+  "24 Oct 2025_Real Madrid-FC Barcelona": {
+    "Date": "24 Oct 2025",
+    "Match": "Real Madrid-FC Barcelona",
+    "Score": "2:1",
+    "Odds": "1.69|4.25|3.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "32%",
+        "away": "68%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "9"
+      },
+      "cards": {
+        "home": "7",
+        "away": "5"
+      },
+      "corners": {
+        "home": "12",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.50",
+        "away": "1.80"
+      }
+    }
+  },
+  "24 Oct 2025_RCD Mallorca-Levante UD": {
+    "Date": "24 Oct 2025",
+    "Match": "RCD Mallorca-Levante UD",
+    "Score": "1:1",
+    "Odds": "2.12|3.46|3.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.93",
+        "away": "1.47"
+      }
+    }
+  },
+  "24 Oct 2025_Valencia CF-Villarreal": {
+    "Date": "24 Oct 2025",
+    "Match": "Valencia CF-Villarreal",
+    "Score": "0:2",
+    "Odds": "3.48|3.25|2.05",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.47",
+        "away": "1.36"
+      }
+    }
+  },
+  "24 Oct 2025_Athletic Club Bilbao-Getafe CF": {
+    "Date": "24 Oct 2025",
+    "Match": "Athletic Club Bilbao-Getafe CF",
+    "Score": "0:1",
+    "Odds": "1.64|3.4|6.1",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.94",
+        "away": "1.11"
+      }
+    }
+  },
+  "24 Oct 2025_RCD Espanyol-Elche CF": {
+    "Date": "24 Oct 2025",
+    "Match": "RCD Espanyol-Elche CF",
+    "Score": "1:0",
+    "Odds": "1.95|3.4|4.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "32%",
+        "away": "68%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.75",
+        "away": "1.44"
+      }
+    }
+  },
+  "24 Oct 2025_Girona FC-Real Oviedo": {
+    "Date": "24 Oct 2025",
+    "Match": "Girona FC-Real Oviedo",
+    "Score": "3:3",
+    "Odds": "1.82|3.3|4.92",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "11",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "1.13"
+      }
+    }
+  },
+  "24 Oct 2025_Real Sociedad-Sevilla FC": {
+    "Date": "24 Oct 2025",
+    "Match": "Real Sociedad-Sevilla FC",
+    "Score": "2:1",
+    "Odds": "2.0|3.15|3.97",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.80",
+        "away": "0.75"
+      }
+    }
+  },
+  "17 Oct 2025_Deportivo Alavés-Valencia CF": {
+    "Date": "17 Oct 2025",
+    "Match": "Deportivo Alavés-Valencia CF",
+    "Score": "0:0",
+    "Odds": "2.26|3.08|3.48",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.39",
+        "away": "0.59"
+      }
+    }
+  },
+  "17 Oct 2025_Getafe CF-Real Madrid": {
+    "Date": "17 Oct 2025",
+    "Match": "Getafe CF-Real Madrid",
+    "Score": "0:1",
+    "Odds": "7.25|4.52|1.43",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "24%",
+        "away": "76%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "23"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "13"
+      },
+      "cards": {
+        "home": "7",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "27",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.70",
+        "away": "2.57"
+      }
+    }
+  },
+  "17 Oct 2025_Levante UD-Rayo Vallecano": {
+    "Date": "17 Oct 2025",
+    "Match": "Levante UD-Rayo Vallecano",
+    "Score": "0:3",
+    "Odds": "2.75|3.3|2.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "11",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.90",
+        "away": "1.13"
+      }
+    }
+  },
+  "17 Oct 2025_Celta de Vigo-Real Sociedad": {
+    "Date": "17 Oct 2025",
+    "Match": "Celta de Vigo-Real Sociedad",
+    "Score": "1:1",
+    "Odds": "2.12|3.3|3.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "8"
+      },
+      "xg": {
+        "home": "0.45",
+        "away": "2.05"
+      }
+    }
+  },
+  "17 Oct 2025_Elche CF-Athletic Club Bilbao": {
+    "Date": "17 Oct 2025",
+    "Match": "Elche CF-Athletic Club Bilbao",
+    "Score": "0:0",
+    "Odds": "3.7|3.34|1.95",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.63",
+        "away": "0.55"
+      }
+    }
+  },
+  "17 Oct 2025_Atlético Madrid-CA Osasuna": {
+    "Date": "17 Oct 2025",
+    "Match": "Atlético Madrid-CA Osasuna",
+    "Score": "1:0",
+    "Odds": "1.28|4.92|9.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.14",
+        "away": "0.94"
+      }
+    }
+  },
+  "17 Oct 2025_Villarreal-Real Betis": {
+    "Date": "17 Oct 2025",
+    "Match": "Villarreal-Real Betis",
+    "Score": "2:2",
+    "Odds": "1.95|3.5|3.8",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "13"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.90",
+        "away": "1.58"
+      }
+    }
+  },
+  "17 Oct 2025_FC Barcelona-Girona FC": {
+    "Date": "17 Oct 2025",
+    "Match": "FC Barcelona-Girona FC",
+    "Score": "2:1",
+    "Odds": "1.2|7.3|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "27",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "11",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.80",
+        "away": "1.19"
+      }
+    }
+  },
+  "17 Oct 2025_Sevilla FC-RCD Mallorca": {
+    "Date": "17 Oct 2025",
+    "Match": "Sevilla FC-RCD Mallorca",
+    "Score": "1:3",
+    "Odds": "1.87|3.4|4.76",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "1"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.36",
+        "away": "1.14"
+      }
+    }
+  },
+  "17 Oct 2025_Real Oviedo-RCD Espanyol": {
+    "Date": "17 Oct 2025",
+    "Match": "Real Oviedo-RCD Espanyol",
+    "Score": "0:2",
+    "Odds": "3.0|3.05|2.39",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "2.31"
+      }
+    }
+  },
+  "03 Oct 2025_Celta de Vigo-Atlético Madrid": {
+    "Date": "03 Oct 2025",
+    "Match": "Celta de Vigo-Atlético Madrid",
+    "Score": "1:1",
+    "Odds": "4.72|3.89|1.92",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.08",
+        "away": "0.68"
+      }
+    }
+  },
+  "03 Oct 2025_RCD Espanyol-Real Betis": {
+    "Date": "03 Oct 2025",
+    "Match": "RCD Espanyol-Real Betis",
+    "Score": "1:2",
+    "Odds": "2.6|3.35|2.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "10",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.71",
+        "away": "1.22"
+      }
+    }
+  },
+  "03 Oct 2025_Real Sociedad-Rayo Vallecano": {
+    "Date": "03 Oct 2025",
+    "Match": "Real Sociedad-Rayo Vallecano",
+    "Score": "0:1",
+    "Odds": "2.14|3.1|3.3",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.11",
+        "away": "0.75"
+      }
+    }
+  },
+  "03 Oct 2025_Sevilla FC-FC Barcelona": {
+    "Date": "03 Oct 2025",
+    "Match": "Sevilla FC-FC Barcelona",
+    "Score": "4:1",
+    "Odds": "5.45|4.6|1.52",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "7",
+        "away": "5"
+      },
+      "corners": {
+        "home": "7",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "10",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.52",
+        "away": "1.87"
+      }
+    }
+  },
+  "03 Oct 2025_Deportivo Alavés-Elche CF": {
+    "Date": "03 Oct 2025",
+    "Match": "Deportivo Alavés-Elche CF",
+    "Score": "3:1",
+    "Odds": "2.39|2.8|3.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "20",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "14",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.26",
+        "away": "0.78"
+      }
+    }
+  },
+  "03 Oct 2025_Real Madrid-Villarreal": {
+    "Date": "03 Oct 2025",
+    "Match": "Real Madrid-Villarreal",
+    "Score": "3:1",
+    "Odds": "1.41|5.0|6.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "26",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "19",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "2.81",
+        "away": "0.91"
+      }
+    }
+  },
+  "03 Oct 2025_Athletic Club Bilbao-RCD Mallorca": {
+    "Date": "03 Oct 2025",
+    "Match": "Athletic Club Bilbao-RCD Mallorca",
+    "Score": "2:1",
+    "Odds": "1.6|3.7|6.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "4"
+      },
+      "cards": {
+        "home": "5",
+        "away": "6"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "0.69"
+      }
+    }
+  },
+  "03 Oct 2025_Girona FC-Valencia CF": {
+    "Date": "03 Oct 2025",
+    "Match": "Girona FC-Valencia CF",
+    "Score": "2:1",
+    "Odds": "2.36|3.0|2.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "0",
+        "away": "13"
+      },
+      "cards": {
+        "home": "7",
+        "away": "1"
+      },
+      "corners": {
+        "home": "0",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.77",
+        "away": "1.95"
+      }
+    }
+  },
+  "03 Oct 2025_Real Oviedo-Levante UD": {
+    "Date": "03 Oct 2025",
+    "Match": "Real Oviedo-Levante UD",
+    "Score": "0:2",
+    "Odds": "2.25|3.0|2.94",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.38",
+        "away": "1.52"
+      }
+    }
+  },
+  "03 Oct 2025_CA Osasuna-Getafe CF": {
+    "Date": "03 Oct 2025",
+    "Match": "CA Osasuna-Getafe CF",
+    "Score": "2:1",
+    "Odds": "2.15|2.83|4.33",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "6"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "0.88"
+      }
+    }
+  },
+  "26 Sep 2025_Valencia CF-Real Oviedo": {
+    "Date": "26 Sep 2025",
+    "Match": "Valencia CF-Real Oviedo",
+    "Score": "1:2",
+    "Odds": "1.71|3.75|5.2",
+    "Result": "Away"
+  },
+  "26 Sep 2025_Real Betis-CA Osasuna": {
+    "Date": "26 Sep 2025",
+    "Match": "Real Betis-CA Osasuna",
+    "Score": "2:0",
+    "Odds": "1.78|3.6|5.0",
+    "Result": "Home"
+  },
+  "26 Sep 2025_FC Barcelona-Real Sociedad": {
+    "Date": "26 Sep 2025",
+    "Match": "FC Barcelona-Real Sociedad",
+    "Score": "2:1",
+    "Odds": "1.28|5.5|10.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "75%",
+        "away": "25%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "12",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "12",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "5"
+      },
+      "xg": {
+        "home": "2.83",
+        "away": "0.74"
+      }
+    }
+  },
+  "26 Sep 2025_Elche CF-Celta de Vigo": {
+    "Date": "26 Sep 2025",
+    "Match": "Elche CF-Celta de Vigo",
+    "Score": "2:1",
+    "Odds": "2.84|3.14|2.77",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.02",
+        "away": "0.83"
+      }
+    }
+  },
+  "26 Sep 2025_Rayo Vallecano-Sevilla FC": {
+    "Date": "26 Sep 2025",
+    "Match": "Rayo Vallecano-Sevilla FC",
+    "Score": "0:1",
+    "Odds": "2.15|3.1|3.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "12",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.02",
+        "away": "0.52"
+      }
+    }
+  },
+  "26 Sep 2025_Villarreal-Athletic Club Bilbao": {
+    "Date": "26 Sep 2025",
+    "Match": "Villarreal-Athletic Club Bilbao",
+    "Score": "1:0",
+    "Odds": "2.05|3.45|3.74",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "7",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.54",
+        "away": "1.78"
+      }
+    }
+  },
+  "26 Sep 2025_RCD Mallorca-Deportivo Alavés": {
+    "Date": "26 Sep 2025",
+    "Match": "RCD Mallorca-Deportivo Alavés",
+    "Score": "1:0",
+    "Odds": "2.4|2.95|3.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.23",
+        "away": "1.44"
+      }
+    }
+  },
+  "26 Sep 2025_Atlético Madrid-Real Madrid": {
+    "Date": "26 Sep 2025",
+    "Match": "Atlético Madrid-Real Madrid",
+    "Score": "5:2",
+    "Odds": "3.1|3.65|2.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "cards": {
+        "home": "5",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.56",
+        "away": "0.85"
+      }
+    }
+  },
+  "26 Sep 2025_Getafe CF-Levante UD": {
+    "Date": "26 Sep 2025",
+    "Match": "Getafe CF-Levante UD",
+    "Score": "1:1",
+    "Odds": "2.05|2.96|3.85",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.39",
+        "away": "1.30"
+      }
+    }
+  },
+  "26 Sep 2025_Girona FC-RCD Espanyol": {
+    "Date": "26 Sep 2025",
+    "Match": "Girona FC-RCD Espanyol",
+    "Score": "0:0",
+    "Odds": "2.6|3.35|2.87",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "15"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.36",
+        "away": "1.90"
+      }
+    }
+  },
+  "21 Sep 2025_Real Oviedo-FC Barcelona": {
+    "Date": "21 Sep 2025",
+    "Match": "Real Oviedo-FC Barcelona",
+    "Score": "1:3",
+    "Odds": "11.0|6.75|1.21",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "21%",
+        "away": "79%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "22"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "7",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.76",
+        "away": "2.59"
+      }
+    }
+  },
+  "21 Sep 2025_CA Osasuna-Elche CF": {
+    "Date": "21 Sep 2025",
+    "Match": "CA Osasuna-Elche CF",
+    "Score": "1:1",
+    "Odds": "1.95|3.25|3.9",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.00",
+        "away": "1.35"
+      }
+    }
+  },
+  "21 Sep 2025_Atlético Madrid-Rayo Vallecano": {
+    "Date": "21 Sep 2025",
+    "Match": "Atlético Madrid-Rayo Vallecano",
+    "Score": "3:2",
+    "Odds": "1.5|4.2|6.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.33",
+        "away": "1.00"
+      }
+    }
+  },
+  "21 Sep 2025_Real Sociedad-RCD Mallorca": {
+    "Date": "21 Sep 2025",
+    "Match": "Real Sociedad-RCD Mallorca",
+    "Score": "1:0",
+    "Odds": "1.6|3.6|5.13",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "11",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.90",
+        "away": "0.79"
+      }
+    }
+  },
+  "21 Sep 2025_Getafe CF-Deportivo Alavés": {
+    "Date": "21 Sep 2025",
+    "Match": "Getafe CF-Deportivo Alavés",
+    "Score": "1:1",
+    "Odds": "2.32|2.88|3.55",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "6"
+      },
+      "xg": {
+        "home": "0.78",
+        "away": "1.19"
+      }
+    }
+  },
+  "21 Sep 2025_Levante UD-Real Madrid": {
+    "Date": "21 Sep 2025",
+    "Match": "Levante UD-Real Madrid",
+    "Score": "1:4",
+    "Odds": "8.0|5.3|1.32",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "14"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "2.60"
+      }
+    }
+  },
+  "21 Sep 2025_Sevilla FC-Villarreal": {
+    "Date": "21 Sep 2025",
+    "Match": "Sevilla FC-Villarreal",
+    "Score": "1:2",
+    "Odds": "3.15|3.28|2.2",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.67",
+        "away": "1.43"
+      }
+    }
+  },
+  "21 Sep 2025_RCD Espanyol-Valencia CF": {
+    "Date": "21 Sep 2025",
+    "Match": "RCD Espanyol-Valencia CF",
+    "Score": "2:2",
+    "Odds": "2.33|3.25|3.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.59",
+        "away": "0.67"
+      }
+    }
+  },
+  "21 Sep 2025_Athletic Club Bilbao-Girona FC": {
+    "Date": "21 Sep 2025",
+    "Match": "Athletic Club Bilbao-Girona FC",
+    "Score": "1:1",
+    "Odds": "1.47|4.7|7.4",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "67%",
+        "away": "33%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.96",
+        "away": "0.75"
+      }
+    }
+  },
+  "21 Sep 2025_FC Barcelona-Getafe CF": {
+    "Date": "21 Sep 2025",
+    "Match": "FC Barcelona-Getafe CF",
+    "Score": "3:0",
+    "Odds": "1.29|5.75|9.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "1"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.93",
+        "away": "0.53"
+      }
+    }
+  },
+  "15 Sep 2025_Elche CF-Real Oviedo": {
+    "Date": "15 Sep 2025",
+    "Match": "Elche CF-Real Oviedo",
+    "Score": "1:0",
+    "Odds": "1.9|3.0|4.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.72",
+        "away": "1.37"
+      }
+    }
+  },
+  "15 Sep 2025_RCD Mallorca-Atlético Madrid": {
+    "Date": "15 Sep 2025",
+    "Match": "RCD Mallorca-Atlético Madrid",
+    "Score": "1:1",
+    "Odds": "5.05|3.5|1.78",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.07",
+        "away": "1.72"
+      }
+    }
+  },
+  "15 Sep 2025_Rayo Vallecano-Celta de Vigo": {
+    "Date": "15 Sep 2025",
+    "Match": "Rayo Vallecano-Celta de Vigo",
+    "Score": "1:1",
+    "Odds": "2.25|3.3|3.35",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "1.25"
+      }
+    }
+  },
+  "15 Sep 2025_Valencia CF-Athletic Club Bilbao": {
+    "Date": "15 Sep 2025",
+    "Match": "Valencia CF-Athletic Club Bilbao",
+    "Score": "2:0",
+    "Odds": "3.15|3.05|2.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.46",
+        "away": "1.44"
+      }
+    }
+  },
+  "15 Sep 2025_Deportivo Alavés-Sevilla FC": {
+    "Date": "15 Sep 2025",
+    "Match": "Deportivo Alavés-Sevilla FC",
+    "Score": "1:2",
+    "Odds": "2.33|3.01|3.28",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "7"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.22",
+        "away": "1.08"
+      }
+    }
+  },
+  "15 Sep 2025_Villarreal-CA Osasuna": {
+    "Date": "15 Sep 2025",
+    "Match": "Villarreal-CA Osasuna",
+    "Score": "2:1",
+    "Odds": "1.55|3.8|5.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "26",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.84",
+        "away": "0.75"
+      }
+    }
+  },
+  "15 Sep 2025_Real Madrid-RCD Espanyol": {
+    "Date": "15 Sep 2025",
+    "Match": "Real Madrid-RCD Espanyol",
+    "Score": "2:0",
+    "Odds": "1.2|7.22|14.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "72%",
+        "away": "28%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.83",
+        "away": "0.83"
+      }
+    }
+  },
+  "15 Sep 2025_Girona FC-Levante UD": {
+    "Date": "15 Sep 2025",
+    "Match": "Girona FC-Levante UD",
+    "Score": "0:4",
+    "Odds": "1.75|3.5|4.1",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "6",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.72",
+        "away": "1.82"
+      }
+    }
+  },
+  "15 Sep 2025_Real Betis-Real Sociedad": {
+    "Date": "15 Sep 2025",
+    "Match": "Real Betis-Real Sociedad",
+    "Score": "3:1",
+    "Odds": "1.91|3.68|3.93",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.09",
+        "away": "1.36"
+      }
+    }
+  },
+  "15 Sep 2025_RCD Espanyol-RCD Mallorca": {
+    "Date": "15 Sep 2025",
+    "Match": "RCD Espanyol-RCD Mallorca",
+    "Score": "3:2",
+    "Odds": "2.25|3.1|3.45",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "14"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "2.61"
+      }
+    }
+  },
+  "31 Aug 2025_FC Barcelona-Valencia CF": {
+    "Date": "31 Aug 2025",
+    "Match": "FC Barcelona-Valencia CF",
+    "Score": "6:0",
+    "Odds": "1.3|5.7|8.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "FC Barcelona",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "72%",
+        "away": "28%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "2"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "1"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.59",
+        "away": "0.38"
+      }
+    }
+  },
+  "31 Aug 2025_CA Osasuna-Rayo Vallecano": {
+    "Date": "31 Aug 2025",
+    "Match": "CA Osasuna-Rayo Vallecano",
+    "Score": "2:0",
+    "Odds": "2.42|2.76|2.92",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "13"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "2.10"
+      }
+    }
+  },
+  "31 Aug 2025_Levante UD-Real Betis": {
+    "Date": "31 Aug 2025",
+    "Match": "Levante UD-Real Betis",
+    "Score": "2:2",
+    "Odds": "3.25|3.45|2.15",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "33%",
+        "away": "67%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "28"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "19"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "12"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.74",
+        "away": "3.00"
+      }
+    }
+  },
+  "31 Aug 2025_Celta de Vigo-Girona FC": {
+    "Date": "31 Aug 2025",
+    "Match": "Celta de Vigo-Girona FC",
+    "Score": "1:1",
+    "Odds": "1.61|3.9|5.25",
+    "Result": "Draw"
+  },
+  "31 Aug 2025_Atlético Madrid-Villarreal": {
+    "Date": "31 Aug 2025",
+    "Match": "Atlético Madrid-Villarreal",
+    "Score": "2:0",
+    "Odds": "1.8|3.7|4.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "0.91"
+      }
+    }
+  },
+  "31 Aug 2025_Athletic Club Bilbao-Deportivo Alavés": {
+    "Date": "31 Aug 2025",
+    "Match": "Athletic Club Bilbao-Deportivo Alavés",
+    "Score": "0:1",
+    "Odds": "1.6|3.6|6.65",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "0.61"
+      }
+    }
+  },
+  "31 Aug 2025_Real Sociedad-Real Madrid": {
+    "Date": "31 Aug 2025",
+    "Match": "Real Sociedad-Real Madrid",
+    "Score": "1:2",
+    "Odds": "5.55|4.15|1.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "19",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "12",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.23",
+        "away": "1.68"
+      }
+    }
+  },
+  "31 Aug 2025_Getafe CF-Real Oviedo": {
+    "Date": "31 Aug 2025",
+    "Match": "Getafe CF-Real Oviedo",
+    "Score": "2:0",
+    "Odds": "1.73|2.88|4.96",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Getafe CF",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "0.57"
+      }
+    }
+  },
+  "31 Aug 2025_Sevilla FC-Elche CF": {
+    "Date": "31 Aug 2025",
+    "Match": "Sevilla FC-Elche CF",
+    "Score": "2:2",
+    "Odds": "1.73|3.42|4.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "23",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "0.68"
+      }
+    }
+  },
+  "31 Aug 2025_Rayo Vallecano-FC Barcelona": {
+    "Date": "31 Aug 2025",
+    "Match": "Rayo Vallecano-FC Barcelona",
+    "Score": "1:1",
+    "Odds": "6.5|4.9|1.4",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rayo Vallecano",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "9"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "7",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.46",
+        "away": "1.23"
+      }
+    }
+  },
+  "27 Aug 2025_RCD Espanyol-CA Osasuna": {
+    "Date": "27 Aug 2025",
+    "Match": "RCD Espanyol-CA Osasuna",
+    "Score": "1:0",
+    "Odds": "2.37|2.97|2.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.21",
+        "away": "1.13"
+      }
+    }
+  },
+  "27 Aug 2025_Real Betis-Athletic Club Bilbao": {
+    "Date": "27 Aug 2025",
+    "Match": "Real Betis-Athletic Club Bilbao",
+    "Score": "1:2",
+    "Odds": "3.0|3.2|2.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "6"
+      },
+      "corners": {
+        "home": "4",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.92",
+        "away": "1.67"
+      }
+    }
+  },
+  "27 Aug 2025_Celta de Vigo-Villarreal": {
+    "Date": "27 Aug 2025",
+    "Match": "Celta de Vigo-Villarreal",
+    "Score": "1:1",
+    "Odds": "3.2|3.45|2.22",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.23",
+        "away": "0.94"
+      }
+    }
+  },
+  "27 Aug 2025_Real Madrid-RCD Mallorca": {
+    "Date": "27 Aug 2025",
+    "Match": "Real Madrid-RCD Mallorca",
+    "Score": "2:1",
+    "Odds": "1.09|6.8|13.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "RCD Mallorca",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.23",
+        "away": "1.09"
+      }
+    }
+  },
+  "27 Aug 2025_Girona FC-Sevilla FC": {
+    "Date": "27 Aug 2025",
+    "Match": "Girona FC-Sevilla FC",
+    "Score": "0:2",
+    "Odds": "2.4|3.0|3.11",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "11",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.05",
+        "away": "1.26"
+      }
+    }
+  },
+  "27 Aug 2025_Real Oviedo-Real Sociedad": {
+    "Date": "27 Aug 2025",
+    "Match": "Real Oviedo-Real Sociedad",
+    "Score": "1:0",
+    "Odds": "3.35|3.1|2.32",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "Real Sociedad",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.86",
+        "away": "2.02"
+      }
+    }
+  },
+  "27 Aug 2025_Deportivo Alavés-Atlético Madrid": {
+    "Date": "27 Aug 2025",
+    "Match": "Deportivo Alavés-Atlético Madrid",
+    "Score": "1:1",
+    "Odds": "5.25|3.4|1.84",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Deportivo Alavés",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.67",
+        "away": "1.81"
+      }
+    }
+  },
+  "27 Aug 2025_Valencia CF-Getafe CF": {
+    "Date": "27 Aug 2025",
+    "Match": "Valencia CF-Getafe CF",
+    "Score": "3:0",
+    "Odds": "2.19|2.9|3.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Valencia CF",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "0.92",
+        "away": "1.08"
+      }
+    }
+  },
+  "27 Aug 2025_Elche CF-Levante UD": {
+    "Date": "27 Aug 2025",
+    "Match": "Elche CF-Levante UD",
+    "Score": "2:0",
+    "Odds": "2.1|3.0|3.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "67%",
+        "away": "33%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.75",
+        "away": "0.93"
+      }
+    }
+  },
+  "27 Aug 2025_Celta de Vigo-Real Betis": {
+    "Date": "27 Aug 2025",
+    "Match": "Celta de Vigo-Real Betis",
+    "Score": "1:1",
+    "Odds": "2.1|3.5|3.15",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.56",
+        "away": "0.96"
+      }
+    }
+  },
+  "22 Aug 2025_Sevilla FC-Getafe CF": {
+    "Date": "22 Aug 2025",
+    "Match": "Sevilla FC-Getafe CF",
+    "Score": "1:2",
+    "Odds": "2.15|3.08|4.11",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sevilla FC",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "24"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.18"
+      }
+    }
+  },
+  "22 Aug 2025_Athletic Club Bilbao-Rayo Vallecano": {
+    "Date": "22 Aug 2025",
+    "Match": "Athletic Club Bilbao-Rayo Vallecano",
+    "Score": "1:0",
+    "Odds": "1.67|3.7|5.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "7"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "0.78"
+      }
+    }
+  },
+  "22 Aug 2025_Real Oviedo-Real Madrid": {
+    "Date": "22 Aug 2025",
+    "Match": "Real Oviedo-Real Madrid",
+    "Score": "0:3",
+    "Odds": "9.5|5.25|1.3",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Real Oviedo",
+      "away_team": "Real Madrid",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "26"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "16"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.79",
+        "away": "3.00"
+      }
+    }
+  },
+  "22 Aug 2025_Real Sociedad-RCD Espanyol": {
+    "Date": "22 Aug 2025",
+    "Match": "Real Sociedad-RCD Espanyol",
+    "Score": "2:2",
+    "Odds": "1.6|3.4|4.8",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Real Sociedad",
+      "away_team": "RCD Espanyol",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.77",
+        "away": "1.38"
+      }
+    }
+  },
+  "22 Aug 2025_Villarreal-Girona FC": {
+    "Date": "22 Aug 2025",
+    "Match": "Villarreal-Girona FC",
+    "Score": "5:0",
+    "Odds": "1.39|4.35|5.8",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.07",
+        "away": "0.72"
+      }
+    }
+  },
+  "22 Aug 2025_CA Osasuna-Valencia CF": {
+    "Date": "22 Aug 2025",
+    "Match": "CA Osasuna-Valencia CF",
+    "Score": "1:0",
+    "Odds": "2.27|3.2|3.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Valencia CF",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.71",
+        "away": "0.57"
+      }
+    }
+  },
+  "22 Aug 2025_Levante UD-FC Barcelona": {
+    "Date": "22 Aug 2025",
+    "Match": "Levante UD-FC Barcelona",
+    "Score": "2:3",
+    "Odds": "10.0|6.8|1.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Levante UD",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "18%",
+        "away": "82%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "26"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "16"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "0",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.94",
+        "away": "3.00"
+      }
+    }
+  },
+  "22 Aug 2025_Atlético Madrid-Elche CF": {
+    "Date": "22 Aug 2025",
+    "Match": "Atlético Madrid-Elche CF",
+    "Score": "1:1",
+    "Odds": "1.25|5.97|12.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Atlético Madrid",
+      "away_team": "Elche CF",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "10",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.77",
+        "away": "0.66"
+      }
+    }
+  },
+  "22 Aug 2025_RCD Mallorca-Celta de Vigo": {
+    "Date": "22 Aug 2025",
+    "Match": "RCD Mallorca-Celta de Vigo",
+    "Score": "1:1",
+    "Odds": "3.25|3.35|2.22",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Celta de Vigo",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "0.83"
+      }
+    }
+  },
+  "22 Aug 2025_Real Betis-Deportivo Alavés": {
+    "Date": "22 Aug 2025",
+    "Match": "Real Betis-Deportivo Alavés",
+    "Score": "1:0",
+    "Odds": "1.85|3.4|4.36",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Deportivo Alavés",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.65",
+        "away": "1.33"
+      }
+    }
+  },
+  "15 Aug 2025_Real Madrid-CA Osasuna": {
+    "Date": "15 Aug 2025",
+    "Match": "Real Madrid-CA Osasuna",
+    "Score": "1:0",
+    "Odds": "1.1|7.1|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "CA Osasuna",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "2"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "2.14",
+        "away": "0.28"
+      }
+    }
+  },
+  "15 Aug 2025_Elche CF-Real Betis": {
+    "Date": "15 Aug 2025",
+    "Match": "Elche CF-Real Betis",
+    "Score": "1:1",
+    "Odds": "3.29|3.0|2.29",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Elche CF",
+      "away_team": "Real Betis",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "1.25"
+      }
+    }
+  },
+  "15 Aug 2025_RCD Espanyol-Atlético Madrid": {
+    "Date": "15 Aug 2025",
+    "Match": "RCD Espanyol-Atlético Madrid",
+    "Score": "2:1",
+    "Odds": "6.8|4.0|1.63",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Atlético Madrid",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "1.63"
+      }
+    }
+  },
+  "15 Aug 2025_Athletic Club Bilbao-Sevilla FC": {
+    "Date": "15 Aug 2025",
+    "Match": "Athletic Club Bilbao-Sevilla FC",
+    "Score": "3:2",
+    "Odds": "1.58|3.95|6.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Athletic Club Bilbao",
+      "away_team": "Sevilla FC",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "8"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "1.39"
+      }
+    }
+  },
+  "15 Aug 2025_Celta de Vigo-Getafe CF": {
+    "Date": "15 Aug 2025",
+    "Match": "Celta de Vigo-Getafe CF",
+    "Score": "0:2",
+    "Odds": "1.78|3.25|6.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Celta de Vigo",
+      "away_team": "Getafe CF",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "1.06"
+      }
+    }
+  },
+  "15 Aug 2025_Deportivo Alavés-Levante UD": {
+    "Date": "15 Aug 2025",
+    "Match": "Deportivo Alavés-Levante UD",
+    "Score": "2:1",
+    "Odds": "2.09|3.15|3.95",
+    "Result": "Home"
+  },
+  "15 Aug 2025_Valencia CF-Real Sociedad": {
+    "Date": "15 Aug 2025",
+    "Match": "Valencia CF-Real Sociedad",
+    "Score": "1:1",
+    "Odds": "2.3|3.03|3.1",
+    "Result": "Draw"
+  },
+  "15 Aug 2025_RCD Mallorca-FC Barcelona": {
+    "Date": "15 Aug 2025",
+    "Match": "RCD Mallorca-FC Barcelona",
+    "Score": "0:3",
+    "Odds": "8.5|5.5|1.33",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "FC Barcelona",
+      "possession": {
+        "home": "29%",
+        "away": "71%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "16"
+      },
+      "cards": {
+        "home": "6",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.50",
+        "away": "2.67"
+      }
+    }
+  },
+  "15 Aug 2025_Villarreal-Real Oviedo": {
+    "Date": "15 Aug 2025",
+    "Match": "Villarreal-Real Oviedo",
+    "Score": "2:0",
+    "Odds": "1.41|4.6|9.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Villarreal",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "1"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.89",
+        "away": "0.69"
+      }
+    }
+  },
+  "15 Aug 2025_Girona FC-Rayo Vallecano": {
+    "Date": "15 Aug 2025",
+    "Match": "Girona FC-Rayo Vallecano",
+    "Score": "1:3",
+    "Odds": "2.26|3.15|3.3",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Girona FC",
+      "away_team": "Rayo Vallecano",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.86",
+        "away": "1.70"
+      }
+    }
+  },
+  "16 Jan 2026_Real Betis-Villarreal": {
+    "Date": "16 Jan 2026",
+    "Match": "Real Betis-Villarreal",
+    "Score": "2:0",
+    "Odds": "2.65|3.4|2.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Betis",
+      "away_team": "Villarreal",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.75",
+        "away": "0.99"
+      }
+    }
+  },
+  "16 Jan 2026_CA Osasuna-Real Oviedo": {
+    "Date": "16 Jan 2026",
+    "Match": "CA Osasuna-Real Oviedo",
+    "Score": "3:2",
+    "Odds": "1.75|3.15|4.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "CA Osasuna",
+      "away_team": "Real Oviedo",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.67",
+        "away": "1.46"
+      }
+    }
+  },
+  "16 Jan 2026_RCD Mallorca-Athletic Club Bilbao": {
+    "Date": "16 Jan 2026",
+    "Match": "RCD Mallorca-Athletic Club Bilbao",
+    "Score": "3:2",
+    "Odds": "3.45|3.0|2.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RCD Mallorca",
+      "away_team": "Athletic Club Bilbao",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "11"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "10"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "2.56"
+      }
+    }
+  },
+  "16 Jan 2026_Real Madrid-Levante UD": {
+    "Date": "16 Jan 2026",
+    "Match": "Real Madrid-Levante UD",
+    "Score": "2:0",
+    "Odds": "1.16|8.5|14.83",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Real Madrid",
+      "away_team": "Levante UD",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "26",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.82",
+        "away": "0.85"
+      }
+    }
+  },
+  "16 Jan 2026_RCD Espanyol-Girona FC": {
+    "Date": "16 Jan 2026",
+    "Match": "RCD Espanyol-Girona FC",
+    "Score": "0:2",
+    "Odds": "1.87|3.5|4.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RCD Espanyol",
+      "away_team": "Girona FC",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "5",
+        "away": "5"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "0.99"
+      }
+    }
+  }
+}

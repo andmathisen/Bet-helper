@@ -1,0 +1,146 @@
+[
+  {
+    "home": "Lazio",
+    "away": "Como",
+    "odds": {
+      "home": 2.68,
+      "draw": 2.78,
+      "away": 2.96
+    }
+  },
+  {
+    "home": "Cremonese",
+    "away": "Hellas Verona",
+    "odds": {
+      "home": 2.49,
+      "draw": 2.87,
+      "away": 3.12
+    }
+  },
+  {
+    "home": "AC Milan",
+    "away": "Lecce",
+    "odds": {
+      "home": 1.25,
+      "draw": 5.5,
+      "away": 12.0
+    }
+  },
+  {
+    "home": "Torino",
+    "away": "Roma",
+    "odds": {
+      "home": 3.94,
+      "draw": 3.39,
+      "away": 1.92
+    }
+  },
+  {
+    "home": "Bologna",
+    "away": "Fiorentina",
+    "odds": {
+      "home": 2.06,
+      "draw": 3.25,
+      "away": 3.62
+    }
+  },
+  {
+    "home": "Parma",
+    "away": "Genoa",
+    "odds": {
+      "home": 2.86,
+      "draw": 2.66,
+      "away": 2.9
+    }
+  },
+  {
+    "home": "Hellas Verona",
+    "away": "Udinese",
+    "odds": {
+      "home": 2.75,
+      "draw": 3.1,
+      "away": 2.75
+    }
+  },
+  {
+    "home": "Roma",
+    "away": "AC Milan",
+    "odds": {
+      "home": 2.65,
+      "draw": 2.9,
+      "away": 3.05
+    }
+  },
+  {
+    "home": "Juventus",
+    "away": "Napoli",
+    "odds": {
+      "home": 2.13,
+      "draw": 3.15,
+      "away": 3.75
+    }
+  },
+  {
+    "home": "Atalanta",
+    "away": "Parma",
+    "odds": {
+      "home": 1.4,
+      "draw": 4.7,
+      "away": 7.8
+    }
+  },
+  {
+    "home": "Genoa",
+    "away": "Bologna",
+    "odds": {
+      "home": 3.15,
+      "draw": 3.1,
+      "away": 2.4
+    }
+  },
+  {
+    "home": "Sassuolo",
+    "away": "Cremonese",
+    "odds": {
+      "home": 1.9,
+      "draw": 3.4,
+      "away": 4.3
+    }
+  },
+  {
+    "home": "Lecce",
+    "away": "Lazio",
+    "odds": {
+      "home": 4.2,
+      "draw": 3.12,
+      "away": 1.95
+    }
+  },
+  {
+    "home": "Fiorentina",
+    "away": "Cagliari",
+    "odds": {
+      "home": 1.66,
+      "draw": 3.65,
+      "away": 5.1
+    }
+  },
+  {
+    "home": "Como",
+    "away": "Torino",
+    "odds": {
+      "home": 1.73,
+      "draw": 3.52,
+      "away": 4.8
+    }
+  },
+  {
+    "home": "Inter Milan",
+    "away": "Pisa",
+    "odds": {
+      "home": 1.14,
+      "draw": 6.9,
+      "away": 21.0
+    }
+  }
+]

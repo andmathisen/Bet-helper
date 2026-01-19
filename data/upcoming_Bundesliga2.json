@@ -1,0 +1,128 @@
+[
+  {
+    "home": "Greuther Fürth",
+    "away": "Eintracht Braunschweig",
+    "odds": {
+      "home": 2.44,
+      "draw": 3.37,
+      "away": 2.75
+    }
+  },
+  {
+    "home": "Karlsruher SC",
+    "away": "Hertha BSC",
+    "odds": {
+      "home": 3.51,
+      "draw": 3.56,
+      "away": 1.98
+    }
+  },
+  {
+    "home": "Darmstadt 98",
+    "away": "Nürnberg",
+    "odds": {
+      "home": 1.75,
+      "draw": 3.94,
+      "away": 4.1
+    }
+  },
+  {
+    "home": "Arminia Bielefeld",
+    "away": "Holstein Kiel",
+    "odds": {
+      "home": 2.28,
+      "draw": 3.47,
+      "away": 2.92
+    }
+  },
+  {
+    "home": "Holstein Kiel",
+    "away": "Greuther Fürth",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Eintracht Braunschweig",
+    "away": "Karlsruher SC",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Bochum",
+    "away": "Schalke 04",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Nürnberg",
+    "away": "Preußen Münster",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Magdeburg",
+    "away": "Hannover 96",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Paderborn",
+    "away": "Preußen Münster",
+    "odds": {
+      "home": 1.74,
+      "draw": 3.5,
+      "away": 4.85
+    }
+  },
+  {
+    "home": "Elversberg",
+    "away": "Bochum",
+    "odds": {
+      "home": 1.92,
+      "draw": 3.5,
+      "away": 3.83
+    }
+  },
+  {
+    "home": "Schalke 04",
+    "away": "Kaiserslautern",
+    "odds": {
+      "home": 1.94,
+      "draw": 3.08,
+      "away": 4.39
+    }
+  },
+  {
+    "home": "Magdeburg",
+    "away": "Dynamo Dresden",
+    "odds": {
+      "home": 1.7,
+      "draw": 4.1,
+      "away": 4.2
+    }
+  },
+  {
+    "home": "Hannover 96",
+    "away": "Fortuna Düsseldorf",
+    "odds": {
+      "home": 1.68,
+      "draw": 4.1,
+      "away": 4.3
+    }
+  }
+]

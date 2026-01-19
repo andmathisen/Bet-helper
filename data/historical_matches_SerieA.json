@@ -1,0 +1,9270 @@
+{
+  "23 Aug 2025_Inter Milan-Torino": {
+    "Date": "23 Aug 2025",
+    "Match": "Inter Milan-Torino",
+    "Score": "5:0",
+    "Odds": "1.37|5.0|7.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Torino",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.18",
+        "away": "1.23"
+      }
+    }
+  },
+  "23 Aug 2025_Udinese-Hellas Verona": {
+    "Date": "23 Aug 2025",
+    "Match": "Udinese-Hellas Verona",
+    "Score": "1:1",
+    "Odds": "1.74|3.25|4.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.48",
+        "away": "0.96"
+      }
+    }
+  },
+  "23 Aug 2025_Atalanta-Pisa": {
+    "Date": "23 Aug 2025",
+    "Match": "Atalanta-Pisa",
+    "Score": "1:1",
+    "Odds": "1.29|4.7|7.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "10",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.26",
+        "away": "1.05"
+      }
+    }
+  },
+  "23 Aug 2025_Juventus-Parma": {
+    "Date": "23 Aug 2025",
+    "Match": "Juventus-Parma",
+    "Score": "2:0",
+    "Odds": "1.34|4.72|8.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Parma",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "2.60",
+        "away": "0.87"
+      }
+    }
+  },
+  "23 Aug 2025_Cagliari-Fiorentina": {
+    "Date": "23 Aug 2025",
+    "Match": "Cagliari-Fiorentina",
+    "Score": "1:1",
+    "Odds": "2.95|3.0|2.26",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "0.56"
+      }
+    }
+  },
+  "23 Aug 2025_Como-Lazio": {
+    "Date": "23 Aug 2025",
+    "Match": "Como-Lazio",
+    "Score": "2:0",
+    "Odds": "2.39|3.3|2.93",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.05",
+        "away": "0.56"
+      }
+    }
+  },
+  "23 Aug 2025_AC Milan-Cremonese": {
+    "Date": "23 Aug 2025",
+    "Match": "AC Milan-Cremonese",
+    "Score": "1:2",
+    "Odds": "1.38|5.25|8.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "1"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "9",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.48",
+        "away": "0.68"
+      }
+    }
+  },
+  "23 Aug 2025_Roma-Bologna": {
+    "Date": "23 Aug 2025",
+    "Match": "Roma-Bologna",
+    "Score": "1:0",
+    "Odds": "2.09|3.2|3.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.43",
+        "away": "0.92"
+      }
+    }
+  },
+  "23 Aug 2025_Genoa-Lecce": {
+    "Date": "23 Aug 2025",
+    "Match": "Genoa-Lecce",
+    "Score": "0:0",
+    "Odds": "1.75|3.3|4.4",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.70",
+        "away": "0.76"
+      }
+    }
+  },
+  "23 Aug 2025_Sassuolo-Napoli": {
+    "Date": "23 Aug 2025",
+    "Match": "Sassuolo-Napoli",
+    "Score": "0:2",
+    "Odds": "5.5|3.5|1.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "0.77",
+        "away": "1.32"
+      }
+    }
+  },
+  "29 Aug 2025_Inter Milan-Udinese": {
+    "Date": "29 Aug 2025",
+    "Match": "Inter Milan-Udinese",
+    "Score": "1:2",
+    "Odds": "1.27|5.3|10.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "13",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "1.18"
+      }
+    }
+  },
+  "29 Aug 2025_Lazio-Hellas Verona": {
+    "Date": "29 Aug 2025",
+    "Match": "Lazio-Hellas Verona",
+    "Score": "4:0",
+    "Odds": "1.5|3.8|6.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.12",
+        "away": "1.25"
+      }
+    }
+  },
+  "29 Aug 2025_Genoa-Juventus": {
+    "Date": "29 Aug 2025",
+    "Match": "Genoa-Juventus",
+    "Score": "0:1",
+    "Odds": "5.25|3.26|1.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "1.33"
+      }
+    }
+  },
+  "29 Aug 2025_Torino-Fiorentina": {
+    "Date": "29 Aug 2025",
+    "Match": "Torino-Fiorentina",
+    "Score": "0:0",
+    "Odds": "3.3|2.87|2.35",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.01",
+        "away": "1.51"
+      }
+    }
+  },
+  "29 Aug 2025_Napoli-Cagliari": {
+    "Date": "29 Aug 2025",
+    "Match": "Napoli-Cagliari",
+    "Score": "1:0",
+    "Odds": "1.4|4.5|8.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "67%",
+        "away": "33%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "13",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.21",
+        "away": "0.83"
+      }
+    }
+  },
+  "29 Aug 2025_Pisa-Roma": {
+    "Date": "29 Aug 2025",
+    "Match": "Pisa-Roma",
+    "Score": "0:1",
+    "Odds": "4.8|3.6|1.73",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Roma",
+      "possession": {
+        "home": "31%",
+        "away": "69%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.82",
+        "away": "1.49"
+      }
+    }
+  },
+  "29 Aug 2025_Bologna-Como": {
+    "Date": "29 Aug 2025",
+    "Match": "Bologna-Como",
+    "Score": "1:0",
+    "Odds": "2.5|3.19|2.98",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Como",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "11"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.38",
+        "away": "1.28"
+      }
+    }
+  },
+  "29 Aug 2025_Parma-Atalanta": {
+    "Date": "29 Aug 2025",
+    "Match": "Parma-Atalanta",
+    "Score": "1:1",
+    "Odds": "4.5|3.62|1.9",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.97",
+        "away": "1.10"
+      }
+    }
+  },
+  "29 Aug 2025_Lecce-AC Milan": {
+    "Date": "29 Aug 2025",
+    "Match": "Lecce-AC Milan",
+    "Score": "0:2",
+    "Odds": "5.75|3.95|1.58",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.87",
+        "away": "1.63"
+      }
+    }
+  },
+  "29 Aug 2025_Cremonese-Sassuolo": {
+    "Date": "29 Aug 2025",
+    "Match": "Cremonese-Sassuolo",
+    "Score": "3:2",
+    "Odds": "2.58|3.28|2.62",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.23"
+      }
+    }
+  },
+  "13 Sep 2025_Como-Genoa": {
+    "Date": "13 Sep 2025",
+    "Match": "Como-Genoa",
+    "Score": "1:1",
+    "Odds": "1.63|3.7|5.85",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "0",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "1.44"
+      }
+    }
+  },
+  "13 Sep 2025_Hellas Verona-Cremonese": {
+    "Date": "13 Sep 2025",
+    "Match": "Hellas Verona-Cremonese",
+    "Score": "0:0",
+    "Odds": "2.9|3.05|2.97",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "10",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "3"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.22",
+        "away": "0.69"
+      }
+    }
+  },
+  "13 Sep 2025_AC Milan-Bologna": {
+    "Date": "13 Sep 2025",
+    "Match": "AC Milan-Bologna",
+    "Score": "1:0",
+    "Odds": "1.83|3.4|4.66",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.32",
+        "away": "0.56"
+      }
+    }
+  },
+  "13 Sep 2025_Sassuolo-Lazio": {
+    "Date": "13 Sep 2025",
+    "Match": "Sassuolo-Lazio",
+    "Score": "1:0",
+    "Odds": "3.5|3.45|1.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "6",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "1.44"
+      }
+    }
+  },
+  "13 Sep 2025_Pisa-Udinese": {
+    "Date": "13 Sep 2025",
+    "Match": "Pisa-Udinese",
+    "Score": "0:1",
+    "Odds": "2.93|3.0|2.75",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "1.34"
+      }
+    }
+  },
+  "13 Sep 2025_Atalanta-Lecce": {
+    "Date": "13 Sep 2025",
+    "Match": "Atalanta-Lecce",
+    "Score": "4:1",
+    "Odds": "1.38|4.55|8.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.20",
+        "away": "1.37"
+      }
+    }
+  },
+  "13 Sep 2025_Roma-Torino": {
+    "Date": "13 Sep 2025",
+    "Match": "Roma-Torino",
+    "Score": "0:1",
+    "Odds": "1.53|4.22|6.85",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Torino",
+      "possession": {
+        "home": "73%",
+        "away": "27%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.27",
+        "away": "0.99"
+      }
+    }
+  },
+  "13 Sep 2025_Fiorentina-Napoli": {
+    "Date": "13 Sep 2025",
+    "Match": "Fiorentina-Napoli",
+    "Score": "1:3",
+    "Odds": "3.45|3.0|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.75",
+        "away": "1.74"
+      }
+    }
+  },
+  "13 Sep 2025_Juventus-Inter Milan": {
+    "Date": "13 Sep 2025",
+    "Match": "Juventus-Inter Milan",
+    "Score": "4:3",
+    "Odds": "2.63|2.93|2.87",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "14"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.94"
+      }
+    }
+  },
+  "13 Sep 2025_Cagliari-Parma": {
+    "Date": "13 Sep 2025",
+    "Match": "Cagliari-Parma",
+    "Score": "2:0",
+    "Odds": "2.15|3.25|3.45",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Parma",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "1.85"
+      }
+    }
+  },
+  "19 Sep 2025_Napoli-Pisa": {
+    "Date": "19 Sep 2025",
+    "Match": "Napoli-Pisa",
+    "Score": "3:2",
+    "Odds": "1.3|5.0|10.85",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "1.53"
+      }
+    }
+  },
+  "19 Sep 2025_Inter Milan-Sassuolo": {
+    "Date": "19 Sep 2025",
+    "Match": "Inter Milan-Sassuolo",
+    "Score": "2:1",
+    "Odds": "1.31|5.75|9.74",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.22",
+        "away": "1.11"
+      }
+    }
+  },
+  "19 Sep 2025_Fiorentina-Como": {
+    "Date": "19 Sep 2025",
+    "Match": "Fiorentina-Como",
+    "Score": "1:2",
+    "Odds": "2.44|3.0|3.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Como",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "12"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.78",
+        "away": "2.04"
+      }
+    }
+  },
+  "19 Sep 2025_Torino-Atalanta": {
+    "Date": "19 Sep 2025",
+    "Match": "Torino-Atalanta",
+    "Score": "0:3",
+    "Odds": "3.4|3.25|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "1.19"
+      }
+    }
+  },
+  "19 Sep 2025_Cremonese-Parma": {
+    "Date": "19 Sep 2025",
+    "Match": "Cremonese-Parma",
+    "Score": "0:0",
+    "Odds": "2.47|3.05|2.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Parma",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "3",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "12"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.44",
+        "away": "1.48"
+      }
+    }
+  },
+  "19 Sep 2025_Lazio-Roma": {
+    "Date": "19 Sep 2025",
+    "Match": "Lazio-Roma",
+    "Score": "0:1",
+    "Odds": "2.86|3.15|2.51",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Roma",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "1.60"
+      }
+    }
+  },
+  "19 Sep 2025_Udinese-AC Milan": {
+    "Date": "19 Sep 2025",
+    "Match": "Udinese-AC Milan",
+    "Score": "0:3",
+    "Odds": "4.2|3.73|1.77",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.55"
+      }
+    }
+  },
+  "19 Sep 2025_Hellas Verona-Juventus": {
+    "Date": "19 Sep 2025",
+    "Match": "Hellas Verona-Juventus",
+    "Score": "1:1",
+    "Odds": "6.4|3.88|1.52",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "28%",
+        "away": "72%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "1.33"
+      }
+    }
+  },
+  "19 Sep 2025_Bologna-Genoa": {
+    "Date": "19 Sep 2025",
+    "Match": "Bologna-Genoa",
+    "Score": "2:1",
+    "Odds": "1.87|3.2|4.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "5"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.64",
+        "away": "0.85"
+      }
+    }
+  },
+  "19 Sep 2025_Lecce-Cagliari": {
+    "Date": "19 Sep 2025",
+    "Match": "Lecce-Cagliari",
+    "Score": "1:2",
+    "Odds": "2.64|2.89|2.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.37",
+        "away": "1.67"
+      }
+    }
+  },
+  "27 Sep 2025_Genoa-Lazio": {
+    "Date": "27 Sep 2025",
+    "Match": "Genoa-Lazio",
+    "Score": "0:3",
+    "Odds": "3.0|3.1|2.44",
+    "Result": "Away"
+  },
+  "27 Sep 2025_Parma-Torino": {
+    "Date": "27 Sep 2025",
+    "Match": "Parma-Torino",
+    "Score": "2:1",
+    "Odds": "2.48|2.87|3.0",
+    "Result": "Home"
+  },
+  "27 Sep 2025_AC Milan-Napoli": {
+    "Date": "27 Sep 2025",
+    "Match": "AC Milan-Napoli",
+    "Score": "2:1",
+    "Odds": "2.38|3.2|3.91",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.69",
+        "away": "2.23"
+      }
+    }
+  },
+  "27 Sep 2025_Lecce-Bologna": {
+    "Date": "27 Sep 2025",
+    "Match": "Lecce-Bologna",
+    "Score": "2:2",
+    "Odds": "4.55|2.96|1.73",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "33%",
+        "away": "67%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.24",
+        "away": "1.54"
+      }
+    }
+  },
+  "27 Sep 2025_Pisa-Fiorentina": {
+    "Date": "27 Sep 2025",
+    "Match": "Pisa-Fiorentina",
+    "Score": "0:0",
+    "Odds": "3.4|3.1|2.23",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "12"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.06",
+        "away": "1.25"
+      }
+    }
+  },
+  "27 Sep 2025_Roma-Hellas Verona": {
+    "Date": "27 Sep 2025",
+    "Match": "Roma-Hellas Verona",
+    "Score": "2:0",
+    "Odds": "1.32|4.4|8.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.33",
+        "away": "1.29"
+      }
+    }
+  },
+  "27 Sep 2025_Sassuolo-Udinese": {
+    "Date": "27 Sep 2025",
+    "Match": "Sassuolo-Udinese",
+    "Score": "3:1",
+    "Odds": "2.4|3.15|3.15",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "1.39"
+      }
+    }
+  },
+  "27 Sep 2025_Cagliari-Inter Milan": {
+    "Date": "27 Sep 2025",
+    "Match": "Cagliari-Inter Milan",
+    "Score": "0:2",
+    "Odds": "5.7|4.3|1.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "15"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.66",
+        "away": "1.95"
+      }
+    }
+  },
+  "27 Sep 2025_Juventus-Atalanta": {
+    "Date": "27 Sep 2025",
+    "Match": "Juventus-Atalanta",
+    "Score": "1:1",
+    "Odds": "1.91|3.5|4.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "67%",
+        "away": "33%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "10"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "14",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.86",
+        "away": "1.05"
+      }
+    }
+  },
+  "27 Sep 2025_Como-Cremonese": {
+    "Date": "27 Sep 2025",
+    "Match": "Como-Cremonese",
+    "Score": "1:1",
+    "Odds": "1.44|4.6|7.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "5",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "0.91"
+      }
+    }
+  },
+  "03 Oct 2025_Juventus-AC Milan": {
+    "Date": "03 Oct 2025",
+    "Match": "Juventus-AC Milan",
+    "Score": "0:0",
+    "Odds": "2.65|3.2|2.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.38",
+        "away": "1.29"
+      }
+    }
+  },
+  "03 Oct 2025_Napoli-Genoa": {
+    "Date": "03 Oct 2025",
+    "Match": "Napoli-Genoa",
+    "Score": "2:1",
+    "Odds": "1.42|3.85|8.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.52",
+        "away": "0.65"
+      }
+    }
+  },
+  "03 Oct 2025_Fiorentina-Roma": {
+    "Date": "03 Oct 2025",
+    "Match": "Fiorentina-Roma",
+    "Score": "1:2",
+    "Odds": "3.05|3.45|2.42",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Roma",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.14",
+        "away": "0.95"
+      }
+    }
+  },
+  "03 Oct 2025_Bologna-Pisa": {
+    "Date": "03 Oct 2025",
+    "Match": "Bologna-Pisa",
+    "Score": "4:0",
+    "Odds": "1.7|3.6|5.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "2"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "2"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.40",
+        "away": "0.28"
+      }
+    }
+  },
+  "03 Oct 2025_Udinese-Cagliari": {
+    "Date": "03 Oct 2025",
+    "Match": "Udinese-Cagliari",
+    "Score": "1:1",
+    "Odds": "2.13|3.2|3.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "19",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "2.18",
+        "away": "0.74"
+      }
+    }
+  },
+  "03 Oct 2025_Atalanta-Como": {
+    "Date": "03 Oct 2025",
+    "Match": "Atalanta-Como",
+    "Score": "1:1",
+    "Odds": "2.4|3.3|3.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Como",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.65",
+        "away": "1.30"
+      }
+    }
+  },
+  "03 Oct 2025_Inter Milan-Cremonese": {
+    "Date": "03 Oct 2025",
+    "Match": "Inter Milan-Cremonese",
+    "Score": "4:1",
+    "Odds": "1.18|7.0|15.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "27",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "1"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "13",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.80",
+        "away": "0.48"
+      }
+    }
+  },
+  "03 Oct 2025_Lazio-Torino": {
+    "Date": "03 Oct 2025",
+    "Match": "Lazio-Torino",
+    "Score": "3:3",
+    "Odds": "1.9|3.4|4.35",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Torino",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "1.76"
+      }
+    }
+  },
+  "03 Oct 2025_Parma-Lecce": {
+    "Date": "03 Oct 2025",
+    "Match": "Parma-Lecce",
+    "Score": "0:1",
+    "Odds": "1.94|3.34|4.2",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.09",
+        "away": "0.92"
+      }
+    }
+  },
+  "03 Oct 2025_Hellas Verona-Sassuolo": {
+    "Date": "03 Oct 2025",
+    "Match": "Hellas Verona-Sassuolo",
+    "Score": "0:1",
+    "Odds": "2.5|3.2|2.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.09",
+        "away": "1.14"
+      }
+    }
+  },
+  "18 Oct 2025_Cremonese-Udinese": {
+    "Date": "18 Oct 2025",
+    "Match": "Cremonese-Udinese",
+    "Score": "1:1",
+    "Odds": "2.96|3.11|2.33",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "0.92"
+      }
+    }
+  },
+  "18 Oct 2025_AC Milan-Fiorentina": {
+    "Date": "18 Oct 2025",
+    "Match": "AC Milan-Fiorentina",
+    "Score": "2:1",
+    "Odds": "1.71|3.9|5.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.51",
+        "away": "0.70"
+      }
+    }
+  },
+  "18 Oct 2025_Atalanta-Lazio": {
+    "Date": "18 Oct 2025",
+    "Match": "Atalanta-Lazio",
+    "Score": "0:0",
+    "Odds": "1.75|3.5|4.58",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.91",
+        "away": "0.52"
+      }
+    }
+  },
+  "18 Oct 2025_Genoa-Parma": {
+    "Date": "18 Oct 2025",
+    "Match": "Genoa-Parma",
+    "Score": "0:0",
+    "Odds": "2.25|2.99|3.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Parma",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "1"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "1"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "3",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.32",
+        "away": "0.19"
+      }
+    }
+  },
+  "18 Oct 2025_Cagliari-Bologna": {
+    "Date": "18 Oct 2025",
+    "Match": "Cagliari-Bologna",
+    "Score": "0:2",
+    "Odds": "3.9|3.0|2.05",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "1",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.59",
+        "away": "1.29"
+      }
+    }
+  },
+  "18 Oct 2025_Como-Juventus": {
+    "Date": "18 Oct 2025",
+    "Match": "Como-Juventus",
+    "Score": "2:0",
+    "Odds": "3.1|2.97|2.41",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.41",
+        "away": "1.54"
+      }
+    }
+  },
+  "18 Oct 2025_Roma-Inter Milan": {
+    "Date": "18 Oct 2025",
+    "Match": "Roma-Inter Milan",
+    "Score": "0:1",
+    "Odds": "2.95|3.12|2.44",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "29"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.68",
+        "away": "1.32"
+      }
+    }
+  },
+  "18 Oct 2025_Torino-Napoli": {
+    "Date": "18 Oct 2025",
+    "Match": "Torino-Napoli",
+    "Score": "1:0",
+    "Odds": "5.4|3.21|1.74",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "31%",
+        "away": "69%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "22"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "17"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.18",
+        "away": "2.26"
+      }
+    }
+  },
+  "18 Oct 2025_Pisa-Hellas Verona": {
+    "Date": "18 Oct 2025",
+    "Match": "Pisa-Hellas Verona",
+    "Score": "0:0",
+    "Odds": "2.6|2.8|2.8",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "12"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.73",
+        "away": "1.54"
+      }
+    }
+  },
+  "18 Oct 2025_Lecce-Sassuolo": {
+    "Date": "18 Oct 2025",
+    "Match": "Lecce-Sassuolo",
+    "Score": "0:0",
+    "Odds": "2.8|3.05|2.55",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.19",
+        "away": "0.93"
+      }
+    }
+  },
+  "24 Oct 2025_Lazio-Juventus": {
+    "Date": "24 Oct 2025",
+    "Match": "Lazio-Juventus",
+    "Score": "1:0",
+    "Odds": "3.4|3.0|2.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.66"
+      }
+    }
+  },
+  "24 Oct 2025_Fiorentina-Bologna": {
+    "Date": "24 Oct 2025",
+    "Match": "Fiorentina-Bologna",
+    "Score": "2:2",
+    "Odds": "2.6|2.9|2.8",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "0.76"
+      }
+    }
+  },
+  "24 Oct 2025_Sassuolo-Roma": {
+    "Date": "24 Oct 2025",
+    "Match": "Sassuolo-Roma",
+    "Score": "0:1",
+    "Odds": "3.85|3.48|1.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Roma",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.04",
+        "away": "1.80"
+      }
+    }
+  },
+  "24 Oct 2025_Hellas Verona-Cagliari": {
+    "Date": "24 Oct 2025",
+    "Match": "Hellas Verona-Cagliari",
+    "Score": "2:2",
+    "Odds": "2.11|2.83|3.75",
+    "Result": "Draw"
+  },
+  "24 Oct 2025_Torino-Genoa": {
+    "Date": "24 Oct 2025",
+    "Match": "Torino-Genoa",
+    "Score": "2:1",
+    "Odds": "2.4|2.87|3.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.64",
+        "away": "1.18"
+      }
+    }
+  },
+  "24 Oct 2025_Cremonese-Atalanta": {
+    "Date": "24 Oct 2025",
+    "Match": "Cremonese-Atalanta",
+    "Score": "1:1",
+    "Odds": "5.1|4.1|1.59",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "14"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.15",
+        "away": "2.15"
+      }
+    }
+  },
+  "24 Oct 2025_Napoli-Inter Milan": {
+    "Date": "24 Oct 2025",
+    "Match": "Napoli-Inter Milan",
+    "Score": "3:1",
+    "Odds": "3.1|3.15|2.42",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.98",
+        "away": "1.52"
+      }
+    }
+  },
+  "24 Oct 2025_Udinese-Lecce": {
+    "Date": "24 Oct 2025",
+    "Match": "Udinese-Lecce",
+    "Score": "3:2",
+    "Odds": "1.85|3.2|4.48",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.07",
+        "away": "1.39"
+      }
+    }
+  },
+  "24 Oct 2025_Parma-Como": {
+    "Date": "24 Oct 2025",
+    "Match": "Parma-Como",
+    "Score": "0:0",
+    "Odds": "4.0|3.3|1.87",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Como",
+      "possession": {
+        "home": "29%",
+        "away": "71%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.08",
+        "away": "0.89"
+      }
+    }
+  },
+  "24 Oct 2025_AC Milan-Pisa": {
+    "Date": "24 Oct 2025",
+    "Match": "AC Milan-Pisa",
+    "Score": "2:2",
+    "Odds": "1.26|5.8|9.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.37",
+        "away": "0.82"
+      }
+    }
+  },
+  "28 Oct 2025_Pisa-Lazio": {
+    "Date": "28 Oct 2025",
+    "Match": "Pisa-Lazio",
+    "Score": "0:0",
+    "Odds": "3.5|3.0|2.15",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.98",
+        "away": "1.28"
+      }
+    }
+  },
+  "28 Oct 2025_Cagliari-Sassuolo": {
+    "Date": "28 Oct 2025",
+    "Match": "Cagliari-Sassuolo",
+    "Score": "1:2",
+    "Odds": "2.5|3.05|2.82",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.83",
+        "away": "1.43"
+      }
+    }
+  },
+  "28 Oct 2025_Inter Milan-Fiorentina": {
+    "Date": "28 Oct 2025",
+    "Match": "Inter Milan-Fiorentina",
+    "Score": "3:0",
+    "Odds": "1.41|4.55|7.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.48",
+        "away": "1.00"
+      }
+    }
+  },
+  "28 Oct 2025_Genoa-Cremonese": {
+    "Date": "28 Oct 2025",
+    "Match": "Genoa-Cremonese",
+    "Score": "0:2",
+    "Odds": "1.85|3.25|4.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.48",
+        "away": "1.16"
+      }
+    }
+  },
+  "28 Oct 2025_Bologna-Torino": {
+    "Date": "28 Oct 2025",
+    "Match": "Bologna-Torino",
+    "Score": "0:0",
+    "Odds": "1.85|3.3|4.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Torino",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.27",
+        "away": "0.86"
+      }
+    }
+  },
+  "28 Oct 2025_Juventus-Udinese": {
+    "Date": "28 Oct 2025",
+    "Match": "Juventus-Udinese",
+    "Score": "3:1",
+    "Odds": "1.29|4.25|8.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "8",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.75",
+        "away": "0.85"
+      }
+    }
+  },
+  "28 Oct 2025_Roma-Parma": {
+    "Date": "28 Oct 2025",
+    "Match": "Roma-Parma",
+    "Score": "2:1",
+    "Odds": "1.57|3.85|7.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Parma",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "9",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.98",
+        "away": "1.18"
+      }
+    }
+  },
+  "28 Oct 2025_Como-Hellas Verona": {
+    "Date": "28 Oct 2025",
+    "Match": "Como-Hellas Verona",
+    "Score": "3:1",
+    "Odds": "1.6|3.7|6.35",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.67",
+        "away": "1.65"
+      }
+    }
+  },
+  "28 Oct 2025_Atalanta-AC Milan": {
+    "Date": "28 Oct 2025",
+    "Match": "Atalanta-AC Milan",
+    "Score": "1:1",
+    "Odds": "2.65|3.25|2.68",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.67",
+        "away": "0.68"
+      }
+    }
+  },
+  "28 Oct 2025_Lecce-Napoli": {
+    "Date": "28 Oct 2025",
+    "Match": "Lecce-Napoli",
+    "Score": "0:1",
+    "Odds": "6.4|3.5|1.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.84",
+        "away": "1.53"
+      }
+    }
+  },
+  "01 Nov 2025_Lazio-Cagliari": {
+    "Date": "01 Nov 2025",
+    "Match": "Lazio-Cagliari",
+    "Score": "2:0",
+    "Odds": "1.62|3.65|6.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "12"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "0.98",
+        "away": "1.62"
+      }
+    }
+  },
+  "01 Nov 2025_Sassuolo-Genoa": {
+    "Date": "01 Nov 2025",
+    "Match": "Sassuolo-Genoa",
+    "Score": "1:2",
+    "Odds": "2.19|2.87|3.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.39",
+        "away": "1.64"
+      }
+    }
+  },
+  "01 Nov 2025_AC Milan-Roma": {
+    "Date": "01 Nov 2025",
+    "Match": "AC Milan-Roma",
+    "Score": "1:0",
+    "Odds": "2.2|3.1|3.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Roma",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "14"
+      },
+      "cards": {
+        "home": "1",
+        "away": "5"
+      },
+      "corners": {
+        "home": "7",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.88",
+        "away": "2.18"
+      }
+    }
+  },
+  "01 Nov 2025_Parma-Bologna": {
+    "Date": "01 Nov 2025",
+    "Match": "Parma-Bologna",
+    "Score": "1:3",
+    "Odds": "3.55|3.0|2.17",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "22"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "16"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "6"
+      },
+      "xg": {
+        "home": "0.67",
+        "away": "2.28"
+      }
+    }
+  },
+  "01 Nov 2025_Torino-Pisa": {
+    "Date": "01 Nov 2025",
+    "Match": "Torino-Pisa",
+    "Score": "2:2",
+    "Odds": "1.94|3.25|4.35",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.50",
+        "away": "1.11"
+      }
+    }
+  },
+  "01 Nov 2025_Fiorentina-Lecce": {
+    "Date": "01 Nov 2025",
+    "Match": "Fiorentina-Lecce",
+    "Score": "0:1",
+    "Odds": "1.54|3.45|5.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.55",
+        "away": "1.17"
+      }
+    }
+  },
+  "01 Nov 2025_Hellas Verona-Inter Milan": {
+    "Date": "01 Nov 2025",
+    "Match": "Hellas Verona-Inter Milan",
+    "Score": "1:2",
+    "Odds": "7.75|4.8|1.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "27%",
+        "away": "73%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "15"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.87",
+        "away": "2.09"
+      }
+    }
+  },
+  "01 Nov 2025_Cremonese-Juventus": {
+    "Date": "01 Nov 2025",
+    "Match": "Cremonese-Juventus",
+    "Score": "1:2",
+    "Odds": "6.6|4.5|1.51",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.89",
+        "away": "1.69"
+      }
+    }
+  },
+  "01 Nov 2025_Napoli-Como": {
+    "Date": "01 Nov 2025",
+    "Match": "Napoli-Como",
+    "Score": "0:0",
+    "Odds": "1.94|3.24|4.38",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Como",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.65",
+        "away": "1.28"
+      }
+    }
+  },
+  "01 Nov 2025_Udinese-Atalanta": {
+    "Date": "01 Nov 2025",
+    "Match": "Udinese-Atalanta",
+    "Score": "1:0",
+    "Odds": "4.5|3.8|1.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "0.60"
+      }
+    }
+  },
+  "07 Nov 2025_Inter Milan-Lazio": {
+    "Date": "07 Nov 2025",
+    "Match": "Inter Milan-Lazio",
+    "Score": "2:0",
+    "Odds": "1.22|5.0|8.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "26",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.01",
+        "away": "1.22"
+      }
+    }
+  },
+  "07 Nov 2025_Roma-Udinese": {
+    "Date": "07 Nov 2025",
+    "Match": "Roma-Udinese",
+    "Score": "2:0",
+    "Odds": "1.38|3.9|6.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.12"
+      }
+    }
+  },
+  "07 Nov 2025_Bologna-Napoli": {
+    "Date": "07 Nov 2025",
+    "Match": "Bologna-Napoli",
+    "Score": "2:0",
+    "Odds": "3.0|3.0|2.39",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.21",
+        "away": "0.66"
+      }
+    }
+  },
+  "07 Nov 2025_Genoa-Fiorentina": {
+    "Date": "07 Nov 2025",
+    "Match": "Genoa-Fiorentina",
+    "Score": "2:2",
+    "Odds": "2.5|2.9|2.68",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.38",
+        "away": "0.84"
+      }
+    }
+  },
+  "07 Nov 2025_Atalanta-Sassuolo": {
+    "Date": "07 Nov 2025",
+    "Match": "Atalanta-Sassuolo",
+    "Score": "0:3",
+    "Odds": "1.35|4.2|6.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.48",
+        "away": "0.93"
+      }
+    }
+  },
+  "07 Nov 2025_Parma-AC Milan": {
+    "Date": "07 Nov 2025",
+    "Match": "Parma-AC Milan",
+    "Score": "2:2",
+    "Odds": "6.0|3.5|1.57",
+    "Result": "Draw"
+  },
+  "07 Nov 2025_Juventus-Torino": {
+    "Date": "07 Nov 2025",
+    "Match": "Juventus-Torino",
+    "Score": "0:0",
+    "Odds": "1.5|3.9|6.6",
+    "Result": "Draw"
+  },
+  "07 Nov 2025_Lecce-Hellas Verona": {
+    "Date": "07 Nov 2025",
+    "Match": "Lecce-Hellas Verona",
+    "Score": "0:0",
+    "Odds": "2.75|2.87|2.9",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.51",
+        "away": "0.74"
+      }
+    }
+  },
+  "07 Nov 2025_Como-Cagliari": {
+    "Date": "07 Nov 2025",
+    "Match": "Como-Cagliari",
+    "Score": "0:0",
+    "Odds": "1.5|4.2|7.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "75%",
+        "away": "25%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "10",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.45",
+        "away": "0.48"
+      }
+    }
+  },
+  "07 Nov 2025_Pisa-Cremonese": {
+    "Date": "07 Nov 2025",
+    "Match": "Pisa-Cremonese",
+    "Score": "1:0",
+    "Odds": "2.25|3.03|3.45",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.59",
+        "away": "1.46"
+      }
+    }
+  },
+  "22 Nov 2025_Sassuolo-Pisa": {
+    "Date": "22 Nov 2025",
+    "Match": "Sassuolo-Pisa",
+    "Score": "2:2",
+    "Odds": "2.1|3.1|4.07",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.39",
+        "away": "1.05"
+      }
+    }
+  },
+  "22 Nov 2025_Torino-Como": {
+    "Date": "22 Nov 2025",
+    "Match": "Torino-Como",
+    "Score": "1:5",
+    "Odds": "3.5|3.16|2.24",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Como",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.03",
+        "away": "1.82"
+      }
+    }
+  },
+  "22 Nov 2025_Inter Milan-AC Milan": {
+    "Date": "22 Nov 2025",
+    "Match": "Inter Milan-AC Milan",
+    "Score": "0:1",
+    "Odds": "1.85|3.25|3.84",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.27",
+        "away": "0.95"
+      }
+    }
+  },
+  "22 Nov 2025_Lazio-Lecce": {
+    "Date": "22 Nov 2025",
+    "Match": "Lazio-Lecce",
+    "Score": "2:0",
+    "Odds": "1.65|3.0|5.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "67%",
+        "away": "33%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.31",
+        "away": "0.64"
+      }
+    }
+  },
+  "22 Nov 2025_Cremonese-Roma": {
+    "Date": "22 Nov 2025",
+    "Match": "Cremonese-Roma",
+    "Score": "1:3",
+    "Odds": "5.7|3.7|1.63",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Roma",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "1.47"
+      }
+    }
+  },
+  "22 Nov 2025_Hellas Verona-Parma": {
+    "Date": "22 Nov 2025",
+    "Match": "Hellas Verona-Parma",
+    "Score": "1:2",
+    "Odds": "2.25|3.0|3.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Parma",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "24",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "1.73"
+      }
+    }
+  },
+  "22 Nov 2025_Napoli-Atalanta": {
+    "Date": "22 Nov 2025",
+    "Match": "Napoli-Atalanta",
+    "Score": "3:1",
+    "Odds": "2.38|3.14|3.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.37",
+        "away": "1.45"
+      }
+    }
+  },
+  "22 Nov 2025_Fiorentina-Juventus": {
+    "Date": "22 Nov 2025",
+    "Match": "Fiorentina-Juventus",
+    "Score": "1:1",
+    "Odds": "3.85|3.3|2.04",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "13"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.12",
+        "away": "1.69"
+      }
+    }
+  },
+  "22 Nov 2025_Udinese-Bologna": {
+    "Date": "22 Nov 2025",
+    "Match": "Udinese-Bologna",
+    "Score": "0:3",
+    "Odds": "3.35|3.15|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.30",
+        "away": "1.23"
+      }
+    }
+  },
+  "22 Nov 2025_Cagliari-Genoa": {
+    "Date": "22 Nov 2025",
+    "Match": "Cagliari-Genoa",
+    "Score": "3:3",
+    "Odds": "2.9|2.84|2.77",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "22",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "1.62"
+      }
+    }
+  },
+  "28 Nov 2025_Bologna-Cremonese": {
+    "Date": "28 Nov 2025",
+    "Match": "Bologna-Cremonese",
+    "Score": "1:3",
+    "Odds": "1.51|4.4|7.13",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "29",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "22",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "13",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.86",
+        "away": "1.13"
+      }
+    }
+  },
+  "28 Nov 2025_Roma-Napoli": {
+    "Date": "28 Nov 2025",
+    "Match": "Roma-Napoli",
+    "Score": "0:1",
+    "Odds": "2.65|2.96|3.05",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.03",
+        "away": "1.02"
+      }
+    }
+  },
+  "28 Nov 2025_Atalanta-Fiorentina": {
+    "Date": "28 Nov 2025",
+    "Match": "Atalanta-Fiorentina",
+    "Score": "2:0",
+    "Odds": "1.52|3.8|5.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "12"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.30",
+        "away": "1.37"
+      }
+    }
+  },
+  "28 Nov 2025_Pisa-Inter Milan": {
+    "Date": "28 Nov 2025",
+    "Match": "Pisa-Inter Milan",
+    "Score": "0:2",
+    "Odds": "8.1|5.2|1.33",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.08",
+        "away": "1.50"
+      }
+    }
+  },
+  "28 Nov 2025_Lecce-Torino": {
+    "Date": "28 Nov 2025",
+    "Match": "Lecce-Torino",
+    "Score": "2:1",
+    "Odds": "2.9|2.89|2.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Torino",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.98",
+        "away": "1.62"
+      }
+    }
+  },
+  "28 Nov 2025_AC Milan-Lazio": {
+    "Date": "28 Nov 2025",
+    "Match": "AC Milan-Lazio",
+    "Score": "1:0",
+    "Odds": "1.6|3.55|5.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "1.13"
+      }
+    }
+  },
+  "28 Nov 2025_Juventus-Cagliari": {
+    "Date": "28 Nov 2025",
+    "Match": "Juventus-Cagliari",
+    "Score": "2:1",
+    "Odds": "1.25|5.5|12.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "5"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "0.71"
+      }
+    }
+  },
+  "28 Nov 2025_Parma-Udinese": {
+    "Date": "28 Nov 2025",
+    "Match": "Parma-Udinese",
+    "Score": "0:2",
+    "Odds": "2.7|3.1|2.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "1.47"
+      }
+    }
+  },
+  "28 Nov 2025_Genoa-Hellas Verona": {
+    "Date": "28 Nov 2025",
+    "Match": "Genoa-Hellas Verona",
+    "Score": "2:1",
+    "Odds": "2.0|2.95|4.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.48",
+        "away": "1.47"
+      }
+    }
+  },
+  "28 Nov 2025_Como-Sassuolo": {
+    "Date": "28 Nov 2025",
+    "Match": "Como-Sassuolo",
+    "Score": "2:0",
+    "Odds": "1.65|3.55|5.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.36",
+        "away": "1.31"
+      }
+    }
+  },
+  "06 Dec 2025_Torino-AC Milan": {
+    "Date": "06 Dec 2025",
+    "Match": "Torino-AC Milan",
+    "Score": "2:3",
+    "Odds": "5.25|3.55|1.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.00",
+        "away": "1.90"
+      }
+    }
+  },
+  "06 Dec 2025_Udinese-Genoa": {
+    "Date": "06 Dec 2025",
+    "Match": "Udinese-Genoa",
+    "Score": "1:2",
+    "Odds": "2.64|2.9|3.19",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.22",
+        "away": "1.34"
+      }
+    }
+  },
+  "06 Dec 2025_Pisa-Parma": {
+    "Date": "06 Dec 2025",
+    "Match": "Pisa-Parma",
+    "Score": "0:1",
+    "Odds": "2.38|2.89|3.28",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Parma",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "0.84"
+      }
+    }
+  },
+  "06 Dec 2025_Napoli-Juventus": {
+    "Date": "06 Dec 2025",
+    "Match": "Napoli-Juventus",
+    "Score": "2:1",
+    "Odds": "2.53|3.0|2.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "0.63"
+      }
+    }
+  },
+  "06 Dec 2025_Lazio-Bologna": {
+    "Date": "06 Dec 2025",
+    "Match": "Lazio-Bologna",
+    "Score": "1:1",
+    "Odds": "2.32|3.05|3.1",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.92",
+        "away": "1.49"
+      }
+    }
+  },
+  "06 Dec 2025_Cagliari-Roma": {
+    "Date": "06 Dec 2025",
+    "Match": "Cagliari-Roma",
+    "Score": "1:0",
+    "Odds": "5.1|3.53|1.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Roma",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.83",
+        "away": "0.83"
+      }
+    }
+  },
+  "06 Dec 2025_Cremonese-Lecce": {
+    "Date": "06 Dec 2025",
+    "Match": "Cremonese-Lecce",
+    "Score": "2:0",
+    "Odds": "2.39|2.99|3.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.30",
+        "away": "1.09"
+      }
+    }
+  },
+  "06 Dec 2025_Hellas Verona-Atalanta": {
+    "Date": "06 Dec 2025",
+    "Match": "Hellas Verona-Atalanta",
+    "Score": "3:1",
+    "Odds": "5.0|3.9|1.68",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.47",
+        "away": "1.45"
+      }
+    }
+  },
+  "06 Dec 2025_Inter Milan-Como": {
+    "Date": "06 Dec 2025",
+    "Match": "Inter Milan-Como",
+    "Score": "4:0",
+    "Odds": "1.48|4.15|5.8",
+    "Result": "Home"
+  },
+  "06 Dec 2025_Sassuolo-Fiorentina": {
+    "Date": "06 Dec 2025",
+    "Match": "Sassuolo-Fiorentina",
+    "Score": "3:1",
+    "Odds": "2.95|3.0|2.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "0.94"
+      }
+    }
+  },
+  "12 Dec 2025_Roma-Como": {
+    "Date": "12 Dec 2025",
+    "Match": "Roma-Como",
+    "Score": "1:0",
+    "Odds": "2.1|3.2|3.45",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Como",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "1.14"
+      }
+    }
+  },
+  "12 Dec 2025_Bologna-Juventus": {
+    "Date": "12 Dec 2025",
+    "Match": "Bologna-Juventus",
+    "Score": "0:1",
+    "Odds": "3.1|3.05|2.31",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.34"
+      }
+    }
+  },
+  "12 Dec 2025_Genoa-Inter Milan": {
+    "Date": "12 Dec 2025",
+    "Match": "Genoa-Inter Milan",
+    "Score": "1:2",
+    "Odds": "6.5|4.06|1.53",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.78",
+        "away": "2.12"
+      }
+    }
+  },
+  "12 Dec 2025_Udinese-Napoli": {
+    "Date": "12 Dec 2025",
+    "Match": "Udinese-Napoli",
+    "Score": "1:0",
+    "Odds": "4.1|3.35|1.89",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "0.80"
+      }
+    }
+  },
+  "12 Dec 2025_Fiorentina-Hellas Verona": {
+    "Date": "12 Dec 2025",
+    "Match": "Fiorentina-Hellas Verona",
+    "Score": "1:2",
+    "Odds": "1.81|3.45|4.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "5"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.03",
+        "away": "1.20"
+      }
+    }
+  },
+  "12 Dec 2025_AC Milan-Sassuolo": {
+    "Date": "12 Dec 2025",
+    "Match": "AC Milan-Sassuolo",
+    "Score": "2:2",
+    "Odds": "1.47|4.28|7.41",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "1.01"
+      }
+    }
+  },
+  "12 Dec 2025_Atalanta-Cagliari": {
+    "Date": "12 Dec 2025",
+    "Match": "Atalanta-Cagliari",
+    "Score": "2:1",
+    "Odds": "1.23|5.29|8.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.99",
+        "away": "0.83"
+      }
+    }
+  },
+  "12 Dec 2025_Parma-Lazio": {
+    "Date": "12 Dec 2025",
+    "Match": "Parma-Lazio",
+    "Score": "0:1",
+    "Odds": "3.8|3.2|2.1",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "1.48"
+      }
+    }
+  },
+  "12 Dec 2025_Torino-Cremonese": {
+    "Date": "12 Dec 2025",
+    "Match": "Torino-Cremonese",
+    "Score": "1:0",
+    "Odds": "1.95|3.25|3.86",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.93",
+        "away": "1.24"
+      }
+    }
+  },
+  "12 Dec 2025_Lecce-Pisa": {
+    "Date": "12 Dec 2025",
+    "Match": "Lecce-Pisa",
+    "Score": "1:0",
+    "Odds": "2.45|2.87|3.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "12",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.83",
+        "away": "0.59"
+      }
+    }
+  },
+  "20 Dec 2025_Udinese-Lazio": {
+    "Date": "20 Dec 2025",
+    "Match": "Udinese-Lazio",
+    "Score": "1:1",
+    "Odds": "3.0|2.9|2.28",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "13"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.63",
+        "away": "1.11"
+      }
+    }
+  },
+  "20 Dec 2025_Torino-Cagliari": {
+    "Date": "20 Dec 2025",
+    "Match": "Torino-Cagliari",
+    "Score": "1:2",
+    "Odds": "1.95|3.29|3.97",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.32",
+        "away": "0.99"
+      }
+    }
+  },
+  "20 Dec 2025_Lecce-Como": {
+    "Date": "20 Dec 2025",
+    "Match": "Lecce-Como",
+    "Score": "0:3",
+    "Odds": "4.6|3.37|1.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Como",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "24"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.44"
+      }
+    }
+  },
+  "20 Dec 2025_Parma-Fiorentina": {
+    "Date": "20 Dec 2025",
+    "Match": "Parma-Fiorentina",
+    "Score": "1:0",
+    "Odds": "3.65|3.2|1.97",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "23"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "19"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.30",
+        "away": "2.31"
+      }
+    }
+  },
+  "20 Dec 2025_Genoa-Atalanta": {
+    "Date": "20 Dec 2025",
+    "Match": "Genoa-Atalanta",
+    "Score": "0:1",
+    "Odds": "3.7|3.1|2.15",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "29%",
+        "away": "71%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.82",
+        "away": "1.96"
+      }
+    }
+  },
+  "20 Dec 2025_Fiorentina-Udinese": {
+    "Date": "20 Dec 2025",
+    "Match": "Fiorentina-Udinese",
+    "Score": "5:1",
+    "Odds": "2.1|3.2|3.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.06",
+        "away": "1.18"
+      }
+    }
+  },
+  "20 Dec 2025_Sassuolo-Torino": {
+    "Date": "20 Dec 2025",
+    "Match": "Sassuolo-Torino",
+    "Score": "0:1",
+    "Odds": "2.34|3.03|3.2",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Torino",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.77",
+        "away": "1.19"
+      }
+    }
+  },
+  "20 Dec 2025_Cagliari-Pisa": {
+    "Date": "20 Dec 2025",
+    "Match": "Cagliari-Pisa",
+    "Score": "2:2",
+    "Odds": "2.16|3.2|3.39",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.44"
+      }
+    }
+  },
+  "20 Dec 2025_Juventus-Roma": {
+    "Date": "20 Dec 2025",
+    "Match": "Juventus-Roma",
+    "Score": "2:1",
+    "Odds": "2.07|3.2|3.88",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Roma",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.84",
+        "away": "1.68"
+      }
+    }
+  },
+  "20 Dec 2025_Lazio-Cremonese": {
+    "Date": "20 Dec 2025",
+    "Match": "Lazio-Cremonese",
+    "Score": "0:0",
+    "Odds": "1.61|3.75|6.31",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "4",
+        "away": "5"
+      },
+      "corners": {
+        "home": "3",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.91",
+        "away": "0.82"
+      }
+    }
+  },
+  "27 Dec 2025_Sassuolo-Parma": {
+    "Date": "27 Dec 2025",
+    "Match": "Sassuolo-Parma",
+    "Score": "1:1",
+    "Odds": "2.05|3.3|3.9",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Sassuolo",
+      "away_team": "Parma",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.67"
+      }
+    }
+  },
+  "27 Dec 2025_Genoa-Pisa": {
+    "Date": "27 Dec 2025",
+    "Match": "Genoa-Pisa",
+    "Score": "1:1",
+    "Odds": "2.0|3.1|4.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.16"
+      }
+    }
+  },
+  "27 Dec 2025_Como-Udinese": {
+    "Date": "27 Dec 2025",
+    "Match": "Como-Udinese",
+    "Score": "1:0",
+    "Odds": "1.72|3.63|4.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "0.36"
+      }
+    }
+  },
+  "27 Dec 2025_Cagliari-AC Milan": {
+    "Date": "27 Dec 2025",
+    "Match": "Cagliari-AC Milan",
+    "Score": "0:1",
+    "Odds": "6.1|3.85|1.42",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.69",
+        "away": "1.40"
+      }
+    }
+  },
+  "27 Dec 2025_Roma-Genoa": {
+    "Date": "27 Dec 2025",
+    "Match": "Roma-Genoa",
+    "Score": "3:1",
+    "Odds": "1.45|3.6|6.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.97",
+        "away": "1.01"
+      }
+    }
+  },
+  "27 Dec 2025_Atalanta-Inter Milan": {
+    "Date": "27 Dec 2025",
+    "Match": "Atalanta-Inter Milan",
+    "Score": "0:1",
+    "Odds": "3.55|3.55|2.05",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.71",
+        "away": "1.60"
+      }
+    }
+  },
+  "27 Dec 2025_Bologna-Sassuolo": {
+    "Date": "27 Dec 2025",
+    "Match": "Bologna-Sassuolo",
+    "Score": "1:1",
+    "Odds": "1.97|3.45|3.85",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.77",
+        "away": "1.03"
+      }
+    }
+  },
+  "27 Dec 2025_Cremonese-Napoli": {
+    "Date": "27 Dec 2025",
+    "Match": "Cremonese-Napoli",
+    "Score": "0:2",
+    "Odds": "5.6|3.77|1.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "22"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "14"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.80",
+        "away": "2.33"
+      }
+    }
+  },
+  "27 Dec 2025_AC Milan-Hellas Verona": {
+    "Date": "27 Dec 2025",
+    "Match": "AC Milan-Hellas Verona",
+    "Score": "3:0",
+    "Odds": "1.4|4.8|9.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Hellas Verona",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.27",
+        "away": "0.92"
+      }
+    }
+  },
+  "27 Dec 2025_Pisa-Juventus": {
+    "Date": "27 Dec 2025",
+    "Match": "Pisa-Juventus",
+    "Score": "0:2",
+    "Odds": "8.0|4.2|1.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.98",
+        "away": "1.94"
+      }
+    }
+  },
+  "03 Jan 2026_Napoli-Hellas Verona": {
+    "Date": "03 Jan 2026",
+    "Match": "Napoli-Hellas Verona",
+    "Score": "2:2",
+    "Odds": "1.35|4.8|11.64",
+    "Result": "Draw"
+  },
+  "03 Jan 2026_Sassuolo-Juventus": {
+    "Date": "03 Jan 2026",
+    "Match": "Sassuolo-Juventus",
+    "Score": "0:3",
+    "Odds": "5.0|3.7|1.7",
+    "Result": "Away"
+  },
+  "03 Jan 2026_Lecce-Roma": {
+    "Date": "03 Jan 2026",
+    "Match": "Lecce-Roma",
+    "Score": "0:2",
+    "Odds": "5.3|3.45|1.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Roma",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.80",
+        "away": "1.21"
+      }
+    }
+  },
+  "03 Jan 2026_Pisa-Como": {
+    "Date": "03 Jan 2026",
+    "Match": "Pisa-Como",
+    "Score": "0:3",
+    "Odds": "4.9|3.5|1.72",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Como",
+      "possession": {
+        "home": "27%",
+        "away": "73%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "1.92"
+      }
+    }
+  },
+  "03 Jan 2026_Inter Milan-Bologna": {
+    "Date": "03 Jan 2026",
+    "Match": "Inter Milan-Bologna",
+    "Score": "3:1",
+    "Odds": "1.42|4.6|8.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.29",
+        "away": "0.68"
+      }
+    }
+  },
+  "03 Jan 2026_Hellas Verona-Torino": {
+    "Date": "03 Jan 2026",
+    "Match": "Hellas Verona-Torino",
+    "Score": "0:3",
+    "Odds": "2.8|2.8|2.76",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Torino",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "16"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "1.87"
+      }
+    }
+  },
+  "03 Jan 2026_Fiorentina-Cremonese": {
+    "Date": "03 Jan 2026",
+    "Match": "Fiorentina-Cremonese",
+    "Score": "1:0",
+    "Odds": "1.76|3.5|4.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.49",
+        "away": "0.64"
+      }
+    }
+  },
+  "03 Jan 2026_Lazio-Napoli": {
+    "Date": "03 Jan 2026",
+    "Match": "Lazio-Napoli",
+    "Score": "0:2",
+    "Odds": "3.65|3.0|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "7",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.47",
+        "away": "1.51"
+      }
+    }
+  },
+  "03 Jan 2026_Atalanta-Roma": {
+    "Date": "03 Jan 2026",
+    "Match": "Atalanta-Roma",
+    "Score": "1:0",
+    "Odds": "2.33|3.25|3.42",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Roma",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.32",
+        "away": "1.22"
+      }
+    }
+  },
+  "03 Jan 2026_Juventus-Lecce": {
+    "Date": "03 Jan 2026",
+    "Match": "Juventus-Lecce",
+    "Score": "1:1",
+    "Odds": "1.26|5.0|13.99",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "72%",
+        "away": "28%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "20",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "10",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.78",
+        "away": "0.58"
+      }
+    }
+  },
+  "07 Jan 2026_Atalanta-Torino": {
+    "Date": "07 Jan 2026",
+    "Match": "Atalanta-Torino",
+    "Score": "2:0",
+    "Odds": "1.57|3.9|7.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Atalanta",
+      "away_team": "Torino",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.88",
+        "away": "1.11"
+      }
+    }
+  },
+  "07 Jan 2026_Roma-Sassuolo": {
+    "Date": "07 Jan 2026",
+    "Match": "Roma-Sassuolo",
+    "Score": "2:0",
+    "Odds": "1.65|3.55|5.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Roma",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "26",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "20",
+        "away": "2"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.68",
+        "away": "0.71"
+      }
+    }
+  },
+  "07 Jan 2026_Udinese-Pisa": {
+    "Date": "07 Jan 2026",
+    "Match": "Udinese-Pisa",
+    "Score": "2:2",
+    "Odds": "1.85|3.4|4.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Pisa",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "1.68"
+      }
+    }
+  },
+  "07 Jan 2026_Como-Bologna": {
+    "Date": "07 Jan 2026",
+    "Match": "Como-Bologna",
+    "Score": "1:1",
+    "Odds": "2.0|3.2|4.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "3"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "0.75"
+      }
+    }
+  },
+  "07 Jan 2026_AC Milan-Genoa": {
+    "Date": "07 Jan 2026",
+    "Match": "AC Milan-Genoa",
+    "Score": "1:1",
+    "Odds": "1.44|4.2|8.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "AC Milan",
+      "away_team": "Genoa",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "32",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "24",
+        "away": "5"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "12",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "3.36",
+        "away": "0.70"
+      }
+    }
+  },
+  "07 Jan 2026_Cremonese-Cagliari": {
+    "Date": "07 Jan 2026",
+    "Match": "Cremonese-Cagliari",
+    "Score": "2:2",
+    "Odds": "2.45|2.9|3.2",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Cremonese",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "16"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "2.10"
+      }
+    }
+  },
+  "07 Jan 2026_Torino-Udinese": {
+    "Date": "07 Jan 2026",
+    "Match": "Torino-Udinese",
+    "Score": "1:2",
+    "Odds": "2.3|2.9|3.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Torino",
+      "away_team": "Udinese",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "1.14"
+      }
+    }
+  },
+  "07 Jan 2026_Lazio-Fiorentina": {
+    "Date": "07 Jan 2026",
+    "Match": "Lazio-Fiorentina",
+    "Score": "2:2",
+    "Odds": "2.45|3.0|3.2",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Lazio",
+      "away_team": "Fiorentina",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.06",
+        "away": "1.09"
+      }
+    }
+  },
+  "07 Jan 2026_Parma-Inter Milan": {
+    "Date": "07 Jan 2026",
+    "Match": "Parma-Inter Milan",
+    "Score": "0:2",
+    "Odds": "8.0|5.0|1.22",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Parma",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "26"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "18"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "4",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.47",
+        "away": "2.84"
+      }
+    }
+  },
+  "07 Jan 2026_Bologna-Atalanta": {
+    "Date": "07 Jan 2026",
+    "Match": "Bologna-Atalanta",
+    "Score": "0:2",
+    "Odds": "2.9|3.3|2.23",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bologna",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.21",
+        "away": "1.37"
+      }
+    }
+  },
+  "11 Jan 2026_Como-AC Milan": {
+    "Date": "11 Jan 2026",
+    "Match": "Como-AC Milan",
+    "Score": "1:3",
+    "Odds": "3.06|3.15|2.53",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Como",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.18",
+        "away": "0.86"
+      }
+    }
+  },
+  "11 Jan 2026_Hellas Verona-Bologna": {
+    "Date": "11 Jan 2026",
+    "Match": "Hellas Verona-Bologna",
+    "Score": "2:3",
+    "Odds": "3.62|3.08|2.21",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Bologna",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.53",
+        "away": "1.56"
+      }
+    }
+  },
+  "11 Jan 2026_Inter Milan-Lecce": {
+    "Date": "11 Jan 2026",
+    "Match": "Inter Milan-Lecce",
+    "Score": "1:0",
+    "Odds": "1.17|7.9|18.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Lecce",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "11",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.31",
+        "away": "0.90"
+      }
+    }
+  },
+  "11 Jan 2026_Napoli-Parma": {
+    "Date": "11 Jan 2026",
+    "Match": "Napoli-Parma",
+    "Score": "0:0",
+    "Odds": "1.34|5.25|10.96",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Parma",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.96",
+        "away": "0.42"
+      }
+    }
+  },
+  "11 Jan 2026_Juventus-Cremonese": {
+    "Date": "11 Jan 2026",
+    "Match": "Juventus-Cremonese",
+    "Score": "5:0",
+    "Odds": "1.26|6.1|12.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Juventus",
+      "away_team": "Cremonese",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.33",
+        "away": "0.98"
+      }
+    }
+  },
+  "11 Jan 2026_Genoa-Cagliari": {
+    "Date": "11 Jan 2026",
+    "Match": "Genoa-Cagliari",
+    "Score": "3:0",
+    "Odds": "2.15|2.9|4.19",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Genoa",
+      "away_team": "Cagliari",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.45"
+      }
+    }
+  },
+  "11 Jan 2026_Inter Milan-Napoli": {
+    "Date": "11 Jan 2026",
+    "Match": "Inter Milan-Napoli",
+    "Score": "2:2",
+    "Odds": "1.75|3.44|4.95",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Inter Milan",
+      "away_team": "Napoli",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.45",
+        "away": "0.84"
+      }
+    }
+  },
+  "11 Jan 2026_Hellas Verona-Lazio": {
+    "Date": "11 Jan 2026",
+    "Match": "Hellas Verona-Lazio",
+    "Score": "0:1",
+    "Odds": "3.15|2.85|2.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hellas Verona",
+      "away_team": "Lazio",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.08",
+        "away": "1.08"
+      }
+    }
+  },
+  "11 Jan 2026_Fiorentina-AC Milan": {
+    "Date": "11 Jan 2026",
+    "Match": "Fiorentina-AC Milan",
+    "Score": "1:1",
+    "Odds": "3.4|3.35|2.11",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Fiorentina",
+      "away_team": "AC Milan",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "8",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.14",
+        "away": "1.29"
+      }
+    }
+  },
+  "11 Jan 2026_Lecce-Parma": {
+    "Date": "11 Jan 2026",
+    "Match": "Lecce-Parma",
+    "Score": "1:2",
+    "Odds": "2.43|2.82|2.91",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Lecce",
+      "away_team": "Parma",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "10"
+      },
+      "cards": {
+        "home": "7",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.92",
+        "away": "1.28"
+      }
+    }
+  },
+  "16 Jan 2026_Pisa-Atalanta": {
+    "Date": "16 Jan 2026",
+    "Match": "Pisa-Atalanta",
+    "Score": "1:1",
+    "Odds": "5.7|4.2|1.37",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Pisa",
+      "away_team": "Atalanta",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.90",
+        "away": "1.17"
+      }
+    }
+  },
+  "16 Jan 2026_Cagliari-Juventus": {
+    "Date": "16 Jan 2026",
+    "Match": "Cagliari-Juventus",
+    "Score": "1:0",
+    "Odds": "7.0|4.0|1.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Cagliari",
+      "away_team": "Juventus",
+      "possession": {
+        "home": "22%",
+        "away": "78%"
+      },
+      "shots": {
+        "home": "3",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "16"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "18"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.35",
+        "away": "2.52"
+      }
+    }
+  },
+  "16 Jan 2026_Napoli-Sassuolo": {
+    "Date": "16 Jan 2026",
+    "Match": "Napoli-Sassuolo",
+    "Score": "1:0",
+    "Odds": "1.43|4.25|8.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Napoli",
+      "away_team": "Sassuolo",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "17"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "1.86"
+      }
+    }
+  },
+  "16 Jan 2026_Udinese-Inter Milan": {
+    "Date": "16 Jan 2026",
+    "Match": "Udinese-Inter Milan",
+    "Score": "0:1",
+    "Odds": "8.01|4.85|1.41",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Udinese",
+      "away_team": "Inter Milan",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.65",
+        "away": "1.56"
+      }
+    }
+  }
+}

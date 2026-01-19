@@ -1,0 +1,7181 @@
+{
+  "22 Aug 2025_Eintracht Frankfurt-Werder Bremen": {
+    "Date": "22 Aug 2025",
+    "Match": "Eintracht Frankfurt-Werder Bremen",
+    "Score": "4:1",
+    "Odds": "1.55|4.7|5.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.95",
+        "away": "1.21"
+      }
+    }
+  },
+  "22 Aug 2025_Union Berlin-Stuttgart": {
+    "Date": "22 Aug 2025",
+    "Match": "Union Berlin-Stuttgart",
+    "Score": "2:1",
+    "Odds": "3.8|3.95|1.85",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "25%",
+        "away": "75%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "15"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.85",
+        "away": "2.20"
+      }
+    }
+  },
+  "22 Aug 2025_Bayer Leverkusen-Hoffenheim": {
+    "Date": "22 Aug 2025",
+    "Match": "Bayer Leverkusen-Hoffenheim",
+    "Score": "1:2",
+    "Odds": "1.75|4.15|4.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "1.23"
+      }
+    }
+  },
+  "22 Aug 2025_Heidenheim-Wolfsburg": {
+    "Date": "22 Aug 2025",
+    "Match": "Heidenheim-Wolfsburg",
+    "Score": "1:3",
+    "Odds": "2.82|3.25|2.58",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.82",
+        "away": "1.62"
+      }
+    }
+  },
+  "22 Aug 2025_Freiburg-Augsburg": {
+    "Date": "22 Aug 2025",
+    "Match": "Freiburg-Augsburg",
+    "Score": "1:3",
+    "Odds": "1.95|3.55|3.95",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "9"
+      },
+      "cards": {
+        "home": "4",
+        "away": "5"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.66",
+        "away": "1.54"
+      }
+    }
+  },
+  "22 Aug 2025_Bayern München-RB Leipzig": {
+    "Date": "22 Aug 2025",
+    "Match": "Bayern München-RB Leipzig",
+    "Score": "6:0",
+    "Odds": "1.25|6.5|11.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "11"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.26",
+        "away": "1.08"
+      }
+    }
+  },
+  "23 Aug 2025_Wolfsburg-Mainz 05": {
+    "Date": "23 Aug 2025",
+    "Match": "Wolfsburg-Mainz 05",
+    "Score": "1:1",
+    "Odds": "2.08|3.55|3.4",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "14"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "3",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.10",
+        "away": "1.95"
+      }
+    }
+  },
+  "23 Aug 2025_Augsburg-Bayern München": {
+    "Date": "23 Aug 2025",
+    "Match": "Augsburg-Bayern München",
+    "Score": "2:3",
+    "Odds": "9.2|6.0|1.27",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.10",
+        "away": "2.40"
+      }
+    }
+  },
+  "23 Aug 2025_RB Leipzig-Heidenheim": {
+    "Date": "23 Aug 2025",
+    "Match": "RB Leipzig-Heidenheim",
+    "Score": "2:0",
+    "Odds": "1.48|4.35|6.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "2"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.00",
+        "away": "0.70"
+      }
+    }
+  },
+  "23 Aug 2025_Werder Bremen-Bayer Leverkusen": {
+    "Date": "23 Aug 2025",
+    "Match": "Werder Bremen-Bayer Leverkusen",
+    "Score": "3:3",
+    "Odds": "3.5|3.8|1.99",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "1.29"
+      }
+    }
+  },
+  "23 Aug 2025_Stuttgart-Borussia M'gladbach": {
+    "Date": "23 Aug 2025",
+    "Match": "Stuttgart-Borussia M'gladbach",
+    "Score": "1:0",
+    "Odds": "1.55|4.76|5.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.54",
+        "away": "1.73"
+      }
+    }
+  },
+  "23 Aug 2025_Hoffenheim-Eintracht Frankfurt": {
+    "Date": "23 Aug 2025",
+    "Match": "Hoffenheim-Eintracht Frankfurt",
+    "Score": "1:3",
+    "Odds": "2.7|3.8|2.35",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.91",
+        "away": "1.20"
+      }
+    }
+  },
+  "23 Aug 2025_Hamburger SV-St. Pauli": {
+    "Date": "23 Aug 2025",
+    "Match": "Hamburger SV-St. Pauli",
+    "Score": "0:2",
+    "Odds": "2.44|3.26|2.96",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "11"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.71",
+        "away": "1.96"
+      }
+    }
+  },
+  "23 Aug 2025_Borussia M'gladbach-Hamburger SV": {
+    "Date": "23 Aug 2025",
+    "Match": "Borussia M'gladbach-Hamburger SV",
+    "Score": "0:0",
+    "Odds": "1.87|3.9|3.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.83",
+        "away": "0.82"
+      }
+    }
+  },
+  "23 Aug 2025_Mainz 05-Köln": {
+    "Date": "23 Aug 2025",
+    "Match": "Mainz 05-Köln",
+    "Score": "0:1",
+    "Odds": "1.9|3.75|3.95",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Köln",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.87",
+        "away": "1.15"
+      }
+    }
+  },
+  "23 Aug 2025_St. Pauli-Borussia Dortmund": {
+    "Date": "23 Aug 2025",
+    "Match": "St. Pauli-Borussia Dortmund",
+    "Score": "3:3",
+    "Odds": "4.6|3.74|1.71",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "St. Pauli",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.61",
+        "away": "1.18"
+      }
+    }
+  },
+  "31 Aug 2025_St. Pauli-Augsburg": {
+    "Date": "31 Aug 2025",
+    "Match": "St. Pauli-Augsburg",
+    "Score": "2:1",
+    "Odds": "1.94|3.1|3.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "St. Pauli",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.63",
+        "away": "1.19"
+      }
+    }
+  },
+  "31 Aug 2025_Bayern München-Hamburger SV": {
+    "Date": "31 Aug 2025",
+    "Match": "Bayern München-Hamburger SV",
+    "Score": "5:0",
+    "Odds": "1.07|11.0|23.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "12",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.77",
+        "away": "0.94"
+      }
+    }
+  },
+  "31 Aug 2025_Freiburg-Stuttgart": {
+    "Date": "31 Aug 2025",
+    "Match": "Freiburg-Stuttgart",
+    "Score": "3:1",
+    "Odds": "2.56|3.65|2.52",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.83",
+        "away": "0.94"
+      }
+    }
+  },
+  "31 Aug 2025_Union Berlin-Hoffenheim": {
+    "Date": "31 Aug 2025",
+    "Match": "Union Berlin-Hoffenheim",
+    "Score": "2:4",
+    "Odds": "2.62|3.45|2.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "1"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.13",
+        "away": "1.47"
+      }
+    }
+  },
+  "31 Aug 2025_Heidenheim-Borussia Dortmund": {
+    "Date": "31 Aug 2025",
+    "Match": "Heidenheim-Borussia Dortmund",
+    "Score": "0:2",
+    "Odds": "5.25|4.45|1.57",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "25%",
+        "away": "75%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "9"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.58",
+        "away": "2.48"
+      }
+    }
+  },
+  "31 Aug 2025_Mainz 05-RB Leipzig": {
+    "Date": "31 Aug 2025",
+    "Match": "Mainz 05-RB Leipzig",
+    "Score": "0:1",
+    "Odds": "2.19|3.6|2.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "16"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.53",
+        "away": "1.58"
+      }
+    }
+  },
+  "31 Aug 2025_Wolfsburg-Köln": {
+    "Date": "31 Aug 2025",
+    "Match": "Wolfsburg-Köln",
+    "Score": "3:3",
+    "Odds": "2.0|3.6|3.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Köln",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.56",
+        "away": "1.76"
+      }
+    }
+  },
+  "31 Aug 2025_Bayer Leverkusen-Eintracht Frankfurt": {
+    "Date": "31 Aug 2025",
+    "Match": "Bayer Leverkusen-Eintracht Frankfurt",
+    "Score": "3:1",
+    "Odds": "2.2|3.9|2.8",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "11"
+      },
+      "cards": {
+        "home": "5",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.90",
+        "away": "1.54"
+      }
+    }
+  },
+  "31 Aug 2025_Köln-Freiburg": {
+    "Date": "31 Aug 2025",
+    "Match": "Köln-Freiburg",
+    "Score": "4:1",
+    "Odds": "2.56|3.15|2.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.71",
+        "away": "1.31"
+      }
+    }
+  },
+  "31 Aug 2025_Borussia Dortmund-Union Berlin": {
+    "Date": "31 Aug 2025",
+    "Match": "Borussia Dortmund-Union Berlin",
+    "Score": "3:0",
+    "Odds": "1.41|4.84|7.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.50",
+        "away": "1.22"
+      }
+    }
+  },
+  "14 Sep 2025_Borussia Dortmund-Wolfsburg": {
+    "Date": "14 Sep 2025",
+    "Match": "Borussia Dortmund-Wolfsburg",
+    "Score": "1:0",
+    "Odds": "1.55|4.6|5.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "9",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.63",
+        "away": "0.80"
+      }
+    }
+  },
+  "14 Sep 2025_Bayer Leverkusen-Borussia M'gladbach": {
+    "Date": "14 Sep 2025",
+    "Match": "Bayer Leverkusen-Borussia M'gladbach",
+    "Score": "1:1",
+    "Odds": "1.53|4.46|5.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "cards": {
+        "home": "5",
+        "away": "5"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.77",
+        "away": "1.66"
+      }
+    }
+  },
+  "14 Sep 2025_Eintracht Frankfurt-Union Berlin": {
+    "Date": "14 Sep 2025",
+    "Match": "Eintracht Frankfurt-Union Berlin",
+    "Score": "3:4",
+    "Odds": "1.54|4.2|5.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "78%",
+        "away": "22%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "5"
+      },
+      "xg": {
+        "home": "2.39",
+        "away": "1.16"
+      }
+    }
+  },
+  "14 Sep 2025_RB Leipzig-Köln": {
+    "Date": "14 Sep 2025",
+    "Match": "RB Leipzig-Köln",
+    "Score": "3:1",
+    "Odds": "1.61|4.2|4.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Köln",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.01",
+        "away": "1.35"
+      }
+    }
+  },
+  "14 Sep 2025_Augsburg-Mainz 05": {
+    "Date": "14 Sep 2025",
+    "Match": "Augsburg-Mainz 05",
+    "Score": "1:4",
+    "Odds": "2.53|3.1|2.41",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.87",
+        "away": "1.44"
+      }
+    }
+  },
+  "14 Sep 2025_Hamburger SV-Heidenheim": {
+    "Date": "14 Sep 2025",
+    "Match": "Hamburger SV-Heidenheim",
+    "Score": "2:1",
+    "Odds": "1.72|3.55|3.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "12"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "12"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.31",
+        "away": "2.21"
+      }
+    }
+  },
+  "14 Sep 2025_Werder Bremen-Freiburg": {
+    "Date": "14 Sep 2025",
+    "Match": "Werder Bremen-Freiburg",
+    "Score": "0:3",
+    "Odds": "2.23|3.65|2.75",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "5",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.16"
+      }
+    }
+  },
+  "14 Sep 2025_Hoffenheim-Bayern München": {
+    "Date": "14 Sep 2025",
+    "Match": "Hoffenheim-Bayern München",
+    "Score": "1:4",
+    "Odds": "8.0|6.1|1.33",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.37",
+        "away": "2.15"
+      }
+    }
+  },
+  "14 Sep 2025_Stuttgart-St. Pauli": {
+    "Date": "14 Sep 2025",
+    "Match": "Stuttgart-St. Pauli",
+    "Score": "2:0",
+    "Odds": "1.64|4.1|4.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.94",
+        "away": "0.94"
+      }
+    }
+  },
+  "14 Sep 2025_Borussia M'gladbach-Werder Bremen": {
+    "Date": "14 Sep 2025",
+    "Match": "Borussia M'gladbach-Werder Bremen",
+    "Score": "0:4",
+    "Odds": "2.12|3.9|3.19",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.85",
+        "away": "1.43"
+      }
+    }
+  },
+  "26 Sep 2025_Hoffenheim-Köln": {
+    "Date": "26 Sep 2025",
+    "Match": "Hoffenheim-Köln",
+    "Score": "0:1",
+    "Odds": "1.85|3.8|3.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "Köln",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "11",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.71",
+        "away": "1.16"
+      }
+    }
+  },
+  "26 Sep 2025_Union Berlin-Hamburger SV": {
+    "Date": "26 Sep 2025",
+    "Match": "Union Berlin-Hamburger SV",
+    "Score": "0:0",
+    "Odds": "2.02|3.35|3.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "34%",
+        "away": "66%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.18",
+        "away": "1.73"
+      }
+    }
+  },
+  "26 Sep 2025_Köln-Stuttgart": {
+    "Date": "26 Sep 2025",
+    "Match": "Köln-Stuttgart",
+    "Score": "1:2",
+    "Odds": "2.5|3.71|2.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.69",
+        "away": "1.59"
+      }
+    }
+  },
+  "26 Sep 2025_Freiburg-Hoffenheim": {
+    "Date": "26 Sep 2025",
+    "Match": "Freiburg-Hoffenheim",
+    "Score": "1:1",
+    "Odds": "2.23|3.65|3.1",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.67",
+        "away": "1.63"
+      }
+    }
+  },
+  "26 Sep 2025_Borussia M'gladbach-Eintracht Frankfurt": {
+    "Date": "26 Sep 2025",
+    "Match": "Borussia M'gladbach-Eintracht Frankfurt",
+    "Score": "4:6",
+    "Odds": "3.1|3.7|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "14"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.46",
+        "away": "2.20"
+      }
+    }
+  },
+  "26 Sep 2025_Heidenheim-Augsburg": {
+    "Date": "26 Sep 2025",
+    "Match": "Heidenheim-Augsburg",
+    "Score": "2:1",
+    "Odds": "2.76|3.5|2.46",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "6"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "0.92"
+      }
+    }
+  },
+  "26 Sep 2025_Wolfsburg-RB Leipzig": {
+    "Date": "26 Sep 2025",
+    "Match": "Wolfsburg-RB Leipzig",
+    "Score": "0:1",
+    "Odds": "2.6|3.7|2.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "14"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.90",
+        "away": "2.17"
+      }
+    }
+  },
+  "26 Sep 2025_Mainz 05-Borussia Dortmund": {
+    "Date": "26 Sep 2025",
+    "Match": "Mainz 05-Borussia Dortmund",
+    "Score": "0:2",
+    "Odds": "3.45|3.7|2.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.00",
+        "away": "1.18"
+      }
+    }
+  },
+  "26 Sep 2025_St. Pauli-Bayer Leverkusen": {
+    "Date": "26 Sep 2025",
+    "Match": "St. Pauli-Bayer Leverkusen",
+    "Score": "1:2",
+    "Odds": "3.2|3.4|2.2",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "St. Pauli",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "1"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "13",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.69",
+        "away": "0.75"
+      }
+    }
+  },
+  "26 Sep 2025_Bayern München-Werder Bremen": {
+    "Date": "26 Sep 2025",
+    "Match": "Bayern München-Werder Bremen",
+    "Score": "4:0",
+    "Odds": "1.08|12.0|19.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "26",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "13",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "3.07",
+        "away": "1.02"
+      }
+    }
+  },
+  "04 Oct 2025_Köln-Augsburg": {
+    "Date": "04 Oct 2025",
+    "Match": "Köln-Augsburg",
+    "Score": "1:1",
+    "Odds": "1.85|3.8|3.58",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.21",
+        "away": "1.13"
+      }
+    }
+  },
+  "04 Oct 2025_Union Berlin-Borussia M'gladbach": {
+    "Date": "04 Oct 2025",
+    "Match": "Union Berlin-Borussia M'gladbach",
+    "Score": "3:1",
+    "Odds": "2.19|3.45|3.09",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "5",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.73",
+        "away": "0.93"
+      }
+    }
+  },
+  "04 Oct 2025_Borussia M'gladbach-Freiburg": {
+    "Date": "04 Oct 2025",
+    "Match": "Borussia M'gladbach-Freiburg",
+    "Score": "0:0",
+    "Odds": "2.38|3.5|2.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "1.26"
+      }
+    }
+  },
+  "04 Oct 2025_Hamburger SV-Mainz 05": {
+    "Date": "04 Oct 2025",
+    "Match": "Hamburger SV-Mainz 05",
+    "Score": "4:0",
+    "Odds": "3.1|3.7|2.15",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "1.54"
+      }
+    }
+  },
+  "04 Oct 2025_Stuttgart-Heidenheim": {
+    "Date": "04 Oct 2025",
+    "Match": "Stuttgart-Heidenheim",
+    "Score": "1:0",
+    "Odds": "1.41|4.9|6.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.96",
+        "away": "0.64"
+      }
+    }
+  },
+  "04 Oct 2025_Eintracht Frankfurt-Bayern München": {
+    "Date": "04 Oct 2025",
+    "Match": "Eintracht Frankfurt-Bayern München",
+    "Score": "0:3",
+    "Odds": "5.6|5.0|1.45",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "0.67",
+        "away": "1.46"
+      }
+    }
+  },
+  "04 Oct 2025_Augsburg-Wolfsburg": {
+    "Date": "04 Oct 2025",
+    "Match": "Augsburg-Wolfsburg",
+    "Score": "3:1",
+    "Odds": "2.5|3.5|2.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "10",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.41",
+        "away": "1.44"
+      }
+    }
+  },
+  "04 Oct 2025_Bayer Leverkusen-Union Berlin": {
+    "Date": "04 Oct 2025",
+    "Match": "Bayer Leverkusen-Union Berlin",
+    "Score": "2:0",
+    "Odds": "1.7|3.8|4.8",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "74%",
+        "away": "26%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.85",
+        "away": "1.01"
+      }
+    }
+  },
+  "04 Oct 2025_Borussia Dortmund-RB Leipzig": {
+    "Date": "04 Oct 2025",
+    "Match": "Borussia Dortmund-RB Leipzig",
+    "Score": "1:1",
+    "Odds": "1.66|4.67|4.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.53",
+        "away": "1.31"
+      }
+    }
+  },
+  "04 Oct 2025_Werder Bremen-St. Pauli": {
+    "Date": "04 Oct 2025",
+    "Match": "Werder Bremen-St. Pauli",
+    "Score": "1:0",
+    "Odds": "2.3|3.5|2.88",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "1.46"
+      }
+    }
+  },
+  "18 Oct 2025_Augsburg-RB Leipzig": {
+    "Date": "18 Oct 2025",
+    "Match": "Augsburg-RB Leipzig",
+    "Score": "0:6",
+    "Odds": "3.1|3.7|2.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.41",
+        "away": "1.74"
+      }
+    }
+  },
+  "18 Oct 2025_Hoffenheim-Heidenheim": {
+    "Date": "18 Oct 2025",
+    "Match": "Hoffenheim-Heidenheim",
+    "Score": "3:1",
+    "Odds": "1.56|4.33|5.25",
+    "Result": "Home"
+  },
+  "18 Oct 2025_Werder Bremen-Union Berlin": {
+    "Date": "18 Oct 2025",
+    "Match": "Werder Bremen-Union Berlin",
+    "Score": "1:0",
+    "Odds": "2.02|3.58|3.38",
+    "Result": "Home"
+  },
+  "18 Oct 2025_St. Pauli-Hoffenheim": {
+    "Date": "18 Oct 2025",
+    "Match": "St. Pauli-Hoffenheim",
+    "Score": "0:3",
+    "Odds": "2.6|3.4|2.86",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "St. Pauli",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "9",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "1.44"
+      }
+    }
+  },
+  "18 Oct 2025_Freiburg-Eintracht Frankfurt": {
+    "Date": "18 Oct 2025",
+    "Match": "Freiburg-Eintracht Frankfurt",
+    "Score": "2:2",
+    "Odds": "2.47|3.65|2.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.51",
+        "away": "0.86"
+      }
+    }
+  },
+  "18 Oct 2025_Bayern München-Borussia Dortmund": {
+    "Date": "18 Oct 2025",
+    "Match": "Bayern München-Borussia Dortmund",
+    "Score": "2:1",
+    "Odds": "1.35|5.3|7.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.73",
+        "away": "0.81"
+      }
+    }
+  },
+  "18 Oct 2025_Mainz 05-Bayer Leverkusen": {
+    "Date": "18 Oct 2025",
+    "Match": "Mainz 05-Bayer Leverkusen",
+    "Score": "3:4",
+    "Odds": "2.7|3.4|2.54",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "12"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.30",
+        "away": "2.13"
+      }
+    }
+  },
+  "18 Oct 2025_RB Leipzig-Hamburger SV": {
+    "Date": "18 Oct 2025",
+    "Match": "RB Leipzig-Hamburger SV",
+    "Score": "2:1",
+    "Odds": "1.43|4.8|6.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.98",
+        "away": "1.28"
+      }
+    }
+  },
+  "18 Oct 2025_Wolfsburg-Stuttgart": {
+    "Date": "18 Oct 2025",
+    "Match": "Wolfsburg-Stuttgart",
+    "Score": "0:3",
+    "Odds": "2.79|3.7|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.89",
+        "away": "2.95"
+      }
+    }
+  },
+  "18 Oct 2025_Heidenheim-Werder Bremen": {
+    "Date": "18 Oct 2025",
+    "Match": "Heidenheim-Werder Bremen",
+    "Score": "2:2",
+    "Odds": "2.9|3.5|2.2",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "31",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "20",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "12",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "3.31",
+        "away": "1.21"
+      }
+    }
+  },
+  "25 Oct 2025_St. Pauli-Borussia M'gladbach": {
+    "Date": "25 Oct 2025",
+    "Match": "St. Pauli-Borussia M'gladbach",
+    "Score": "0:4",
+    "Odds": "2.25|3.42|3.1",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "St. Pauli",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "4",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.75",
+        "away": "1.81"
+      }
+    }
+  },
+  "25 Oct 2025_Mainz 05-Werder Bremen": {
+    "Date": "25 Oct 2025",
+    "Match": "Mainz 05-Werder Bremen",
+    "Score": "1:1",
+    "Odds": "1.69|3.96|4.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.46",
+        "away": "0.78"
+      }
+    }
+  },
+  "25 Oct 2025_RB Leipzig-Stuttgart": {
+    "Date": "25 Oct 2025",
+    "Match": "RB Leipzig-Stuttgart",
+    "Score": "3:1",
+    "Odds": "2.02|3.8|3.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "7"
+      },
+      "xg": {
+        "home": "1.88",
+        "away": "1.58"
+      }
+    }
+  },
+  "25 Oct 2025_Augsburg-Borussia Dortmund": {
+    "Date": "25 Oct 2025",
+    "Match": "Augsburg-Borussia Dortmund",
+    "Score": "0:1",
+    "Odds": "3.71|3.83|1.85",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "0.75"
+      }
+    }
+  },
+  "25 Oct 2025_Stuttgart-Mainz 05": {
+    "Date": "25 Oct 2025",
+    "Match": "Stuttgart-Mainz 05",
+    "Score": "2:1",
+    "Odds": "1.78|4.02|3.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "11"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "5"
+      },
+      "xg": {
+        "home": "2.02",
+        "away": "1.27"
+      }
+    }
+  },
+  "25 Oct 2025_Bayer Leverkusen-Freiburg": {
+    "Date": "25 Oct 2025",
+    "Match": "Bayer Leverkusen-Freiburg",
+    "Score": "2:0",
+    "Odds": "1.85|3.5|3.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.92",
+        "away": "1.10"
+      }
+    }
+  },
+  "25 Oct 2025_Borussia Dortmund-Köln": {
+    "Date": "25 Oct 2025",
+    "Match": "Borussia Dortmund-Köln",
+    "Score": "1:0",
+    "Odds": "1.43|4.8|6.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Köln",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "27",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "18",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "17",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.96",
+        "away": "0.44"
+      }
+    }
+  },
+  "25 Oct 2025_Borussia M'gladbach-Bayern München": {
+    "Date": "25 Oct 2025",
+    "Match": "Borussia M'gladbach-Bayern München",
+    "Score": "0:3",
+    "Odds": "11.0|7.0|1.22",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "17%",
+        "away": "83%"
+      },
+      "shots": {
+        "home": "1",
+        "away": "27"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "11"
+      },
+      "shots_off_target": {
+        "home": "1",
+        "away": "16"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.19",
+        "away": "3.40"
+      }
+    }
+  },
+  "25 Oct 2025_Hamburger SV-Wolfsburg": {
+    "Date": "25 Oct 2025",
+    "Match": "Hamburger SV-Wolfsburg",
+    "Score": "0:1",
+    "Odds": "2.25|3.65|3.13",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "27",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "21",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "5"
+      },
+      "corners": {
+        "home": "11",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.67",
+        "away": "0.68"
+      }
+    }
+  },
+  "25 Oct 2025_Eintracht Frankfurt-St. Pauli": {
+    "Date": "25 Oct 2025",
+    "Match": "Eintracht Frankfurt-St. Pauli",
+    "Score": "2:0",
+    "Odds": "1.73|3.9|4.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.03"
+      }
+    }
+  },
+  "01 Nov 2025_Hamburger SV-Borussia Dortmund": {
+    "Date": "01 Nov 2025",
+    "Match": "Hamburger SV-Borussia Dortmund",
+    "Score": "1:1",
+    "Odds": "4.0|4.0|1.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "16"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.06",
+        "away": "1.64"
+      }
+    }
+  },
+  "01 Nov 2025_Hoffenheim-RB Leipzig": {
+    "Date": "01 Nov 2025",
+    "Match": "Hoffenheim-RB Leipzig",
+    "Score": "3:1",
+    "Odds": "2.62|3.73|2.38",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "12"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.35",
+        "away": "1.81"
+      }
+    }
+  },
+  "01 Nov 2025_Union Berlin-Bayern München": {
+    "Date": "01 Nov 2025",
+    "Match": "Union Berlin-Bayern München",
+    "Score": "2:2",
+    "Odds": "7.8|5.8|1.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "26%",
+        "away": "74%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.29",
+        "away": "1.49"
+      }
+    }
+  },
+  "01 Nov 2025_Bayer Leverkusen-Heidenheim": {
+    "Date": "01 Nov 2025",
+    "Match": "Bayer Leverkusen-Heidenheim",
+    "Score": "6:0",
+    "Odds": "1.39|4.9|7.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "74%",
+        "away": "26%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "1"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "1"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "11",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "2.72",
+        "away": "0.15"
+      }
+    }
+  },
+  "01 Nov 2025_Werder Bremen-Wolfsburg": {
+    "Date": "01 Nov 2025",
+    "Match": "Werder Bremen-Wolfsburg",
+    "Score": "2:1",
+    "Odds": "2.23|3.5|3.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "13",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.39",
+        "away": "1.00"
+      }
+    }
+  },
+  "01 Nov 2025_Wolfsburg-Hoffenheim": {
+    "Date": "01 Nov 2025",
+    "Match": "Wolfsburg-Hoffenheim",
+    "Score": "2:3",
+    "Odds": "2.6|3.67|2.42",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.45",
+        "away": "1.29"
+      }
+    }
+  },
+  "01 Nov 2025_Köln-Hamburger SV": {
+    "Date": "01 Nov 2025",
+    "Match": "Köln-Hamburger SV",
+    "Score": "4:1",
+    "Odds": "2.16|3.65|3.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "6"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.41",
+        "away": "1.30"
+      }
+    }
+  },
+  "01 Nov 2025_Bayern München-Bayer Leverkusen": {
+    "Date": "01 Nov 2025",
+    "Match": "Bayern München-Bayer Leverkusen",
+    "Score": "3:0",
+    "Odds": "1.22|6.9|9.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "10",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "3"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.00",
+        "away": "0.73"
+      }
+    }
+  },
+  "01 Nov 2025_Heidenheim-Eintracht Frankfurt": {
+    "Date": "01 Nov 2025",
+    "Match": "Heidenheim-Eintracht Frankfurt",
+    "Score": "1:1",
+    "Odds": "3.4|4.1|1.89",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "28%",
+        "away": "72%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "13"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.10",
+        "away": "1.89"
+      }
+    }
+  },
+  "01 Nov 2025_Union Berlin-Freiburg": {
+    "Date": "01 Nov 2025",
+    "Match": "Union Berlin-Freiburg",
+    "Score": "0:0",
+    "Odds": "2.5|3.1|2.82",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "6",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.08",
+        "away": "1.35"
+      }
+    }
+  },
+  "08 Nov 2025_Augsburg-Hamburger SV": {
+    "Date": "08 Nov 2025",
+    "Match": "Augsburg-Hamburger SV",
+    "Score": "1:0",
+    "Odds": "2.36|3.4|3.05",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "7"
+      },
+      "xg": {
+        "home": "1.59",
+        "away": "1.64"
+      }
+    }
+  },
+  "08 Nov 2025_Bayern München-Freiburg": {
+    "Date": "08 Nov 2025",
+    "Match": "Bayern München-Freiburg",
+    "Score": "6:2",
+    "Odds": "1.19|7.6|13.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "72%",
+        "away": "28%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.37",
+        "away": "0.84"
+      }
+    }
+  },
+  "08 Nov 2025_Wolfsburg-Bayer Leverkusen": {
+    "Date": "08 Nov 2025",
+    "Match": "Wolfsburg-Bayer Leverkusen",
+    "Score": "1:3",
+    "Odds": "3.58|3.75|2.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.49",
+        "away": "1.04"
+      }
+    }
+  },
+  "08 Nov 2025_Borussia Dortmund-Stuttgart": {
+    "Date": "08 Nov 2025",
+    "Match": "Borussia Dortmund-Stuttgart",
+    "Score": "3:3",
+    "Odds": "1.79|4.1|4.28",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.66",
+        "away": "1.81"
+      }
+    }
+  },
+  "08 Nov 2025_Heidenheim-Borussia M'gladbach": {
+    "Date": "08 Nov 2025",
+    "Match": "Heidenheim-Borussia M'gladbach",
+    "Score": "0:3",
+    "Odds": "3.1|3.4|2.25",
+    "Result": "Away"
+  },
+  "08 Nov 2025_Mainz 05-Hoffenheim": {
+    "Date": "08 Nov 2025",
+    "Match": "Mainz 05-Hoffenheim",
+    "Score": "1:1",
+    "Odds": "2.62|3.5|2.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "14"
+      },
+      "cards": {
+        "home": "5",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.64",
+        "away": "1.97"
+      }
+    }
+  },
+  "08 Nov 2025_Eintracht Frankfurt-Mainz 05": {
+    "Date": "08 Nov 2025",
+    "Match": "Eintracht Frankfurt-Mainz 05",
+    "Score": "1:0",
+    "Odds": "1.88|3.96|3.8",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "0",
+        "away": "5"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.51",
+        "away": "0.56"
+      }
+    }
+  },
+  "08 Nov 2025_Stuttgart-Augsburg": {
+    "Date": "08 Nov 2025",
+    "Match": "Stuttgart-Augsburg",
+    "Score": "3:2",
+    "Odds": "1.54|4.4|5.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.81",
+        "away": "1.71"
+      }
+    }
+  },
+  "08 Nov 2025_Freiburg-St. Pauli": {
+    "Date": "08 Nov 2025",
+    "Match": "Freiburg-St. Pauli",
+    "Score": "2:1",
+    "Odds": "1.78|3.64|4.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.03",
+        "away": "0.84"
+      }
+    }
+  },
+  "08 Nov 2025_Borussia M'gladbach-Köln": {
+    "Date": "08 Nov 2025",
+    "Match": "Borussia M'gladbach-Köln",
+    "Score": "3:1",
+    "Odds": "2.1|3.63|3.27",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Köln",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "14"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.10",
+        "away": "2.02"
+      }
+    }
+  },
+  "22 Nov 2025_Hamburger SV-Stuttgart": {
+    "Date": "22 Nov 2025",
+    "Match": "Hamburger SV-Stuttgart",
+    "Score": "2:1",
+    "Odds": "3.02|3.66|2.15",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "34%",
+        "away": "66%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.86",
+        "away": "1.56"
+      }
+    }
+  },
+  "22 Nov 2025_Bayer Leverkusen-Borussia Dortmund": {
+    "Date": "22 Nov 2025",
+    "Match": "Bayer Leverkusen-Borussia Dortmund",
+    "Score": "1:2",
+    "Odds": "2.5|3.5|2.56",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "10",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.54",
+        "away": "1.07"
+      }
+    }
+  },
+  "22 Nov 2025_Werder Bremen-Köln": {
+    "Date": "22 Nov 2025",
+    "Match": "Werder Bremen-Köln",
+    "Score": "1:1",
+    "Odds": "2.2|3.85|2.92",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "Köln",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.69",
+        "away": "1.05"
+      }
+    }
+  },
+  "22 Nov 2025_Hoffenheim-Augsburg": {
+    "Date": "22 Nov 2025",
+    "Match": "Hoffenheim-Augsburg",
+    "Score": "3:0",
+    "Odds": "1.69|4.0|4.33",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "1.39"
+      }
+    }
+  },
+  "22 Nov 2025_Bayern München-St. Pauli": {
+    "Date": "22 Nov 2025",
+    "Match": "Bayern München-St. Pauli",
+    "Score": "3:1",
+    "Odds": "1.09|11.0|24.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "80%",
+        "away": "20%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "10",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.14",
+        "away": "0.81"
+      }
+    }
+  },
+  "22 Nov 2025_Union Berlin-Heidenheim": {
+    "Date": "22 Nov 2025",
+    "Match": "Union Berlin-Heidenheim",
+    "Score": "1:2",
+    "Odds": "1.6|4.0|5.2",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.03",
+        "away": "1.03"
+      }
+    }
+  },
+  "22 Nov 2025_Borussia M'gladbach-RB Leipzig": {
+    "Date": "22 Nov 2025",
+    "Match": "Borussia M'gladbach-RB Leipzig",
+    "Score": "0:0",
+    "Odds": "2.85|3.86|2.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "16"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.64",
+        "away": "1.95"
+      }
+    }
+  },
+  "22 Nov 2025_St. Pauli-Union Berlin": {
+    "Date": "22 Nov 2025",
+    "Match": "St. Pauli-Union Berlin",
+    "Score": "0:1",
+    "Odds": "2.6|2.95|2.88",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "St. Pauli",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "0.89"
+      }
+    }
+  },
+  "22 Nov 2025_RB Leipzig-Werder Bremen": {
+    "Date": "22 Nov 2025",
+    "Match": "RB Leipzig-Werder Bremen",
+    "Score": "2:0",
+    "Odds": "1.47|4.9|5.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "13",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "13",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.70",
+        "away": "1.67"
+      }
+    }
+  },
+  "22 Nov 2025_Köln-Eintracht Frankfurt": {
+    "Date": "22 Nov 2025",
+    "Match": "Köln-Eintracht Frankfurt",
+    "Score": "3:4",
+    "Odds": "2.75|3.4|2.51",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.47"
+      }
+    }
+  },
+  "30 Nov 2025_Hamburger SV-Werder Bremen": {
+    "Date": "30 Nov 2025",
+    "Match": "Hamburger SV-Werder Bremen",
+    "Score": "3:2",
+    "Odds": "2.27|3.61|2.84",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "1.13"
+      }
+    }
+  },
+  "30 Nov 2025_RB Leipzig-Eintracht Frankfurt": {
+    "Date": "30 Nov 2025",
+    "Match": "RB Leipzig-Eintracht Frankfurt",
+    "Score": "6:0",
+    "Odds": "1.75|4.1|4.22",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.82",
+        "away": "0.92"
+      }
+    }
+  },
+  "30 Nov 2025_Augsburg-Bayer Leverkusen": {
+    "Date": "30 Nov 2025",
+    "Match": "Augsburg-Bayer Leverkusen",
+    "Score": "2:0",
+    "Odds": "3.7|4.0|1.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "32%",
+        "away": "68%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "18"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "1.88"
+      }
+    }
+  },
+  "30 Nov 2025_Stuttgart-Bayern München": {
+    "Date": "30 Nov 2025",
+    "Match": "Stuttgart-Bayern München",
+    "Score": "0:5",
+    "Odds": "5.5|5.0|1.53",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "11"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.08",
+        "away": "2.39"
+      }
+    }
+  },
+  "30 Nov 2025_Köln-St. Pauli": {
+    "Date": "30 Nov 2025",
+    "Match": "Köln-St. Pauli",
+    "Score": "1:1",
+    "Odds": "2.05|3.6|3.7",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.48",
+        "away": "0.64"
+      }
+    }
+  },
+  "30 Nov 2025_Heidenheim-Freiburg": {
+    "Date": "30 Nov 2025",
+    "Match": "Heidenheim-Freiburg",
+    "Score": "2:1",
+    "Odds": "4.0|3.63|1.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "14"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.63"
+      }
+    }
+  },
+  "30 Nov 2025_Wolfsburg-Union Berlin": {
+    "Date": "30 Nov 2025",
+    "Match": "Wolfsburg-Union Berlin",
+    "Score": "3:1",
+    "Odds": "2.2|3.25|3.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "1",
+        "away": "15"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "0",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.58",
+        "away": "2.30"
+      }
+    }
+  },
+  "30 Nov 2025_Mainz 05-Borussia M'gladbach": {
+    "Date": "30 Nov 2025",
+    "Match": "Mainz 05-Borussia M'gladbach",
+    "Score": "0:1",
+    "Odds": "2.7|3.4|2.61",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.09",
+        "away": "1.48"
+      }
+    }
+  },
+  "30 Nov 2025_Freiburg-Mainz 05": {
+    "Date": "30 Nov 2025",
+    "Match": "Freiburg-Mainz 05",
+    "Score": "4:0",
+    "Odds": "1.85|3.35|4.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "75%",
+        "away": "25%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "1"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "0"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.55",
+        "away": "0.20"
+      }
+    }
+  },
+  "30 Nov 2025_Eintracht Frankfurt-Wolfsburg": {
+    "Date": "30 Nov 2025",
+    "Match": "Eintracht Frankfurt-Wolfsburg",
+    "Score": "1:1",
+    "Odds": "1.89|3.9|3.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "14",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.70",
+        "away": "1.08"
+      }
+    }
+  },
+  "07 Dec 2025_Werder Bremen-Stuttgart": {
+    "Date": "07 Dec 2025",
+    "Match": "Werder Bremen-Stuttgart",
+    "Score": "0:4",
+    "Odds": "2.86|3.6|2.31",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.17",
+        "away": "2.84"
+      }
+    }
+  },
+  "07 Dec 2025_Bayern München-Mainz 05": {
+    "Date": "07 Dec 2025",
+    "Match": "Bayern München-Mainz 05",
+    "Score": "2:2",
+    "Odds": "1.11|11.0|20.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "85%",
+        "away": "15%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.90",
+        "away": "0.59"
+      }
+    }
+  },
+  "07 Dec 2025_Freiburg-Borussia Dortmund": {
+    "Date": "07 Dec 2025",
+    "Match": "Freiburg-Borussia Dortmund",
+    "Score": "1:1",
+    "Odds": "3.18|3.41|2.16",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.20",
+        "away": "1.11"
+      }
+    }
+  },
+  "07 Dec 2025_Bayer Leverkusen-Köln": {
+    "Date": "07 Dec 2025",
+    "Match": "Bayer Leverkusen-Köln",
+    "Score": "2:0",
+    "Odds": "1.61|4.45|5.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Köln",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "1"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.97",
+        "away": "0.78"
+      }
+    }
+  },
+  "07 Dec 2025_Borussia M'gladbach-Wolfsburg": {
+    "Date": "07 Dec 2025",
+    "Match": "Borussia M'gladbach-Wolfsburg",
+    "Score": "1:3",
+    "Odds": "1.96|3.73|3.41",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.64",
+        "away": "1.31"
+      }
+    }
+  },
+  "07 Dec 2025_Eintracht Frankfurt-Augsburg": {
+    "Date": "07 Dec 2025",
+    "Match": "Eintracht Frankfurt-Augsburg",
+    "Score": "1:0",
+    "Odds": "1.66|4.2|4.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.33",
+        "away": "1.17"
+      }
+    }
+  },
+  "07 Dec 2025_St. Pauli-Heidenheim": {
+    "Date": "07 Dec 2025",
+    "Match": "St. Pauli-Heidenheim",
+    "Score": "2:1",
+    "Odds": "1.84|3.45|4.3",
+    "Result": "Home"
+  },
+  "07 Dec 2025_Hoffenheim-Hamburger SV": {
+    "Date": "07 Dec 2025",
+    "Match": "Hoffenheim-Hamburger SV",
+    "Score": "4:1",
+    "Odds": "1.74|4.0|4.0",
+    "Result": "Home"
+  },
+  "07 Dec 2025_Union Berlin-RB Leipzig": {
+    "Date": "07 Dec 2025",
+    "Match": "Union Berlin-RB Leipzig",
+    "Score": "3:1",
+    "Odds": "2.9|3.25|1.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "RB Leipzig",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "1.02"
+      }
+    }
+  },
+  "07 Dec 2025_Borussia Dortmund-Hoffenheim": {
+    "Date": "07 Dec 2025",
+    "Match": "Borussia Dortmund-Hoffenheim",
+    "Score": "2:0",
+    "Odds": "1.65|4.3|4.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.10",
+        "away": "1.27"
+      }
+    }
+  },
+  "19 Dec 2025_Eintracht Frankfurt-Borussia Dortmund": {
+    "Date": "19 Dec 2025",
+    "Match": "Eintracht Frankfurt-Borussia Dortmund",
+    "Score": "3:3",
+    "Odds": "3.3|3.55|2.02",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "Borussia Dortmund",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "10"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.36",
+        "away": "1.80"
+      }
+    }
+  },
+  "19 Dec 2025_Heidenheim-Bayern München": {
+    "Date": "19 Dec 2025",
+    "Match": "Heidenheim-Bayern München",
+    "Score": "0:4",
+    "Odds": "12.0|8.5|1.09",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "26%",
+        "away": "74%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "23"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "11"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "12"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "0",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.74",
+        "away": "2.74"
+      }
+    }
+  },
+  "19 Dec 2025_Mainz 05-St. Pauli": {
+    "Date": "19 Dec 2025",
+    "Match": "Mainz 05-St. Pauli",
+    "Score": "0:0",
+    "Odds": "1.82|3.45|4.33",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.27",
+        "away": "0.60"
+      }
+    }
+  },
+  "19 Dec 2025_RB Leipzig-Bayer Leverkusen": {
+    "Date": "19 Dec 2025",
+    "Match": "RB Leipzig-Bayer Leverkusen",
+    "Score": "1:3",
+    "Odds": "2.1|3.6|2.95",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.12",
+        "away": "1.79"
+      }
+    }
+  },
+  "19 Dec 2025_Wolfsburg-Freiburg": {
+    "Date": "19 Dec 2025",
+    "Match": "Wolfsburg-Freiburg",
+    "Score": "3:4",
+    "Odds": "2.56|3.56|2.51",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.53",
+        "away": "1.72"
+      }
+    }
+  },
+  "19 Dec 2025_Stuttgart-Hoffenheim": {
+    "Date": "19 Dec 2025",
+    "Match": "Stuttgart-Hoffenheim",
+    "Score": "0:0",
+    "Odds": "1.93|3.79|3.47",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Hoffenheim",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.06",
+        "away": "0.57"
+      }
+    }
+  },
+  "19 Dec 2025_Köln-Union Berlin": {
+    "Date": "19 Dec 2025",
+    "Match": "Köln-Union Berlin",
+    "Score": "0:1",
+    "Odds": "2.4|3.23|2.91",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "5"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.30",
+        "away": "1.26"
+      }
+    }
+  },
+  "19 Dec 2025_Hamburger SV-Eintracht Frankfurt": {
+    "Date": "19 Dec 2025",
+    "Match": "Hamburger SV-Eintracht Frankfurt",
+    "Score": "1:1",
+    "Odds": "2.64|3.53|2.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.00",
+        "away": "1.14"
+      }
+    }
+  },
+  "19 Dec 2025_Augsburg-Werder Bremen": {
+    "Date": "19 Dec 2025",
+    "Match": "Augsburg-Werder Bremen",
+    "Score": "0:0",
+    "Odds": "2.18|3.5|3.07",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.66",
+        "away": "0.87"
+      }
+    }
+  },
+  "19 Dec 2025_Borussia Dortmund-Borussia M'gladbach": {
+    "Date": "19 Dec 2025",
+    "Match": "Borussia Dortmund-Borussia M'gladbach",
+    "Score": "2:0",
+    "Odds": "1.6|4.7|5.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.36",
+        "away": "0.69"
+      }
+    }
+  },
+  "10 Jan 2026_Mainz 05-Heidenheim": {
+    "Date": "10 Jan 2026",
+    "Match": "Mainz 05-Heidenheim",
+    "Score": "2:1",
+    "Odds": "1.63|3.6|4.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Mainz 05",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "1.54"
+      }
+    }
+  },
+  "10 Jan 2026_Borussia Dortmund-Werder Bremen": {
+    "Date": "10 Jan 2026",
+    "Match": "Borussia Dortmund-Werder Bremen",
+    "Score": "3:0",
+    "Odds": "1.38|5.2|8.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "Werder Bremen",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.98",
+        "away": "0.77"
+      }
+    }
+  },
+  "10 Jan 2026_Stuttgart-Eintracht Frankfurt": {
+    "Date": "10 Jan 2026",
+    "Match": "Stuttgart-Eintracht Frankfurt",
+    "Score": "3:2",
+    "Odds": "1.73|4.1|4.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Stuttgart",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.41",
+        "away": "1.25"
+      }
+    }
+  },
+  "10 Jan 2026_Bayern München-Wolfsburg": {
+    "Date": "10 Jan 2026",
+    "Match": "Bayern München-Wolfsburg",
+    "Score": "8:1",
+    "Odds": "1.11|8.5|15.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bayern München",
+      "away_team": "Wolfsburg",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.15",
+        "away": "0.91"
+      }
+    }
+  },
+  "10 Jan 2026_Borussia M'gladbach-Augsburg": {
+    "Date": "10 Jan 2026",
+    "Match": "Borussia M'gladbach-Augsburg",
+    "Score": "4:0",
+    "Odds": "1.94|3.63|3.57",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia M'gladbach",
+      "away_team": "Augsburg",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "15"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "1.58"
+      }
+    }
+  },
+  "10 Jan 2026_Bayer Leverkusen-Stuttgart": {
+    "Date": "10 Jan 2026",
+    "Match": "Bayer Leverkusen-Stuttgart",
+    "Score": "1:4",
+    "Odds": "2.08|3.82|3.19",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bayer Leverkusen",
+      "away_team": "Stuttgart",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.63",
+        "away": "1.46"
+      }
+    }
+  },
+  "10 Jan 2026_Freiburg-Hamburger SV": {
+    "Date": "10 Jan 2026",
+    "Match": "Freiburg-Hamburger SV",
+    "Score": "2:1",
+    "Odds": "1.61|3.55|5.01",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Freiburg",
+      "away_team": "Hamburger SV",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "5"
+      },
+      "corners": {
+        "home": "0",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.04",
+        "away": "1.19"
+      }
+    }
+  },
+  "10 Jan 2026_Union Berlin-Mainz 05": {
+    "Date": "10 Jan 2026",
+    "Match": "Union Berlin-Mainz 05",
+    "Score": "2:2",
+    "Odds": "2.01|3.05|3.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Union Berlin",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "2",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "1.19"
+      }
+    }
+  },
+  "10 Jan 2026_Heidenheim-Köln": {
+    "Date": "10 Jan 2026",
+    "Match": "Heidenheim-Köln",
+    "Score": "2:2",
+    "Odds": "2.68|3.5|2.39",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Heidenheim",
+      "away_team": "Köln",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "21"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "2.25"
+      }
+    }
+  },
+  "14 Jan 2026_Werder Bremen-Eintracht Frankfurt": {
+    "Date": "14 Jan 2026",
+    "Match": "Werder Bremen-Eintracht Frankfurt",
+    "Score": "3:3",
+    "Odds": "2.75|3.56|2.52",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Werder Bremen",
+      "away_team": "Eintracht Frankfurt",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.55",
+        "away": "1.09"
+      }
+    }
+  },
+  "14 Jan 2026_Augsburg-Union Berlin": {
+    "Date": "14 Jan 2026",
+    "Match": "Augsburg-Union Berlin",
+    "Score": "1:1",
+    "Odds": "2.65|3.15|2.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Augsburg",
+      "away_team": "Union Berlin",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "13"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "1.51"
+      }
+    }
+  },
+  "14 Jan 2026_Hoffenheim-Borussia M'gladbach": {
+    "Date": "14 Jan 2026",
+    "Match": "Hoffenheim-Borussia M'gladbach",
+    "Score": "5:1",
+    "Odds": "1.78|3.86|3.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.32",
+        "away": "1.03"
+      }
+    }
+  },
+  "14 Jan 2026_RB Leipzig-Freiburg": {
+    "Date": "14 Jan 2026",
+    "Match": "RB Leipzig-Freiburg",
+    "Score": "2:0",
+    "Odds": "1.78|3.76|4.36",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Freiburg",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "2"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.20",
+        "away": "0.51"
+      }
+    }
+  },
+  "14 Jan 2026_Köln-Bayern München": {
+    "Date": "14 Jan 2026",
+    "Match": "Köln-Bayern München",
+    "Score": "1:3",
+    "Odds": "8.75|7.0|1.26",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "28%",
+        "away": "72%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "11"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "4",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "3",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "2.22"
+      }
+    }
+  },
+  "14 Jan 2026_Wolfsburg-St. Pauli": {
+    "Date": "14 Jan 2026",
+    "Match": "Wolfsburg-St. Pauli",
+    "Score": "2:1",
+    "Odds": "1.85|3.6|4.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.58",
+        "away": "1.07"
+      }
+    }
+  },
+  "14 Jan 2026_Borussia Dortmund-St. Pauli": {
+    "Date": "14 Jan 2026",
+    "Match": "Borussia Dortmund-St. Pauli",
+    "Score": "3:2",
+    "Odds": "1.29|4.75|9.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Borussia Dortmund",
+      "away_team": "St. Pauli",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.47",
+        "away": "1.20"
+      }
+    }
+  },
+  "14 Jan 2026_Hoffenheim-Bayer Leverkusen": {
+    "Date": "14 Jan 2026",
+    "Match": "Hoffenheim-Bayer Leverkusen",
+    "Score": "1:0",
+    "Odds": "2.25|3.6|2.58",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Hoffenheim",
+      "away_team": "Bayer Leverkusen",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.04",
+        "away": "1.05"
+      }
+    }
+  },
+  "14 Jan 2026_Hamburger SV-Borussia M'gladbach": {
+    "Date": "14 Jan 2026",
+    "Match": "Hamburger SV-Borussia M'gladbach",
+    "Score": "0:0",
+    "Odds": "2.45|3.35|2.95",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Hamburger SV",
+      "away_team": "Borussia M'gladbach",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "25",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "12",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.76",
+        "away": "0.61"
+      }
+    }
+  },
+  "14 Jan 2026_Köln-Mainz 05": {
+    "Date": "14 Jan 2026",
+    "Match": "Köln-Mainz 05",
+    "Score": "2:1",
+    "Odds": "2.05|3.5|3.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Köln",
+      "away_team": "Mainz 05",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "9",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.26",
+        "away": "1.41"
+      }
+    }
+  },
+  "14 Jan 2026_Wolfsburg-Heidenheim": {
+    "Date": "14 Jan 2026",
+    "Match": "Wolfsburg-Heidenheim",
+    "Score": "1:1",
+    "Odds": "1.68|4.1|4.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Wolfsburg",
+      "away_team": "Heidenheim",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "9",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.56",
+        "away": "1.28"
+      }
+    }
+  },
+  "17 Jan 2026_RB Leipzig-Bayern München": {
+    "Date": "17 Jan 2026",
+    "Match": "RB Leipzig-Bayern München",
+    "Score": "1:5",
+    "Odds": "5.4|5.1|1.45",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "RB Leipzig",
+      "away_team": "Bayern München",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.62",
+        "away": "2.36"
+      }
+    }
+  }
+}

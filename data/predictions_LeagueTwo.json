@@ -1,0 +1,4493 @@
+[
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Gillingham",
+      "away": "Newport County"
+    },
+    "odds": {
+      "home": 1.51,
+      "draw": 3.69,
+      "away": 5.4
+    },
+    "probs": {
+      "home": 0.4472,
+      "draw": 0.2174,
+      "away": 0.3354
+    },
+    "market_implied": {
+      "home": 0.5921,
+      "draw": 0.2423,
+      "away": 0.1656
+    },
+    "blended": {
+      "home": 0.4834,
+      "draw": 0.2236,
+      "away": 0.293
+    },
+    "ev": {
+      "home": -0.3247,
+      "draw": -0.1979,
+      "away": 0.8112
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.811,
+      "kelly_25pct": 0.046
+    },
+    "expected_result": "Expected result: 2.0-1.2 (Poisson+DC, rho=+0.11) (xG-weighted: 1.94-1.20)",
+    "distribution": {
+      "expected_goals_home": 2.008,
+      "expected_goals_away": 1.192,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.573,
+      "p_draw_raw": 0.193,
+      "p_away_raw": 0.233,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.94-1.20)",
+      "xg_home_used": 1.94,
+      "xg_away_used": 1.204,
+      "p_btts": 0.592,
+      "p_over_0_5": 0.97,
+      "p_over_1_5": 0.818,
+      "p_over_2_5": 0.62,
+      "p_over_3_5": 0.397,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 1,
+      "margin_q25_q75": "0-2"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 8.209,
+        "nb_r_source": "team_role_single",
+        "expected": "6.9-4.0 (total 10.9)",
+        "total_median": 10,
+        "total_q25_q75": "7-14",
+        "p_over_7.5_total": 0.729,
+        "p_over_8.5_total": 0.647,
+        "p_over_9.5_total": 0.563,
+        "p_over_10.5_total": 0.481
+      },
+      "cards": {
+        "model": "neg_binom",
+        "nb_size_r": 14.96,
+        "nb_r_source": "team_all_single",
+        "expected": "2.3-2.2 (total 4.5)",
+        "total_median": 4,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.626,
+        "p_over_4.5_total": 0.456,
+        "p_over_5.5_total": 0.308
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "17.4-11.3 (total 28.7)",
+        "total_median": 29,
+        "total_q25_q75": "25-32",
+        "p_over_25.0_total": 0.717,
+        "p_over_27.0_total": 0.576,
+        "p_over_29.0_total": 0.427,
+        "p_over_31.0_total": 0.292
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "6.3-3.4 (total 9.7)",
+        "total_median": 10,
+        "total_q25_q75": "8-12",
+        "p_over_8.0_total": 0.633,
+        "p_over_9.0_total": 0.504,
+        "p_over_10.0_total": 0.38,
+        "p_over_11.0_total": 0.27
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LDDLD",
+        "record": {
+          "W": 0,
+          "D": 3,
+          "L": 2
+        },
+        "points": 3,
+        "ppg": 0.6,
+        "gf": 5,
+        "ga": 8,
+        "as_home": {
+          "n": 3,
+          "sequence": "DDD",
+          "record": {
+            "W": 0,
+            "D": 3,
+            "L": 0
+          },
+          "points": 3,
+          "ppg": 1.0,
+          "gf": 4,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 1,
+          "ga": 4
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LWDLL",
+        "record": {
+          "W": 1,
+          "D": 1,
+          "L": 3
+        },
+        "points": 4,
+        "ppg": 0.8,
+        "gf": 4,
+        "ga": 8,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDL",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 2,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 2,
+          "ga": 6
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Chesterfield",
+      "away": "Bromley"
+    },
+    "odds": {
+      "home": 2.45,
+      "draw": 3.2,
+      "away": 2.51
+    },
+    "probs": {
+      "home": 0.3067,
+      "draw": 0.2889,
+      "away": 0.4045
+    },
+    "market_implied": {
+      "home": 0.3647,
+      "draw": 0.2792,
+      "away": 0.356
+    },
+    "blended": {
+      "home": 0.3212,
+      "draw": 0.2865,
+      "away": 0.3923
+    },
+    "ev": {
+      "home": -0.2487,
+      "draw": -0.0755,
+      "away": 0.0152
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.015,
+      "kelly_25pct": 0.003
+    },
+    "expected_result": "Expected result: 1.3-1.4 (Poisson+DC, rho=+0.11) (xG-weighted: 1.48-1.33)",
+    "distribution": {
+      "expected_goals_home": 1.339,
+      "expected_goals_away": 1.405,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.37,
+      "p_draw_raw": 0.229,
+      "p_away_raw": 0.401,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.48-1.33)",
+      "xg_home_used": 1.484,
+      "xg_away_used": 1.328,
+      "p_btts": 0.543,
+      "p_over_0_5": 0.949,
+      "p_over_1_5": 0.746,
+      "p_over_2_5": 0.517,
+      "p_over_3_5": 0.296,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 29.109,
+        "nb_r_source": "team_role_avg",
+        "expected": "6.5-5.0 (total 11.5)",
+        "total_median": 11,
+        "total_q25_q75": "9-14",
+        "p_over_7.5_total": 0.843,
+        "p_over_8.5_total": 0.763,
+        "p_over_9.5_total": 0.671,
+        "p_over_10.5_total": 0.57
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.7-3.1 (total 4.8)",
+        "total_median": 5,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.707,
+        "p_over_4.5_total": 0.525,
+        "p_over_5.5_total": 0.351
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "12.7-11.5 (total 24.3)",
+        "total_median": 24,
+        "total_q25_q75": "21-28",
+        "p_over_21.0_total": 0.706,
+        "p_over_23.0_total": 0.55,
+        "p_over_25.0_total": 0.39,
+        "p_over_27.0_total": 0.251
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.0-4.0 (total 8.0)",
+        "total_median": 8,
+        "total_q25_q75": "6-10",
+        "p_over_6.5_total": 0.684,
+        "p_over_7.5_total": 0.544,
+        "p_over_8.5_total": 0.404,
+        "p_over_9.5_total": 0.281
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "DDWLW",
+        "record": {
+          "W": 2,
+          "D": 2,
+          "L": 1
+        },
+        "points": 8,
+        "ppg": 1.6,
+        "gf": 6,
+        "ga": 4,
+        "as_home": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 2,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "DDW",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 4,
+          "ga": 3
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WWWWW",
+        "record": {
+          "W": 5,
+          "D": 0,
+          "L": 0
+        },
+        "points": 15,
+        "ppg": 3.0,
+        "gf": 12,
+        "ga": 4,
+        "as_home": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 4,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WWW",
+          "record": {
+            "W": 3,
+            "D": 0,
+            "L": 0
+          },
+          "points": 9,
+          "ppg": 3.0,
+          "gf": 8,
+          "ga": 3
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Tranmere Rovers",
+      "away": "Walsall"
+    },
+    "odds": {
+      "home": 2.81,
+      "draw": 3.01,
+      "away": 2.32
+    },
+    "probs": {
+      "home": 0.2778,
+      "draw": 0.3333,
+      "away": 0.3889
+    },
+    "market_implied": {
+      "home": 0.318,
+      "draw": 0.2969,
+      "away": 0.3852
+    },
+    "blended": {
+      "home": 0.2878,
+      "draw": 0.3242,
+      "away": 0.388
+    },
+    "ev": {
+      "home": -0.2194,
+      "draw": 0.0033,
+      "away": -0.0978
+    },
+    "recommended": {
+      "outcome": "Draw",
+      "ev": 0.003,
+      "kelly_25pct": 0.0
+    },
+    "expected_result": "Expected result: 1.1-1.3 (Poisson+DC, rho=+0.11) (xG-weighted: 1.22-1.54)",
+    "distribution": {
+      "expected_goals_home": 1.101,
+      "expected_goals_away": 1.329,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.323,
+      "p_draw_raw": 0.244,
+      "p_away_raw": 0.433,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.22-1.54)",
+      "xg_home_used": 1.215,
+      "xg_away_used": 1.541,
+      "p_btts": 0.477,
+      "p_over_0_5": 0.926,
+      "p_over_1_5": 0.684,
+      "p_over_2_5": 0.438,
+      "p_over_3_5": 0.228,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "3.2-5.8 (total 9.1)",
+        "total_median": 9,
+        "total_q25_q75": "7-11",
+        "p_over_7.5_total": 0.671,
+        "p_over_8.5_total": 0.546,
+        "p_over_9.5_total": 0.421,
+        "p_over_10.5_total": 0.309
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.5-2.0 (total 3.5)",
+        "total_median": 3,
+        "total_q25_q75": "2-5",
+        "p_over_3.5_total": 0.464,
+        "p_over_4.5_total": 0.275,
+        "p_over_5.5_total": 0.143
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "11.6-13.6 (total 25.3)",
+        "total_median": 25,
+        "total_q25_q75": "22-29",
+        "p_over_22.0_total": 0.701,
+        "p_over_24.0_total": 0.548,
+        "p_over_26.0_total": 0.391,
+        "p_over_28.0_total": 0.254
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.7-5.1 (total 7.8)",
+        "total_median": 8,
+        "total_q25_q75": "6-10",
+        "p_over_6.5_total": 0.658,
+        "p_over_7.5_total": 0.514,
+        "p_over_8.5_total": 0.375,
+        "p_over_9.5_total": 0.255
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LWWLL",
+        "record": {
+          "W": 2,
+          "D": 0,
+          "L": 3
+        },
+        "points": 6,
+        "ppg": 1.2,
+        "gf": 5,
+        "ga": 8,
+        "as_home": {
+          "n": 3,
+          "sequence": "LWL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 2
+          },
+          "points": 3,
+          "ppg": 1.0,
+          "gf": 2,
+          "ga": 5
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 3,
+          "ga": 3
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LLWDD",
+        "record": {
+          "W": 1,
+          "D": 2,
+          "L": 2
+        },
+        "points": 5,
+        "ppg": 1.0,
+        "gf": 3,
+        "ga": 5,
+        "as_home": {
+          "n": 3,
+          "sequence": "LWD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 3,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 1
+          },
+          "points": 1,
+          "ppg": 0.5,
+          "gf": 0,
+          "ga": 2
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Fleetwood Town",
+      "away": "Cambridge United"
+    },
+    "odds": {
+      "home": 2.87,
+      "draw": 2.89,
+      "away": 2.35
+    },
+    "probs": {
+      "home": 0.2778,
+      "draw": 0.3333,
+      "away": 0.3889
+    },
+    "market_implied": {
+      "home": 0.3111,
+      "draw": 0.309,
+      "away": 0.3799
+    },
+    "blended": {
+      "home": 0.2861,
+      "draw": 0.3272,
+      "away": 0.3867
+    },
+    "ev": {
+      "home": -0.2028,
+      "draw": -0.0367,
+      "away": -0.0861
+    },
+    "recommended": {
+      "outcome": "No bet",
+      "ev": null,
+      "kelly_25pct": null
+    },
+    "expected_result": "Expected result: 1.1-1.2 (Poisson+DC, rho=+0.11) (xG-weighted: 1.23-1.33)",
+    "distribution": {
+      "expected_goals_home": 1.111,
+      "expected_goals_away": 1.233,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.344,
+      "p_draw_raw": 0.251,
+      "p_away_raw": 0.405,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.23-1.33)",
+      "xg_home_used": 1.229,
+      "xg_away_used": 1.333,
+      "p_btts": 0.461,
+      "p_over_0_5": 0.919,
+      "p_over_1_5": 0.665,
+      "p_over_2_5": 0.416,
+      "p_over_3_5": 0.21,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "4.4-3.8 (total 8.3)",
+        "total_median": 8,
+        "total_q25_q75": "6-10",
+        "p_over_7.5_total": 0.573,
+        "p_over_8.5_total": 0.441,
+        "p_over_9.5_total": 0.321,
+        "p_over_10.5_total": 0.22
+      },
+      "cards": {
+        "model": "neg_binom",
+        "nb_size_r": 9.631,
+        "nb_r_source": "team_all_single",
+        "expected": "1.5-1.7 (total 3.2)",
+        "total_median": 3,
+        "total_q25_q75": "2-4",
+        "p_over_3.5_total": 0.398,
+        "p_over_4.5_total": 0.244,
+        "p_over_5.5_total": 0.138
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "10.1-12.0 (total 22.0)",
+        "total_median": 22,
+        "total_q25_q75": "19-25",
+        "p_over_18.5_total": 0.769,
+        "p_over_20.5_total": 0.615,
+        "p_over_22.5_total": 0.446,
+        "p_over_24.5_total": 0.29
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.4-4.0 (total 7.4)",
+        "total_median": 7,
+        "total_q25_q75": "5-9",
+        "p_over_6.0_total": 0.606,
+        "p_over_7.0_total": 0.458,
+        "p_over_8.0_total": 0.322,
+        "p_over_9.0_total": 0.21
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LLDWW",
+        "record": {
+          "W": 2,
+          "D": 1,
+          "L": 2
+        },
+        "points": 7,
+        "ppg": 1.4,
+        "gf": 4,
+        "ga": 3,
+        "as_home": {
+          "n": 2,
+          "sequence": "LW",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 2,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LDW",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 2,
+          "ga": 1
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WDWWD",
+        "record": {
+          "W": 3,
+          "D": 2,
+          "L": 0
+        },
+        "points": 11,
+        "ppg": 2.2,
+        "gf": 7,
+        "ga": 2,
+        "as_home": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 4,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "DWD",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 3,
+          "ga": 2
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Shrewsbury Town",
+      "away": "Harrogate Town"
+    },
+    "odds": {
+      "home": 1.71,
+      "draw": 3.41,
+      "away": 4.1
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "market_implied": {
+      "home": 0.5212,
+      "draw": 0.2614,
+      "away": 0.2174
+    },
+    "blended": {
+      "home": 0.4066,
+      "draw": 0.3022,
+      "away": 0.2912
+    },
+    "ev": {
+      "home": -0.37,
+      "draw": 0.0768,
+      "away": 0.2947
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.295,
+      "kelly_25pct": 0.024
+    },
+    "expected_result": "Expected result: 1.3-1.1 (Poisson+DC, rho=+0.11) (xG-weighted: 1.69-1.02)",
+    "distribution": {
+      "expected_goals_home": 1.334,
+      "expected_goals_away": 1.063,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.443,
+      "p_draw_raw": 0.245,
+      "p_away_raw": 0.312,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.69-1.02)",
+      "xg_home_used": 1.691,
+      "xg_away_used": 1.019,
+      "p_btts": 0.468,
+      "p_over_0_5": 0.923,
+      "p_over_1_5": 0.677,
+      "p_over_2_5": 0.429,
+      "p_over_3_5": 0.221,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "6.2-4.3 (total 10.4)",
+        "total_median": 10,
+        "total_q25_q75": "8-13",
+        "p_over_7.5_total": 0.796,
+        "p_over_8.5_total": 0.694,
+        "p_over_9.5_total": 0.581,
+        "p_over_10.5_total": 0.464
+      },
+      "cards": {
+        "model": "neg_binom",
+        "nb_size_r": 24.077,
+        "nb_r_source": "team_all_single",
+        "expected": "1.7-2.0 (total 3.7)",
+        "total_median": 3,
+        "total_q25_q75": "2-5",
+        "p_over_3.5_total": 0.493,
+        "p_over_4.5_total": 0.314,
+        "p_over_5.5_total": 0.181
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "15.2-9.3 (total 24.6)",
+        "total_median": 24,
+        "total_q25_q75": "21-28",
+        "p_over_21.0_total": 0.726,
+        "p_over_23.0_total": 0.574,
+        "p_over_25.0_total": 0.414,
+        "p_over_27.0_total": 0.271
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.7-2.4 (total 7.1)",
+        "total_median": 7,
+        "total_q25_q75": "5-9",
+        "p_over_5.5_total": 0.707,
+        "p_over_6.5_total": 0.56,
+        "p_over_7.5_total": 0.411,
+        "p_over_8.5_total": 0.279
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LLLLD",
+        "record": {
+          "W": 0,
+          "D": 1,
+          "L": 4
+        },
+        "points": 1,
+        "ppg": 0.2,
+        "gf": 2,
+        "ga": 9,
+        "as_home": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 0,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LLD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 2
+          },
+          "points": 1,
+          "ppg": 0.33,
+          "gf": 2,
+          "ga": 5
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "DLLLL",
+        "record": {
+          "W": 0,
+          "D": 1,
+          "L": 4
+        },
+        "points": 1,
+        "ppg": 0.2,
+        "gf": 1,
+        "ga": 9,
+        "as_home": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 0,
+          "ga": 6
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "DLL",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 2
+          },
+          "points": 1,
+          "ppg": 0.33,
+          "gf": 1,
+          "ga": 3
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Swindon Town",
+      "away": "Salford City"
+    },
+    "odds": {
+      "home": 2.28,
+      "draw": 3.19,
+      "away": 2.72
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "market_implied": {
+      "home": 0.3917,
+      "draw": 0.28,
+      "away": 0.3283
+    },
+    "blended": {
+      "home": 0.3742,
+      "draw": 0.3068,
+      "away": 0.3189
+    },
+    "ev": {
+      "home": -0.16,
+      "draw": 0.0074,
+      "away": -0.1411
+    },
+    "recommended": {
+      "outcome": "Draw",
+      "ev": 0.007,
+      "kelly_25pct": 0.001
+    },
+    "expected_result": "Expected result: 1.3-1.3 (Poisson+DC, rho=+0.11) (xG-weighted: 1.29-1.29)",
+    "distribution": {
+      "expected_goals_home": 1.28,
+      "expected_goals_away": 1.275,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.382,
+      "p_draw_raw": 0.239,
+      "p_away_raw": 0.379,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.29-1.29)",
+      "xg_home_used": 1.293,
+      "xg_away_used": 1.285,
+      "p_btts": 0.506,
+      "p_over_0_5": 0.936,
+      "p_over_1_5": 0.71,
+      "p_over_2_5": 0.47,
+      "p_over_3_5": 0.254,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "4.9-4.6 (total 9.4)",
+        "total_median": 9,
+        "total_q25_q75": "7-12",
+        "p_over_7.5_total": 0.709,
+        "p_over_8.5_total": 0.589,
+        "p_over_9.5_total": 0.466,
+        "p_over_10.5_total": 0.35
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.9-2.5 (total 4.4)",
+        "total_median": 4,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.646,
+        "p_over_4.5_total": 0.455,
+        "p_over_5.5_total": 0.286
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "11.4-11.0 (total 22.5)",
+        "total_median": 22,
+        "total_q25_q75": "19-26",
+        "p_over_19.0_total": 0.727,
+        "p_over_21.0_total": 0.568,
+        "p_over_23.0_total": 0.401,
+        "p_over_25.0_total": 0.255
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.9-3.4 (total 7.4)",
+        "total_median": 7,
+        "total_q25_q75": "5-9",
+        "p_over_6.0_total": 0.605,
+        "p_over_7.0_total": 0.457,
+        "p_over_8.0_total": 0.321,
+        "p_over_9.0_total": 0.209
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WWLWW",
+        "record": {
+          "W": 4,
+          "D": 0,
+          "L": 1
+        },
+        "points": 12,
+        "ppg": 2.4,
+        "gf": 8,
+        "ga": 1,
+        "as_home": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 3,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WLW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 1
+          },
+          "points": 6,
+          "ppg": 2.0,
+          "gf": 5,
+          "ga": 1
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WWDWW",
+        "record": {
+          "W": 4,
+          "D": 1,
+          "L": 0
+        },
+        "points": 13,
+        "ppg": 2.6,
+        "gf": 10,
+        "ga": 5,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDW",
+          "record": {
+            "W": 2,
+            "D": 1,
+            "L": 0
+          },
+          "points": 7,
+          "ppg": 2.33,
+          "gf": 5,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 5,
+          "ga": 2
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Accrington Stanley",
+      "away": "Milton Keynes Dons"
+    },
+    "odds": {
+      "home": 3.4,
+      "draw": 3.21,
+      "away": 1.94
+    },
+    "probs": {
+      "home": 0.2791,
+      "draw": 0.3349,
+      "away": 0.386
+    },
+    "market_implied": {
+      "home": 0.2623,
+      "draw": 0.2779,
+      "away": 0.4598
+    },
+    "blended": {
+      "home": 0.2749,
+      "draw": 0.3207,
+      "away": 0.4044
+    },
+    "ev": {
+      "home": -0.051,
+      "draw": 0.0751,
+      "away": -0.2512
+    },
+    "recommended": {
+      "outcome": "Draw",
+      "ev": 0.075,
+      "kelly_25pct": 0.008
+    },
+    "expected_result": "Expected result: 1.2-1.2 (Poisson+DC, rho=+0.11) (xG-weighted: 1.32-1.20)",
+    "distribution": {
+      "expected_goals_home": 1.151,
+      "expected_goals_away": 1.244,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.353,
+      "p_draw_raw": 0.248,
+      "p_away_raw": 0.399,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.32-1.20)",
+      "xg_home_used": 1.323,
+      "xg_away_used": 1.205,
+      "p_btts": 0.472,
+      "p_over_0_5": 0.923,
+      "p_over_1_5": 0.676,
+      "p_over_2_5": 0.429,
+      "p_over_3_5": 0.22,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "4.5-4.7 (total 9.2)",
+        "total_median": 9,
+        "total_q25_q75": "7-11",
+        "p_over_7.5_total": 0.689,
+        "p_over_8.5_total": 0.566,
+        "p_over_9.5_total": 0.442,
+        "p_over_10.5_total": 0.327
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.0-2.1 (total 4.1)",
+        "total_median": 4,
+        "total_q25_q75": "3-5",
+        "p_over_3.5_total": 0.595,
+        "p_over_4.5_total": 0.4,
+        "p_over_5.5_total": 0.239
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "11.0-10.5 (total 21.4)",
+        "total_median": 21,
+        "total_q25_q75": "18-24",
+        "p_over_18.0_total": 0.729,
+        "p_over_20.0_total": 0.566,
+        "p_over_22.0_total": 0.395,
+        "p_over_24.0_total": 0.247
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.9-3.5 (total 7.4)",
+        "total_median": 7,
+        "total_q25_q75": "5-9",
+        "p_over_6.0_total": 0.609,
+        "p_over_7.0_total": 0.461,
+        "p_over_8.0_total": 0.325,
+        "p_over_9.0_total": 0.213
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WWWLL",
+        "record": {
+          "W": 3,
+          "D": 0,
+          "L": 2
+        },
+        "points": 9,
+        "ppg": 1.8,
+        "gf": 4,
+        "ga": 4,
+        "as_home": {
+          "n": 3,
+          "sequence": "WWL",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 1
+          },
+          "points": 6,
+          "ppg": 2.0,
+          "gf": 3,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 1,
+          "ga": 2
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "DLWDW",
+        "record": {
+          "W": 2,
+          "D": 2,
+          "L": 1
+        },
+        "points": 8,
+        "ppg": 1.6,
+        "gf": 8,
+        "ga": 4,
+        "as_home": {
+          "n": 3,
+          "sequence": "DWD",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 4,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LW",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 4,
+          "ga": 1
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Bristol Rovers",
+      "away": "Colchester United"
+    },
+    "odds": {
+      "home": 2.74,
+      "draw": 3.03,
+      "away": 2.36
+    },
+    "probs": {
+      "home": 0.3889,
+      "draw": 0.2778,
+      "away": 0.3333
+    },
+    "market_implied": {
+      "home": 0.3262,
+      "draw": 0.295,
+      "away": 0.3788
+    },
+    "blended": {
+      "home": 0.3732,
+      "draw": 0.2821,
+      "away": 0.3447
+    },
+    "ev": {
+      "home": 0.0656,
+      "draw": -0.1583,
+      "away": -0.2133
+    },
+    "recommended": {
+      "outcome": "Home",
+      "ev": 0.066,
+      "kelly_25pct": 0.009
+    },
+    "expected_result": "Expected result: 1.6-1.4 (Poisson+DC, rho=+0.11) (xG-weighted: 1.71-1.08)",
+    "distribution": {
+      "expected_goals_home": 1.597,
+      "expected_goals_away": 1.405,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.434,
+      "p_draw_raw": 0.217,
+      "p_away_raw": 0.349,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.71-1.08)",
+      "xg_home_used": 1.71,
+      "xg_away_used": 1.077,
+      "p_btts": 0.59,
+      "p_over_0_5": 0.963,
+      "p_over_1_5": 0.789,
+      "p_over_2_5": 0.577,
+      "p_over_3_5": 0.353,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 10.876,
+        "nb_r_source": "team_all_single",
+        "expected": "5.5-3.1 (total 8.6)",
+        "total_median": 8,
+        "total_q25_q75": "6-11",
+        "p_over_7.5_total": 0.574,
+        "p_over_8.5_total": 0.47,
+        "p_over_9.5_total": 0.373,
+        "p_over_10.5_total": 0.288
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.9-4.3 (total 6.1)",
+        "total_median": 6,
+        "total_q25_q75": "4-8",
+        "p_over_3.5_total": 0.86,
+        "p_over_4.5_total": 0.732,
+        "p_over_5.5_total": 0.575
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "14.6-8.9 (total 23.6)",
+        "total_median": 23,
+        "total_q25_q75": "20-27",
+        "p_over_20.0_total": 0.729,
+        "p_over_22.0_total": 0.574,
+        "p_over_24.0_total": 0.411,
+        "p_over_26.0_total": 0.265
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.7-3.5 (total 7.2)",
+        "total_median": 7,
+        "total_q25_q75": "5-9",
+        "p_over_5.5_total": 0.722,
+        "p_over_6.5_total": 0.577,
+        "p_over_7.5_total": 0.429,
+        "p_over_8.5_total": 0.295
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WLLDL",
+        "record": {
+          "W": 1,
+          "D": 1,
+          "L": 3
+        },
+        "points": 4,
+        "ppg": 0.8,
+        "gf": 6,
+        "ga": 9,
+        "as_home": {
+          "n": 3,
+          "sequence": "LLL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 3
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 2,
+          "ga": 8
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 4,
+          "ga": 1
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WDDWL",
+        "record": {
+          "W": 2,
+          "D": 2,
+          "L": 1
+        },
+        "points": 8,
+        "ppg": 1.6,
+        "gf": 10,
+        "ga": 7,
+        "as_home": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 5,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "DDL",
+          "record": {
+            "W": 0,
+            "D": 2,
+            "L": 1
+          },
+          "points": 2,
+          "ppg": 0.67,
+          "gf": 5,
+          "ga": 6
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Crewe Alexandra",
+      "away": "Barrow"
+    },
+    "odds": {
+      "home": 1.78,
+      "draw": 3.55,
+      "away": 3.61
+    },
+    "probs": {
+      "home": 0.4409,
+      "draw": 0.2285,
+      "away": 0.3306
+    },
+    "market_implied": {
+      "home": 0.5014,
+      "draw": 0.2514,
+      "away": 0.2472
+    },
+    "blended": {
+      "home": 0.456,
+      "draw": 0.2342,
+      "away": 0.3098
+    },
+    "ev": {
+      "home": -0.2153,
+      "draw": -0.1888,
+      "away": 0.1936
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.194,
+      "kelly_25pct": 0.019
+    },
+    "expected_result": "Expected result: 1.9-1.4 (Poisson+DC, rho=+0.11) (xG-weighted: 1.95-1.34)",
+    "distribution": {
+      "expected_goals_home": 1.916,
+      "expected_goals_away": 1.389,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.509,
+      "p_draw_raw": 0.201,
+      "p_away_raw": 0.29,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.95-1.34)",
+      "xg_home_used": 1.951,
+      "xg_away_used": 1.342,
+      "p_btts": 0.63,
+      "p_over_0_5": 0.974,
+      "p_over_1_5": 0.831,
+      "p_over_2_5": 0.642,
+      "p_over_3_5": 0.421,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 1,
+      "margin_q25_q75": "-1-2"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 9.093,
+        "nb_r_source": "team_all_single",
+        "expected": "6.6-3.1 (total 9.8)",
+        "total_median": 9,
+        "total_q25_q75": "6-12",
+        "p_over_7.5_total": 0.66,
+        "p_over_8.5_total": 0.567,
+        "p_over_9.5_total": 0.476,
+        "p_over_10.5_total": 0.39
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.5-2.9 (total 4.4)",
+        "total_median": 4,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.642,
+        "p_over_4.5_total": 0.45,
+        "p_over_5.5_total": 0.281
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "17.4-11.7 (total 29.1)",
+        "total_median": 29,
+        "total_q25_q75": "25-33",
+        "p_over_25.5_total": 0.742,
+        "p_over_27.5_total": 0.606,
+        "p_over_29.5_total": 0.458,
+        "p_over_31.5_total": 0.32
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "6.2-4.0 (total 10.3)",
+        "total_median": 10,
+        "total_q25_q75": "8-12",
+        "p_over_9.0_total": 0.576,
+        "p_over_10.0_total": 0.451,
+        "p_over_11.0_total": 0.335,
+        "p_over_12.0_total": 0.235
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "DWLLD",
+        "record": {
+          "W": 1,
+          "D": 2,
+          "L": 2
+        },
+        "points": 5,
+        "ppg": 1.0,
+        "gf": 6,
+        "ga": 6,
+        "as_home": {
+          "n": 3,
+          "sequence": "DWD",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 6,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 0,
+          "ga": 3
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LLWLD",
+        "record": {
+          "W": 1,
+          "D": 1,
+          "L": 3
+        },
+        "points": 4,
+        "ppg": 0.8,
+        "gf": 8,
+        "ga": 9,
+        "as_home": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 2,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LWD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 6,
+          "ga": 5
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Grimsby Town",
+      "away": "Barnet"
+    },
+    "odds": {
+      "home": 2.54,
+      "draw": 3.23,
+      "away": 2.41
+    },
+    "probs": {
+      "home": 0.3564,
+      "draw": 0.3218,
+      "away": 0.3218
+    },
+    "market_implied": {
+      "home": 0.3521,
+      "draw": 0.2769,
+      "away": 0.3711
+    },
+    "blended": {
+      "home": 0.3553,
+      "draw": 0.3106,
+      "away": 0.3341
+    },
+    "ev": {
+      "home": -0.0947,
+      "draw": 0.0394,
+      "away": -0.2245
+    },
+    "recommended": {
+      "outcome": "Draw",
+      "ev": 0.039,
+      "kelly_25pct": 0.004
+    },
+    "expected_result": "Expected result: 1.2-1.1 (Poisson+DC, rho=+0.11) (xG-weighted: 1.38-1.28)",
+    "distribution": {
+      "expected_goals_home": 1.168,
+      "expected_goals_away": 1.146,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.379,
+      "p_draw_raw": 0.254,
+      "p_away_raw": 0.368,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.38-1.28)",
+      "xg_home_used": 1.384,
+      "xg_away_used": 1.279,
+      "p_btts": 0.455,
+      "p_over_0_5": 0.916,
+      "p_over_1_5": 0.658,
+      "p_over_2_5": 0.408,
+      "p_over_3_5": 0.204,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 29.877,
+        "nb_r_source": "team_all_single",
+        "expected": "5.3-4.8 (total 10.1)",
+        "total_median": 10,
+        "total_q25_q75": "8-12",
+        "p_over_7.5_total": 0.751,
+        "p_over_8.5_total": 0.648,
+        "p_over_9.5_total": 0.538,
+        "p_over_10.5_total": 0.429
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.0-3.0 (total 5.0)",
+        "total_median": 5,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.734,
+        "p_over_4.5_total": 0.558,
+        "p_over_5.5_total": 0.383
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "12.1-10.5 (total 22.6)",
+        "total_median": 22,
+        "total_q25_q75": "19-26",
+        "p_over_19.0_total": 0.739,
+        "p_over_21.0_total": 0.581,
+        "p_over_23.0_total": 0.415,
+        "p_over_25.0_total": 0.266
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.7-3.9 (total 7.6)",
+        "total_median": 7,
+        "total_q25_q75": "6-9",
+        "p_over_6.0_total": 0.635,
+        "p_over_7.0_total": 0.49,
+        "p_over_8.0_total": 0.351,
+        "p_over_9.0_total": 0.235
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WDWLL",
+        "record": {
+          "W": 2,
+          "D": 1,
+          "L": 2
+        },
+        "points": 7,
+        "ppg": 1.4,
+        "gf": 2,
+        "ga": 4,
+        "as_home": {
+          "n": 3,
+          "sequence": "DWL",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 1,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 1,
+          "ga": 2
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WWDLL",
+        "record": {
+          "W": 2,
+          "D": 1,
+          "L": 2
+        },
+        "points": 7,
+        "ppg": 1.4,
+        "gf": 6,
+        "ga": 7,
+        "as_home": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 3,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WDL",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 3,
+          "ga": 3
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Oldham Athletic",
+      "away": "Cheltenham Town"
+    },
+    "odds": {
+      "home": 1.82,
+      "draw": 3.26,
+      "away": 3.8
+    },
+    "probs": {
+      "home": 0.4211,
+      "draw": 0.2632,
+      "away": 0.3158
+    },
+    "market_implied": {
+      "home": 0.4909,
+      "draw": 0.274,
+      "away": 0.2351
+    },
+    "blended": {
+      "home": 0.4385,
+      "draw": 0.2659,
+      "away": 0.2956
+    },
+    "ev": {
+      "home": -0.2337,
+      "draw": -0.1421,
+      "away": 0.2
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.2,
+      "kelly_25pct": 0.018
+    },
+    "expected_result": "Expected result: 1.7-1.2 (Poisson+DC, rho=+0.11) (xG-weighted: 1.49-1.24)",
+    "distribution": {
+      "expected_goals_home": 1.721,
+      "expected_goals_away": 1.241,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.499,
+      "p_draw_raw": 0.213,
+      "p_away_raw": 0.288,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.49-1.24)",
+      "xg_home_used": 1.495,
+      "xg_away_used": 1.238,
+      "p_btts": 0.572,
+      "p_over_0_5": 0.96,
+      "p_over_1_5": 0.783,
+      "p_over_2_5": 0.568,
+      "p_over_3_5": 0.344,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-2"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "5.2-4.3 (total 9.5)",
+        "total_median": 9,
+        "total_q25_q75": "7-12",
+        "p_over_7.5_total": 0.721,
+        "p_over_8.5_total": 0.603,
+        "p_over_9.5_total": 0.48,
+        "p_over_10.5_total": 0.364
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.8-2.0 (total 3.8)",
+        "total_median": 4,
+        "total_q25_q75": "2-5",
+        "p_over_3.5_total": 0.524,
+        "p_over_4.5_total": 0.329,
+        "p_over_5.5_total": 0.182
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "13.8-11.5 (total 25.4)",
+        "total_median": 25,
+        "total_q25_q75": "22-29",
+        "p_over_22.0_total": 0.707,
+        "p_over_24.0_total": 0.554,
+        "p_over_26.0_total": 0.398,
+        "p_over_28.0_total": 0.259
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.5-2.7 (total 6.3)",
+        "total_median": 6,
+        "total_q25_q75": "4-8",
+        "p_over_5.0_total": 0.596,
+        "p_over_6.0_total": 0.437,
+        "p_over_7.0_total": 0.294,
+        "p_over_8.0_total": 0.182
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "DWDWD",
+        "record": {
+          "W": 2,
+          "D": 3,
+          "L": 0
+        },
+        "points": 9,
+        "ppg": 1.8,
+        "gf": 8,
+        "ga": 5,
+        "as_home": {
+          "n": 2,
+          "sequence": "DW",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 4,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WDD",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 4,
+          "ga": 3
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WLLWW",
+        "record": {
+          "W": 3,
+          "D": 0,
+          "L": 2
+        },
+        "points": 9,
+        "ppg": 1.8,
+        "gf": 9,
+        "ga": 8,
+        "as_home": {
+          "n": 3,
+          "sequence": "WLW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 1
+          },
+          "points": 6,
+          "ppg": 2.0,
+          "gf": 6,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LW",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 3,
+          "ga": 5
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Crawley Town",
+      "away": "Notts County"
+    },
+    "odds": {
+      "home": 2.81,
+      "draw": 3.23,
+      "away": 2.21
+    },
+    "probs": {
+      "home": 0.4,
+      "draw": 0.3,
+      "away": 0.3
+    },
+    "market_implied": {
+      "home": 0.3183,
+      "draw": 0.2769,
+      "away": 0.4047
+    },
+    "blended": {
+      "home": 0.3796,
+      "draw": 0.2942,
+      "away": 0.3262
+    },
+    "ev": {
+      "home": 0.124,
+      "draw": -0.031,
+      "away": -0.337
+    },
+    "recommended": {
+      "outcome": "Home",
+      "ev": 0.124,
+      "kelly_25pct": 0.017
+    },
+    "expected_result": "Expected result: 1.5-1.1 (Poisson+DC, rho=+0.11) (xG-weighted: 1.75-0.98)",
+    "distribution": {
+      "expected_goals_home": 1.525,
+      "expected_goals_away": 1.137,
+      "model": "poisson_dc",
+      "dc_rho": 0.11,
+      "p_home_raw": 0.475,
+      "p_draw_raw": 0.228,
+      "p_away_raw": 0.297,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.75-0.98)",
+      "xg_home_used": 1.75,
+      "xg_away_used": 0.982,
+      "p_btts": 0.518,
+      "p_over_0_5": 0.944,
+      "p_over_1_5": 0.731,
+      "p_over_2_5": 0.497,
+      "p_over_3_5": 0.278,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 74.074,
+        "nb_r_source": "league",
+        "expected": "7.4-3.5 (total 10.9)",
+        "total_median": 11,
+        "total_q25_q75": "8-13",
+        "p_over_7.5_total": 0.833,
+        "p_over_8.5_total": 0.743,
+        "p_over_9.5_total": 0.636,
+        "p_over_10.5_total": 0.523
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.3-3.7 (total 6.0)",
+        "total_median": 6,
+        "total_q25_q75": "4-8",
+        "p_over_3.5_total": 0.85,
+        "p_over_4.5_total": 0.716,
+        "p_over_5.5_total": 0.556
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "15.2-8.0 (total 23.2)",
+        "total_median": 23,
+        "total_q25_q75": "20-26",
+        "p_over_19.5_total": 0.774,
+        "p_over_21.5_total": 0.626,
+        "p_over_23.5_total": 0.461,
+        "p_over_25.5_total": 0.307
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.7-3.5 (total 8.2)",
+        "total_median": 8,
+        "total_q25_q75": "6-10",
+        "p_over_6.5_total": 0.708,
+        "p_over_7.5_total": 0.572,
+        "p_over_8.5_total": 0.432,
+        "p_over_9.5_total": 0.306
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LLLDL",
+        "record": {
+          "W": 0,
+          "D": 1,
+          "L": 4
+        },
+        "points": 1,
+        "ppg": 0.2,
+        "gf": 3,
+        "ga": 10,
+        "as_home": {
+          "n": 2,
+          "sequence": "LD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 1
+          },
+          "points": 1,
+          "ppg": 0.5,
+          "gf": 2,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LLL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 3
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 1,
+          "ga": 6
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LLDDW",
+        "record": {
+          "W": 1,
+          "D": 2,
+          "L": 2
+        },
+        "points": 5,
+        "ppg": 1.0,
+        "gf": 3,
+        "ga": 4,
+        "as_home": {
+          "n": 2,
+          "sequence": "LD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 1
+          },
+          "points": 1,
+          "ppg": 0.5,
+          "gf": 0,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LDW",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 3,
+          "ga": 3
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Grimsby Town",
+      "away": "Salford City"
+    },
+    "odds": {
+      "home": 2.35,
+      "draw": 3.47,
+      "away": 2.7
+    },
+    "probs": {
+      "home": 0.3702,
+      "draw": 0.3124,
+      "away": 0.3173
+    },
+    "ml_probs": {
+      "home": 0.2182,
+      "draw": 0.288,
+      "away": 0.4938
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.3925,
+      "draw": 0.2658,
+      "away": 0.3416
+    },
+    "blended": {
+      "home": 0.3758,
+      "draw": 0.3008,
+      "away": 0.3234
+    },
+    "ev": {
+      "home": -0.13,
+      "draw": 0.0841,
+      "away": -0.1432
+    },
+    "ml_ev": {
+      "home": -0.4872,
+      "draw": -0.0008,
+      "away": 0.3333
+    },
+    "recommended": {
+      "outcome": "Draw",
+      "ev": 0.084,
+      "kelly_25pct": 0.009
+    },
+    "expected_result": "Expected result: 1.4-1.2 (Poisson+DC, rho=+0.12) (xG-weighted: 1.58-1.20)",
+    "distribution": {
+      "expected_goals_home": 1.403,
+      "expected_goals_away": 1.241,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.422,
+      "p_draw_raw": 0.231,
+      "p_away_raw": 0.347,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.58-1.20)",
+      "xg_home_used": 1.576,
+      "xg_away_used": 1.201,
+      "p_btts": 0.521,
+      "p_over_0_5": 0.944,
+      "p_over_1_5": 0.726,
+      "p_over_2_5": 0.493,
+      "p_over_3_5": 0.274,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 28.795,
+        "nb_r_source": "team_role_single",
+        "expected": "5.6-4.7 (total 10.3)",
+        "total_median": 10,
+        "total_q25_q75": "8-13",
+        "p_over_7.5_total": 0.764,
+        "p_over_8.5_total": 0.664,
+        "p_over_9.5_total": 0.557,
+        "p_over_10.5_total": 0.449
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.7-3.6 (total 5.3)",
+        "total_median": 5,
+        "total_q25_q75": "4-7",
+        "p_over_3.5_total": 0.769,
+        "p_over_4.5_total": 0.604,
+        "p_over_5.5_total": 0.429
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "13.5-10.5 (total 24.0)",
+        "total_median": 24,
+        "total_q25_q75": "21-27",
+        "p_over_20.5_total": 0.758,
+        "p_over_22.5_total": 0.609,
+        "p_over_24.5_total": 0.447,
+        "p_over_26.5_total": 0.297
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "5.4-3.2 (total 8.6)",
+        "total_median": 8,
+        "total_q25_q75": "7-10",
+        "p_over_7.0_total": 0.623,
+        "p_over_8.0_total": 0.487,
+        "p_over_9.0_total": 0.356,
+        "p_over_10.0_total": 0.244
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WWDWL",
+        "record": {
+          "W": 3,
+          "D": 1,
+          "L": 1
+        },
+        "points": 10,
+        "ppg": 2.0,
+        "gf": 3,
+        "ga": 2,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDW",
+          "record": {
+            "W": 2,
+            "D": 1,
+            "L": 0
+          },
+          "points": 7,
+          "ppg": 2.33,
+          "gf": 2,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 1,
+          "ga": 2
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WWWDW",
+        "record": {
+          "W": 4,
+          "D": 1,
+          "L": 0
+        },
+        "points": 13,
+        "ppg": 2.6,
+        "gf": 9,
+        "ga": 4,
+        "as_home": {
+          "n": 2,
+          "sequence": "WD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 1,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WWW",
+          "record": {
+            "W": 3,
+            "D": 0,
+            "L": 0
+          },
+          "points": 9,
+          "ppg": 3.0,
+          "gf": 8,
+          "ga": 4
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Cheltenham Town",
+      "away": "Grimsby Town"
+    },
+    "odds": {
+      "home": 3.45,
+      "draw": 3.28,
+      "away": 1.91
+    },
+    "probs": {
+      "home": 0.2778,
+      "draw": 0.2778,
+      "away": 0.4444
+    },
+    "ml_probs": {
+      "home": 0.2184,
+      "draw": 0.624,
+      "away": 0.1576
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.2592,
+      "draw": 0.2726,
+      "away": 0.4682
+    },
+    "blended": {
+      "home": 0.2731,
+      "draw": 0.2765,
+      "away": 0.4504
+    },
+    "ev": {
+      "home": -0.0417,
+      "draw": -0.0889,
+      "away": -0.1511
+    },
+    "ml_ev": {
+      "home": -0.2465,
+      "draw": 1.0467,
+      "away": -0.699
+    },
+    "recommended": {
+      "outcome": "No bet",
+      "ev": null,
+      "kelly_25pct": null
+    },
+    "expected_result": "Expected result: 1.3-1.6 (Poisson+DC, rho=+0.12) (xG-weighted: 1.23-1.95)",
+    "distribution": {
+      "expected_goals_home": 1.313,
+      "expected_goals_away": 1.59,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.33,
+      "p_draw_raw": 0.218,
+      "p_away_raw": 0.453,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.23-1.95)",
+      "xg_home_used": 1.232,
+      "xg_away_used": 1.95,
+      "p_btts": 0.568,
+      "p_over_0_5": 0.959,
+      "p_over_1_5": 0.772,
+      "p_over_2_5": 0.555,
+      "p_over_3_5": 0.331,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 42.433,
+        "nb_r_source": "team_all_single",
+        "expected": "5.8-5.2 (total 11.0)",
+        "total_median": 11,
+        "total_q25_q75": "8-13",
+        "p_over_7.5_total": 0.826,
+        "p_over_8.5_total": 0.737,
+        "p_over_9.5_total": 0.635,
+        "p_over_10.5_total": 0.526
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.8-1.3 (total 4.1)",
+        "total_median": 4,
+        "total_q25_q75": "3-5",
+        "p_over_3.5_total": 0.579,
+        "p_over_4.5_total": 0.384,
+        "p_over_5.5_total": 0.225
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "10.4-17.9 (total 28.3)",
+        "total_median": 28,
+        "total_q25_q75": "25-32",
+        "p_over_25.0_total": 0.694,
+        "p_over_27.0_total": 0.549,
+        "p_over_29.0_total": 0.401,
+        "p_over_31.0_total": 0.268
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.2-6.4 (total 9.6)",
+        "total_median": 9,
+        "total_q25_q75": "7-12",
+        "p_over_8.0_total": 0.625,
+        "p_over_9.0_total": 0.496,
+        "p_over_10.0_total": 0.372,
+        "p_over_11.0_total": 0.263
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LWLLW",
+        "record": {
+          "W": 2,
+          "D": 0,
+          "L": 3
+        },
+        "points": 6,
+        "ppg": 1.2,
+        "gf": 8,
+        "ga": 9,
+        "as_home": {
+          "n": 3,
+          "sequence": "WLW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 1
+          },
+          "points": 6,
+          "ppg": 2.0,
+          "gf": 6,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 2,
+          "ga": 6
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WWDWL",
+        "record": {
+          "W": 3,
+          "D": 1,
+          "L": 1
+        },
+        "points": 10,
+        "ppg": 2.0,
+        "gf": 3,
+        "ga": 2,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDW",
+          "record": {
+            "W": 2,
+            "D": 1,
+            "L": 0
+          },
+          "points": 7,
+          "ppg": 2.33,
+          "gf": 2,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 1,
+          "ga": 2
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Harrogate Town",
+      "away": "Gillingham"
+    },
+    "odds": {
+      "home": 3.7,
+      "draw": 3.16,
+      "away": 1.87
+    },
+    "probs": {
+      "home": 0.2741,
+      "draw": 0.3289,
+      "away": 0.397
+    },
+    "ml_probs": {
+      "home": 0.0836,
+      "draw": 0.7507,
+      "away": 0.1657
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.241,
+      "draw": 0.2822,
+      "away": 0.4768
+    },
+    "blended": {
+      "home": 0.2658,
+      "draw": 0.3172,
+      "away": 0.417
+    },
+    "ev": {
+      "home": 0.0141,
+      "draw": 0.0393,
+      "away": -0.2576
+    },
+    "ml_ev": {
+      "home": -0.6907,
+      "draw": 1.3721,
+      "away": -0.6901
+    },
+    "recommended": {
+      "outcome": "Draw",
+      "ev": 0.039,
+      "kelly_25pct": 0.005
+    },
+    "expected_result": "Expected result: 1.3-1.4 (Poisson+DC, rho=+0.12) (xG-weighted: 1.37-1.42)",
+    "distribution": {
+      "expected_goals_home": 1.259,
+      "expected_goals_away": 1.366,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.359,
+      "p_draw_raw": 0.232,
+      "p_away_raw": 0.409,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.37-1.42)",
+      "xg_home_used": 1.371,
+      "xg_away_used": 1.416,
+      "p_btts": 0.519,
+      "p_over_0_5": 0.943,
+      "p_over_1_5": 0.723,
+      "p_over_2_5": 0.488,
+      "p_over_3_5": 0.27,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 31.43,
+        "nb_r_source": "team_all_single",
+        "expected": "3.0-6.3 (total 9.3)",
+        "total_median": 9,
+        "total_q25_q75": "7-12",
+        "p_over_7.5_total": 0.68,
+        "p_over_8.5_total": 0.565,
+        "p_over_9.5_total": 0.45,
+        "p_over_10.5_total": 0.343
+      },
+      "cards": {
+        "model": "neg_binom",
+        "nb_size_r": 13.623,
+        "nb_r_source": "team_all_avg",
+        "expected": "2.1-2.5 (total 4.6)",
+        "total_median": 4,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.634,
+        "p_over_4.5_total": 0.467,
+        "p_over_5.5_total": 0.319
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "12.4-13.0 (total 25.4)",
+        "total_median": 25,
+        "total_q25_q75": "22-29",
+        "p_over_22.0_total": 0.71,
+        "p_over_24.0_total": 0.559,
+        "p_over_26.0_total": 0.402,
+        "p_over_28.0_total": 0.263
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "3.9-3.6 (total 7.5)",
+        "total_median": 7,
+        "total_q25_q75": "6-9",
+        "p_over_6.0_total": 0.626,
+        "p_over_7.0_total": 0.48,
+        "p_over_8.0_total": 0.342,
+        "p_over_9.0_total": 0.227
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LDLLL",
+        "record": {
+          "W": 0,
+          "D": 1,
+          "L": 4
+        },
+        "points": 1,
+        "ppg": 0.2,
+        "gf": 1,
+        "ga": 6,
+        "as_home": {
+          "n": 1,
+          "sequence": "L",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 1
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 0,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 4,
+          "sequence": "LDLL",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 3
+          },
+          "points": 1,
+          "ppg": 0.25,
+          "gf": 1,
+          "ga": 4
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WLDDL",
+        "record": {
+          "W": 1,
+          "D": 2,
+          "L": 2
+        },
+        "points": 5,
+        "ppg": 1.0,
+        "gf": 6,
+        "ga": 8,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDD",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 5,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 1,
+          "ga": 4
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Barrow",
+      "away": "Crawley Town"
+    },
+    "odds": {
+      "home": 2.37,
+      "draw": 3.08,
+      "away": 2.68
+    },
+    "probs": {
+      "home": 0.3889,
+      "draw": 0.2778,
+      "away": 0.3333
+    },
+    "ml_probs": {
+      "home": 0.1017,
+      "draw": 0.4135,
+      "away": 0.4847
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.3768,
+      "draw": 0.29,
+      "away": 0.3332
+    },
+    "blended": {
+      "home": 0.3859,
+      "draw": 0.2808,
+      "away": 0.3333
+    },
+    "ev": {
+      "home": -0.0783,
+      "draw": -0.1444,
+      "away": -0.1067
+    },
+    "ml_ev": {
+      "home": -0.7589,
+      "draw": 0.2737,
+      "away": 0.299
+    },
+    "recommended": {
+      "outcome": "No bet",
+      "ev": null,
+      "kelly_25pct": null
+    },
+    "expected_result": "Expected result: 1.5-1.5 (Poisson+DC, rho=+0.12) (xG-weighted: 1.43-1.62)",
+    "distribution": {
+      "expected_goals_home": 1.525,
+      "expected_goals_away": 1.512,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.395,
+      "p_draw_raw": 0.215,
+      "p_away_raw": 0.39,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.43-1.62)",
+      "xg_home_used": 1.428,
+      "xg_away_used": 1.624,
+      "p_btts": 0.597,
+      "p_over_0_5": 0.965,
+      "p_over_1_5": 0.793,
+      "p_over_2_5": 0.585,
+      "p_over_3_5": 0.361,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 11.023,
+        "nb_r_source": "team_all_single",
+        "expected": "5.3-4.7 (total 10.0)",
+        "total_median": 10,
+        "total_q25_q75": "7-13",
+        "p_over_7.5_total": 0.691,
+        "p_over_8.5_total": 0.596,
+        "p_over_9.5_total": 0.501,
+        "p_over_10.5_total": 0.411
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.1-2.1 (total 4.2)",
+        "total_median": 4,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.613,
+        "p_over_4.5_total": 0.419,
+        "p_over_5.5_total": 0.254
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "11.4-13.9 (total 25.3)",
+        "total_median": 25,
+        "total_q25_q75": "22-29",
+        "p_over_22.0_total": 0.706,
+        "p_over_24.0_total": 0.553,
+        "p_over_26.0_total": 0.397,
+        "p_over_28.0_total": 0.258
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.8-6.3 (total 11.1)",
+        "total_median": 11,
+        "total_q25_q75": "9-13",
+        "p_over_9.5_total": 0.672,
+        "p_over_10.5_total": 0.554,
+        "p_over_11.5_total": 0.435,
+        "p_over_12.5_total": 0.325
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LLLWL",
+        "record": {
+          "W": 1,
+          "D": 0,
+          "L": 4
+        },
+        "points": 3,
+        "ppg": 0.6,
+        "gf": 7,
+        "ga": 10,
+        "as_home": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 2,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LLW",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 2
+          },
+          "points": 3,
+          "ppg": 1.0,
+          "gf": 5,
+          "ga": 6
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LLLLD",
+        "record": {
+          "W": 0,
+          "D": 1,
+          "L": 4
+        },
+        "points": 1,
+        "ppg": 0.2,
+        "gf": 4,
+        "ga": 11,
+        "as_home": {
+          "n": 3,
+          "sequence": "LLD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 2
+          },
+          "points": 1,
+          "ppg": 0.33,
+          "gf": 3,
+          "ga": 6
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 1,
+          "ga": 5
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Colchester United",
+      "away": "Fleetwood Town"
+    },
+    "odds": {
+      "home": 1.73,
+      "draw": 3.5,
+      "away": 3.9
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "ml_probs": {
+      "home": 0.1347,
+      "draw": 0.0652,
+      "away": 0.8001
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.516,
+      "draw": 0.2551,
+      "away": 0.2289
+    },
+    "blended": {
+      "home": 0.4053,
+      "draw": 0.3006,
+      "away": 0.2941
+    },
+    "ev": {
+      "home": -0.3626,
+      "draw": 0.1053,
+      "away": 0.2316
+    },
+    "ml_ev": {
+      "home": -0.7669,
+      "draw": -0.7719,
+      "away": 2.1204
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.232,
+      "kelly_25pct": 0.02
+    },
+    "expected_result": "Expected result: 1.5-0.8 (Poisson+DC, rho=+0.12) (xG-weighted: 1.57-1.00)",
+    "distribution": {
+      "expected_goals_home": 1.547,
+      "expected_goals_away": 0.777,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.57,
+      "p_draw_raw": 0.228,
+      "p_away_raw": 0.202,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.57-1.00)",
+      "xg_home_used": 1.568,
+      "xg_away_used": 1.003,
+      "p_btts": 0.411,
+      "p_over_0_5": 0.916,
+      "p_over_1_5": 0.661,
+      "p_over_2_5": 0.411,
+      "p_over_3_5": 0.206,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 1,
+      "margin_q25_q75": "0-2"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 33.602,
+        "nb_r_source": "team_all_single",
+        "expected": "6.2-4.4 (total 10.6)",
+        "total_median": 10,
+        "total_q25_q75": "8-13",
+        "p_over_7.5_total": 0.792,
+        "p_over_8.5_total": 0.696,
+        "p_over_9.5_total": 0.59,
+        "p_over_10.5_total": 0.482
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.5-2.4 (total 4.0)",
+        "total_median": 4,
+        "total_q25_q75": "3-5",
+        "p_over_3.5_total": 0.562,
+        "p_over_4.5_total": 0.367,
+        "p_over_5.5_total": 0.211
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "13.8-8.6 (total 22.4)",
+        "total_median": 22,
+        "total_q25_q75": "19-25",
+        "p_over_19.0_total": 0.721,
+        "p_over_21.0_total": 0.56,
+        "p_over_23.0_total": 0.393,
+        "p_over_25.0_total": 0.248
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.7-2.9 (total 7.6)",
+        "total_median": 7,
+        "total_q25_q75": "6-9",
+        "p_over_6.0_total": 0.635,
+        "p_over_7.0_total": 0.489,
+        "p_over_8.0_total": 0.351,
+        "p_over_9.0_total": 0.235
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WWDDW",
+        "record": {
+          "W": 3,
+          "D": 2,
+          "L": 0
+        },
+        "points": 11,
+        "ppg": 2.2,
+        "gf": 8,
+        "ga": 3,
+        "as_home": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 5,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WDD",
+          "record": {
+            "W": 1,
+            "D": 2,
+            "L": 0
+          },
+          "points": 5,
+          "ppg": 1.67,
+          "gf": 3,
+          "ga": 2
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LLLDW",
+        "record": {
+          "W": 1,
+          "D": 1,
+          "L": 3
+        },
+        "points": 4,
+        "ppg": 0.8,
+        "gf": 3,
+        "ga": 5,
+        "as_home": {
+          "n": 3,
+          "sequence": "LLW",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 2
+          },
+          "points": 3,
+          "ppg": 1.0,
+          "gf": 3,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 1
+          },
+          "points": 1,
+          "ppg": 0.5,
+          "gf": 0,
+          "ga": 1
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Cambridge United",
+      "away": "Tranmere Rovers"
+    },
+    "odds": {
+      "home": 1.74,
+      "draw": 3.26,
+      "away": 4.2
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "ml_probs": {
+      "home": 0.2282,
+      "draw": 0.3724,
+      "away": 0.3994
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.5133,
+      "draw": 0.274,
+      "away": 0.2127
+    },
+    "blended": {
+      "home": 0.4047,
+      "draw": 0.3053,
+      "away": 0.29
+    },
+    "ev": {
+      "home": -0.3589,
+      "draw": 0.0295,
+      "away": 0.3263
+    },
+    "ml_ev": {
+      "home": -0.603,
+      "draw": 0.2142,
+      "away": 0.6775
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.326,
+      "kelly_25pct": 0.025
+    },
+    "expected_result": "Expected result: 1.4-1.1 (Poisson+DC, rho=+0.12) (xG-weighted: 1.54-1.15)",
+    "distribution": {
+      "expected_goals_home": 1.381,
+      "expected_goals_away": 1.106,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.447,
+      "p_draw_raw": 0.237,
+      "p_away_raw": 0.316,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.54-1.15)",
+      "xg_home_used": 1.544,
+      "xg_away_used": 1.152,
+      "p_btts": 0.486,
+      "p_over_0_5": 0.932,
+      "p_over_1_5": 0.695,
+      "p_over_2_5": 0.453,
+      "p_over_3_5": 0.24,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 83.456,
+        "nb_r_source": "league",
+        "expected": "5.2-4.2 (total 9.4)",
+        "total_median": 9,
+        "total_q25_q75": "7-11",
+        "p_over_7.5_total": 0.707,
+        "p_over_8.5_total": 0.586,
+        "p_over_9.5_total": 0.462,
+        "p_over_10.5_total": 0.346
+      },
+      "cards": {
+        "model": "neg_binom",
+        "nb_size_r": 13.14,
+        "nb_r_source": "team_all_single",
+        "expected": "1.6-2.0 (total 3.6)",
+        "total_median": 3,
+        "total_q25_q75": "2-5",
+        "p_over_3.5_total": 0.477,
+        "p_over_4.5_total": 0.309,
+        "p_over_5.5_total": 0.183
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "13.6-10.2 (total 23.8)",
+        "total_median": 24,
+        "total_q25_q75": "20-27",
+        "p_over_20.5_total": 0.746,
+        "p_over_22.5_total": 0.595,
+        "p_over_24.5_total": 0.432,
+        "p_over_26.5_total": 0.284
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.3-3.4 (total 7.7)",
+        "total_median": 8,
+        "total_q25_q75": "6-9",
+        "p_over_6.0_total": 0.65,
+        "p_over_7.0_total": 0.506,
+        "p_over_8.0_total": 0.368,
+        "p_over_9.0_total": 0.249
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WWDWW",
+        "record": {
+          "W": 4,
+          "D": 1,
+          "L": 0
+        },
+        "points": 13,
+        "ppg": 2.6,
+        "gf": 8,
+        "ga": 2,
+        "as_home": {
+          "n": 2,
+          "sequence": "WW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 0
+          },
+          "points": 6,
+          "ppg": 3.0,
+          "gf": 4,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WDW",
+          "record": {
+            "W": 2,
+            "D": 1,
+            "L": 0
+          },
+          "points": 7,
+          "ppg": 2.33,
+          "gf": 4,
+          "ga": 2
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LLWWL",
+        "record": {
+          "W": 2,
+          "D": 0,
+          "L": 3
+        },
+        "points": 6,
+        "ppg": 1.2,
+        "gf": 5,
+        "ga": 8,
+        "as_home": {
+          "n": 4,
+          "sequence": "LLWL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 3
+          },
+          "points": 3,
+          "ppg": 0.75,
+          "gf": 3,
+          "ga": 8
+        },
+        "as_away": {
+          "n": 1,
+          "sequence": "W",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 0
+          },
+          "points": 3,
+          "ppg": 3.0,
+          "gf": 2,
+          "ga": 0
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Salford City",
+      "away": "Bristol Rovers"
+    },
+    "odds": {
+      "home": 1.7,
+      "draw": 3.61,
+      "away": 3.92
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "ml_probs": {
+      "home": 0.1408,
+      "draw": 0.1701,
+      "away": 0.6891
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.525,
+      "draw": 0.2473,
+      "away": 0.2277
+    },
+    "blended": {
+      "home": 0.4076,
+      "draw": 0.2987,
+      "away": 0.2938
+    },
+    "ev": {
+      "home": -0.3737,
+      "draw": 0.14,
+      "away": 0.2379
+    },
+    "ml_ev": {
+      "home": -0.7606,
+      "draw": -0.386,
+      "away": 1.7013
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.238,
+      "kelly_25pct": 0.02
+    },
+    "expected_result": "Expected result: 1.4-1.1 (Poisson+DC, rho=+0.12) (xG-weighted: 1.77-1.21)",
+    "distribution": {
+      "expected_goals_home": 1.39,
+      "expected_goals_away": 1.147,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.44,
+      "p_draw_raw": 0.235,
+      "p_away_raw": 0.325,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.77-1.21)",
+      "xg_home_used": 1.772,
+      "xg_away_used": 1.21,
+      "p_btts": 0.497,
+      "p_over_0_5": 0.936,
+      "p_over_1_5": 0.705,
+      "p_over_2_5": 0.466,
+      "p_over_3_5": 0.25,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 6.236,
+        "nb_r_source": "team_role_single",
+        "expected": "5.5-4.7 (total 10.2)",
+        "total_median": 9,
+        "total_q25_q75": "6-13",
+        "p_over_7.5_total": 0.664,
+        "p_over_8.5_total": 0.581,
+        "p_over_9.5_total": 0.5,
+        "p_over_10.5_total": 0.423
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.7-2.7 (total 5.4)",
+        "total_median": 5,
+        "total_q25_q75": "4-7",
+        "p_over_3.5_total": 0.786,
+        "p_over_4.5_total": 0.625,
+        "p_over_5.5_total": 0.452
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "15.3-10.5 (total 25.8)",
+        "total_median": 26,
+        "total_q25_q75": "22-29",
+        "p_over_22.5_total": 0.736,
+        "p_over_24.5_total": 0.589,
+        "p_over_26.5_total": 0.433,
+        "p_over_28.5_total": 0.289
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "5.3-3.1 (total 8.5)",
+        "total_median": 8,
+        "total_q25_q75": "6-10",
+        "p_over_7.0_total": 0.61,
+        "p_over_8.0_total": 0.472,
+        "p_over_9.0_total": 0.343,
+        "p_over_10.0_total": 0.233
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WWWDW",
+        "record": {
+          "W": 4,
+          "D": 1,
+          "L": 0
+        },
+        "points": 13,
+        "ppg": 2.6,
+        "gf": 9,
+        "ga": 4,
+        "as_home": {
+          "n": 2,
+          "sequence": "WD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 1,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WWW",
+          "record": {
+            "W": 3,
+            "D": 0,
+            "L": 0
+          },
+          "points": 9,
+          "ppg": 3.0,
+          "gf": 8,
+          "ga": 4
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LWLLD",
+        "record": {
+          "W": 1,
+          "D": 1,
+          "L": 3
+        },
+        "points": 4,
+        "ppg": 0.8,
+        "gf": 6,
+        "ga": 7,
+        "as_home": {
+          "n": 3,
+          "sequence": "LLL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 3
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 2,
+          "ga": 6
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 4,
+          "ga": 1
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Walsall",
+      "away": "Accrington Stanley"
+    },
+    "odds": {
+      "home": 1.79,
+      "draw": 3.31,
+      "away": 3.84
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "ml_probs": {
+      "home": 0.2744,
+      "draw": 0.3236,
+      "away": 0.402
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.4983,
+      "draw": 0.2695,
+      "away": 0.2323
+    },
+    "blended": {
+      "home": 0.4009,
+      "draw": 0.3042,
+      "away": 0.2949
+    },
+    "ev": {
+      "home": -0.3405,
+      "draw": 0.0453,
+      "away": 0.2126
+    },
+    "ml_ev": {
+      "home": -0.5089,
+      "draw": 0.0711,
+      "away": 0.5438
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.213,
+      "kelly_25pct": 0.019
+    },
+    "expected_result": "Expected result: 1.3-1.0 (Poisson+DC, rho=+0.12) (xG-weighted: 1.44-1.18)",
+    "distribution": {
+      "expected_goals_home": 1.305,
+      "expected_goals_away": 1.048,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.44,
+      "p_draw_raw": 0.246,
+      "p_away_raw": 0.315,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.44-1.18)",
+      "xg_home_used": 1.435,
+      "xg_away_used": 1.176,
+      "p_btts": 0.458,
+      "p_over_0_5": 0.921,
+      "p_over_1_5": 0.666,
+      "p_over_2_5": 0.418,
+      "p_over_3_5": 0.212,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 83.456,
+        "nb_r_source": "league",
+        "expected": "5.9-4.2 (total 10.2)",
+        "total_median": 10,
+        "total_q25_q75": "8-12",
+        "p_over_7.5_total": 0.779,
+        "p_over_8.5_total": 0.673,
+        "p_over_9.5_total": 0.555,
+        "p_over_10.5_total": 0.437
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.1-2.9 (total 4.9)",
+        "total_median": 5,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.727,
+        "p_over_4.5_total": 0.55,
+        "p_over_5.5_total": 0.375
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "12.0-9.6 (total 21.6)",
+        "total_median": 21,
+        "total_q25_q75": "18-25",
+        "p_over_18.0_total": 0.743,
+        "p_over_20.0_total": 0.582,
+        "p_over_22.0_total": 0.412,
+        "p_over_24.0_total": 0.261
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.1-4.0 (total 8.1)",
+        "total_median": 8,
+        "total_q25_q75": "6-10",
+        "p_over_6.5_total": 0.703,
+        "p_over_7.5_total": 0.565,
+        "p_over_8.5_total": 0.426,
+        "p_over_9.5_total": 0.3
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WLLWD",
+        "record": {
+          "W": 2,
+          "D": 1,
+          "L": 2
+        },
+        "points": 7,
+        "ppg": 1.4,
+        "gf": 5,
+        "ga": 5,
+        "as_home": {
+          "n": 2,
+          "sequence": "LW",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 2,
+          "ga": 2
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WLD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 3,
+          "ga": 3
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "LWWWL",
+        "record": {
+          "W": 3,
+          "D": 0,
+          "L": 2
+        },
+        "points": 9,
+        "ppg": 1.8,
+        "gf": 4,
+        "ga": 5,
+        "as_home": {
+          "n": 3,
+          "sequence": "LWW",
+          "record": {
+            "W": 2,
+            "D": 0,
+            "L": 1
+          },
+          "points": 6,
+          "ppg": 2.0,
+          "gf": 3,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 1,
+          "ga": 2
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Newport County",
+      "away": "Chesterfield"
+    },
+    "odds": {
+      "home": 3.76,
+      "draw": 3.45,
+      "away": 1.78
+    },
+    "probs": {
+      "home": 0.3813,
+      "draw": 0.2918,
+      "away": 0.3268
+    },
+    "ml_probs": {
+      "home": 0.2227,
+      "draw": 0.2904,
+      "away": 0.4869
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.238,
+      "draw": 0.2594,
+      "away": 0.5027
+    },
+    "blended": {
+      "home": 0.3455,
+      "draw": 0.2837,
+      "away": 0.3708
+    },
+    "ev": {
+      "home": 0.4337,
+      "draw": 0.0069,
+      "away": -0.4182
+    },
+    "ml_ev": {
+      "home": -0.1626,
+      "draw": 0.0019,
+      "away": -0.1333
+    },
+    "recommended": {
+      "outcome": "Home",
+      "ev": 0.434,
+      "kelly_25pct": 0.039
+    },
+    "expected_result": "Expected result: 1.4-1.2 (Poisson+DC, rho=+0.12) (xG-weighted: 1.51-1.42)",
+    "distribution": {
+      "expected_goals_home": 1.432,
+      "expected_goals_away": 1.222,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.434,
+      "p_draw_raw": 0.23,
+      "p_away_raw": 0.336,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.51-1.42)",
+      "xg_home_used": 1.51,
+      "xg_away_used": 1.424,
+      "p_btts": 0.522,
+      "p_over_0_5": 0.944,
+      "p_over_1_5": 0.728,
+      "p_over_2_5": 0.495,
+      "p_over_3_5": 0.276,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 11.689,
+        "nb_r_source": "team_all_single",
+        "expected": "4.8-4.1 (total 8.9)",
+        "total_median": 8,
+        "total_q25_q75": "6-11",
+        "p_over_7.5_total": 0.6,
+        "p_over_8.5_total": 0.496,
+        "p_over_9.5_total": 0.397,
+        "p_over_10.5_total": 0.309
+      },
+      "cards": {
+        "model": "neg_binom",
+        "nb_size_r": 50.331,
+        "nb_r_source": "team_all_single",
+        "expected": "2.8-2.3 (total 5.2)",
+        "total_median": 5,
+        "total_q25_q75": "3-7",
+        "p_over_3.5_total": 0.743,
+        "p_over_4.5_total": 0.578,
+        "p_over_5.5_total": 0.411
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "13.3-11.9 (total 25.2)",
+        "total_median": 25,
+        "total_q25_q75": "22-28",
+        "p_over_21.5_total": 0.765,
+        "p_over_23.5_total": 0.621,
+        "p_over_25.5_total": 0.463,
+        "p_over_27.5_total": 0.314
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.8-5.4 (total 10.1)",
+        "total_median": 10,
+        "total_q25_q75": "8-12",
+        "p_over_8.5_total": 0.683,
+        "p_over_9.5_total": 0.56,
+        "p_over_10.5_total": 0.435,
+        "p_over_11.5_total": 0.319
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LLWDL",
+        "record": {
+          "W": 1,
+          "D": 1,
+          "L": 3
+        },
+        "points": 4,
+        "ppg": 0.8,
+        "gf": 6,
+        "ga": 9,
+        "as_home": {
+          "n": 2,
+          "sequence": "WD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 2,
+          "ga": 0
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LLL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 3
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 4,
+          "ga": 9
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "DDDWL",
+        "record": {
+          "W": 1,
+          "D": 3,
+          "L": 1
+        },
+        "points": 6,
+        "ppg": 1.2,
+        "gf": 5,
+        "ga": 4,
+        "as_home": {
+          "n": 3,
+          "sequence": "DWL",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 2,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "DD",
+          "record": {
+            "W": 0,
+            "D": 2,
+            "L": 0
+          },
+          "points": 2,
+          "ppg": 1.0,
+          "gf": 3,
+          "ga": 3
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Barnet",
+      "away": "Oldham Athletic"
+    },
+    "odds": {
+      "home": 1.74,
+      "draw": 3.41,
+      "away": 3.97
+    },
+    "probs": {
+      "home": 0.3889,
+      "draw": 0.2778,
+      "away": 0.3333
+    },
+    "ml_probs": {
+      "home": 0.4868,
+      "draw": 0.2101,
+      "away": 0.3031
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.5132,
+      "draw": 0.2619,
+      "away": 0.2249
+    },
+    "blended": {
+      "home": 0.42,
+      "draw": 0.2738,
+      "away": 0.3062
+    },
+    "ev": {
+      "home": -0.3233,
+      "draw": -0.0528,
+      "away": 0.3233
+    },
+    "ml_ev": {
+      "home": -0.1529,
+      "draw": -0.2835,
+      "away": 0.2032
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.323,
+      "kelly_25pct": 0.027
+    },
+    "expected_result": "Expected result: 1.6-1.3 (Poisson+DC, rho=+0.12) (xG-weighted: 1.81-1.28)",
+    "distribution": {
+      "expected_goals_home": 1.57,
+      "expected_goals_away": 1.348,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.44,
+      "p_draw_raw": 0.218,
+      "p_away_raw": 0.342,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.81-1.28)",
+      "xg_home_used": 1.814,
+      "xg_away_used": 1.282,
+      "p_btts": 0.572,
+      "p_over_0_5": 0.96,
+      "p_over_1_5": 0.774,
+      "p_over_2_5": 0.558,
+      "p_over_3_5": 0.334,
+      "total_goals_median": 3,
+      "total_goals_q25_q75": "2-4",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 83.456,
+        "nb_r_source": "league",
+        "expected": "6.7-5.2 (total 11.9)",
+        "total_median": 12,
+        "total_q25_q75": "9-14",
+        "p_over_7.5_total": 0.891,
+        "p_over_8.5_total": 0.821,
+        "p_over_9.5_total": 0.732,
+        "p_over_10.5_total": 0.629
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "2.7-1.6 (total 4.4)",
+        "total_median": 4,
+        "total_q25_q75": "3-6",
+        "p_over_3.5_total": 0.636,
+        "p_over_4.5_total": 0.444,
+        "p_over_5.5_total": 0.276
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "16.3-11.5 (total 27.8)",
+        "total_median": 28,
+        "total_q25_q75": "24-31",
+        "p_over_24.5_total": 0.728,
+        "p_over_26.5_total": 0.586,
+        "p_over_28.5_total": 0.435,
+        "p_over_30.5_total": 0.297
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "5.9-3.7 (total 9.6)",
+        "total_median": 9,
+        "total_q25_q75": "7-12",
+        "p_over_8.0_total": 0.617,
+        "p_over_9.0_total": 0.487,
+        "p_over_10.0_total": 0.363,
+        "p_over_11.0_total": 0.255
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "LWWDL",
+        "record": {
+          "W": 2,
+          "D": 1,
+          "L": 2
+        },
+        "points": 7,
+        "ppg": 1.4,
+        "gf": 5,
+        "ga": 5,
+        "as_home": {
+          "n": 2,
+          "sequence": "WL",
+          "record": {
+            "W": 1,
+            "D": 0,
+            "L": 1
+          },
+          "points": 3,
+          "ppg": 1.5,
+          "gf": 3,
+          "ga": 4
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "LWD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 2,
+          "ga": 1
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WDWDW",
+        "record": {
+          "W": 3,
+          "D": 2,
+          "L": 0
+        },
+        "points": 11,
+        "ppg": 2.2,
+        "gf": 8,
+        "ga": 4,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDW",
+          "record": {
+            "W": 2,
+            "D": 1,
+            "L": 0
+          },
+          "points": 7,
+          "ppg": 2.33,
+          "gf": 6,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "WD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 0
+          },
+          "points": 4,
+          "ppg": 2.0,
+          "gf": 2,
+          "ga": 1
+        }
+      }
+    }
+  },
+  {
+    "league": "LeagueTwo",
+    "match": {
+      "home": "Notts County",
+      "away": "Crewe Alexandra"
+    },
+    "odds": {
+      "home": 1.9,
+      "draw": 3.34,
+      "away": 3.39
+    },
+    "probs": {
+      "home": 0.3684,
+      "draw": 0.3158,
+      "away": 0.3158
+    },
+    "ml_probs": {
+      "home": 0.1627,
+      "draw": 0.2785,
+      "away": 0.5588
+    },
+    "shap_explanations": null,
+    "market_implied": {
+      "home": 0.4696,
+      "draw": 0.2672,
+      "away": 0.2632
+    },
+    "blended": {
+      "home": 0.3937,
+      "draw": 0.3036,
+      "away": 0.3026
+    },
+    "ev": {
+      "home": -0.3,
+      "draw": 0.0547,
+      "away": 0.0705
+    },
+    "ml_ev": {
+      "home": -0.6909,
+      "draw": -0.0699,
+      "away": 0.8944
+    },
+    "recommended": {
+      "outcome": "Away",
+      "ev": 0.071,
+      "kelly_25pct": 0.007
+    },
+    "expected_result": "Expected result: 1.3-0.9 (Poisson+DC, rho=+0.12) (xG-weighted: 1.57-1.15)",
+    "distribution": {
+      "expected_goals_home": 1.324,
+      "expected_goals_away": 0.879,
+      "model": "poisson_dc",
+      "dc_rho": 0.12,
+      "p_home_raw": 0.485,
+      "p_draw_raw": 0.251,
+      "p_away_raw": 0.264,
+      "calibration_temperature": 0.95,
+      "xg_blend_note": "(xG-weighted: 1.57-1.15)",
+      "xg_home_used": 1.569,
+      "xg_away_used": 1.149,
+      "p_btts": 0.414,
+      "p_over_0_5": 0.905,
+      "p_over_1_5": 0.631,
+      "p_over_2_5": 0.378,
+      "p_over_3_5": 0.181,
+      "total_goals_median": 2,
+      "total_goals_q25_q75": "1-3",
+      "margin_median": 0,
+      "margin_q25_q75": "-1-1"
+    },
+    "extra_stats": {
+      "corners": {
+        "model": "neg_binom",
+        "nb_size_r": 83.456,
+        "nb_r_source": "league",
+        "expected": "5.4-4.8 (total 10.2)",
+        "total_median": 10,
+        "total_q25_q75": "8-12",
+        "p_over_7.5_total": 0.779,
+        "p_over_8.5_total": 0.672,
+        "p_over_9.5_total": 0.555,
+        "p_over_10.5_total": 0.436
+      },
+      "cards": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "1.7-1.6 (total 3.3)",
+        "total_median": 3,
+        "total_q25_q75": "2-4",
+        "p_over_3.5_total": 0.42,
+        "p_over_4.5_total": 0.238,
+        "p_over_5.5_total": 0.118
+      },
+      "shots": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "14.1-10.4 (total 24.5)",
+        "total_median": 24,
+        "total_q25_q75": "21-28",
+        "p_over_21.0_total": 0.72,
+        "p_over_23.0_total": 0.566,
+        "p_over_25.0_total": 0.406,
+        "p_over_27.0_total": 0.264
+      },
+      "sot": {
+        "model": "poisson",
+        "nb_size_r": null,
+        "nb_r_source": "poisson",
+        "expected": "4.0-2.7 (total 6.8)",
+        "total_median": 7,
+        "total_q25_q75": "5-8",
+        "p_over_5.5_total": 0.671,
+        "p_over_6.5_total": 0.518,
+        "p_over_7.5_total": 0.369,
+        "p_over_8.5_total": 0.243
+      }
+    },
+    "form": {
+      "n": 5,
+      "home": {
+        "n": 5,
+        "sequence": "WLLDD",
+        "record": {
+          "W": 1,
+          "D": 2,
+          "L": 2
+        },
+        "points": 5,
+        "ppg": 1.0,
+        "gf": 3,
+        "ga": 5,
+        "as_home": {
+          "n": 2,
+          "sequence": "LD",
+          "record": {
+            "W": 0,
+            "D": 1,
+            "L": 1
+          },
+          "points": 1,
+          "ppg": 0.5,
+          "gf": 0,
+          "ga": 1
+        },
+        "as_away": {
+          "n": 3,
+          "sequence": "WLD",
+          "record": {
+            "W": 1,
+            "D": 1,
+            "L": 1
+          },
+          "points": 4,
+          "ppg": 1.33,
+          "gf": 3,
+          "ga": 4
+        }
+      },
+      "away": {
+        "n": 5,
+        "sequence": "WDWLL",
+        "record": {
+          "W": 2,
+          "D": 1,
+          "L": 2
+        },
+        "points": 7,
+        "ppg": 1.4,
+        "gf": 8,
+        "ga": 6,
+        "as_home": {
+          "n": 3,
+          "sequence": "WDW",
+          "record": {
+            "W": 2,
+            "D": 1,
+            "L": 0
+          },
+          "points": 7,
+          "ppg": 2.33,
+          "gf": 8,
+          "ga": 3
+        },
+        "as_away": {
+          "n": 2,
+          "sequence": "LL",
+          "record": {
+            "W": 0,
+            "D": 0,
+            "L": 2
+          },
+          "points": 0,
+          "ppg": 0.0,
+          "gf": 0,
+          "ga": 3
+        }
+      }
+    }
+  }
+]

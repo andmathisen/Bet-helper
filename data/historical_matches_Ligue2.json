@@ -1,0 +1,7785 @@
+{
+  "09 Aug 2025_Troyes-Grenoble Foot 38": {
+    "Date": "09 Aug 2025",
+    "Match": "Troyes-Grenoble Foot 38",
+    "Score": "2:1",
+    "Odds": "1.94|3.4|3.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "0"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.34",
+        "away": "0.83"
+      }
+    }
+  },
+  "09 Aug 2025_Laval-Saint-Étienne": {
+    "Date": "09 Aug 2025",
+    "Match": "Laval-Saint-Étienne",
+    "Score": "3:3",
+    "Odds": "2.95|3.1|2.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "0"
+      },
+      "corners": {
+        "home": "4",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.12",
+        "away": "1.38"
+      }
+    }
+  },
+  "09 Aug 2025_Dunkerque-Clermont": {
+    "Date": "09 Aug 2025",
+    "Match": "Dunkerque-Clermont",
+    "Score": "2:2",
+    "Odds": "2.2|3.2|3.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "0.67"
+      }
+    }
+  },
+  "09 Aug 2025_Montpellier-Red Star": {
+    "Date": "09 Aug 2025",
+    "Match": "Montpellier-Red Star",
+    "Score": "1:1",
+    "Odds": "1.8|3.4|4.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "7",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.74",
+        "away": "0.92"
+      }
+    }
+  },
+  "09 Aug 2025_Rodez-Nancy": {
+    "Date": "09 Aug 2025",
+    "Match": "Rodez-Nancy",
+    "Score": "0:0",
+    "Odds": "2.3|3.2|3.1",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "10"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.50",
+        "away": "1.26"
+      }
+    }
+  },
+  "09 Aug 2025_Guingamp-Le Mans": {
+    "Date": "09 Aug 2025",
+    "Match": "Guingamp-Le Mans",
+    "Score": "3:3",
+    "Odds": "1.72|3.4|4.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "10",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.65",
+        "away": "1.04"
+      }
+    }
+  },
+  "09 Aug 2025_Saint-Étienne-Rodez": {
+    "Date": "09 Aug 2025",
+    "Match": "Saint-Étienne-Rodez",
+    "Score": "4:0",
+    "Odds": "1.63|4.2|4.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.90",
+        "away": "0.73"
+      }
+    }
+  },
+  "09 Aug 2025_Annecy-Dunkerque": {
+    "Date": "09 Aug 2025",
+    "Match": "Annecy-Dunkerque",
+    "Score": "2:2",
+    "Odds": "3.1|3.1|2.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "21",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "0.73"
+      }
+    }
+  },
+  "09 Aug 2025_Reims-Guingamp": {
+    "Date": "09 Aug 2025",
+    "Match": "Reims-Guingamp",
+    "Score": "1:0",
+    "Odds": "2.09|3.2|3.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.92",
+        "away": "0.99"
+      }
+    }
+  },
+  "09 Aug 2025_Nancy-Boulogne": {
+    "Date": "09 Aug 2025",
+    "Match": "Nancy-Boulogne",
+    "Score": "1:0",
+    "Odds": "1.75|3.4|4.6",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "23",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.89",
+        "away": "1.14"
+      }
+    }
+  },
+  "09 Aug 2025_Grenoble Foot 38-Laval": {
+    "Date": "09 Aug 2025",
+    "Match": "Grenoble Foot 38-Laval",
+    "Score": "1:1",
+    "Odds": "2.7|2.96|2.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Laval",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.27",
+        "away": "0.92"
+      }
+    }
+  },
+  "09 Aug 2025_Bastia-Pau": {
+    "Date": "09 Aug 2025",
+    "Match": "Bastia-Pau",
+    "Score": "1:1",
+    "Odds": "1.69|3.5|4.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Pau",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.54",
+        "away": "1.08"
+      }
+    }
+  },
+  "09 Aug 2025_Clermont-Troyes": {
+    "Date": "09 Aug 2025",
+    "Match": "Clermont-Troyes",
+    "Score": "0:0",
+    "Odds": "2.6|3.1|2.47",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "53%",
+        "away": "47%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.57",
+        "away": "1.15"
+      }
+    }
+  },
+  "09 Aug 2025_Red Star-Amiens SC": {
+    "Date": "09 Aug 2025",
+    "Match": "Red Star-Amiens SC",
+    "Score": "1:3",
+    "Odds": "1.94|3.35|3.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "68%",
+        "away": "32%"
+      },
+      "shots": {
+        "home": "27",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "19",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "13",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.82",
+        "away": "1.20"
+      }
+    }
+  },
+  "09 Aug 2025_Amiens SC-Reims": {
+    "Date": "09 Aug 2025",
+    "Match": "Amiens SC-Reims",
+    "Score": "2:2",
+    "Odds": "5.0|3.85|1.69",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Reims",
+      "possession": {
+        "home": "37%",
+        "away": "63%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.16",
+        "away": "1.23"
+      }
+    }
+  },
+  "09 Aug 2025_Pau-Annecy": {
+    "Date": "09 Aug 2025",
+    "Match": "Pau-Annecy",
+    "Score": "2:0",
+    "Odds": "2.3|3.0|3.06",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.05",
+        "away": "0.57"
+      }
+    }
+  },
+  "18 Aug 2025_Pau-Reims": {
+    "Date": "18 Aug 2025",
+    "Match": "Pau-Reims",
+    "Score": "2:0",
+    "Odds": "3.5|3.3|2.05",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Reims",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.06",
+        "away": "0.82"
+      }
+    }
+  },
+  "18 Aug 2025_Boulogne-Saint-Étienne": {
+    "Date": "18 Aug 2025",
+    "Match": "Boulogne-Saint-Étienne",
+    "Score": "0:1",
+    "Odds": "4.4|3.53|1.69",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "28%",
+        "away": "72%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "cards": {
+        "home": "5",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.60",
+        "away": "1.55"
+      }
+    }
+  },
+  "18 Aug 2025_Troyes-Montpellier": {
+    "Date": "18 Aug 2025",
+    "Match": "Troyes-Montpellier",
+    "Score": "1:0",
+    "Odds": "2.15|3.2|3.05",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.45",
+        "away": "0.75"
+      }
+    }
+  },
+  "18 Aug 2025_Guingamp-Red Star": {
+    "Date": "18 Aug 2025",
+    "Match": "Guingamp-Red Star",
+    "Score": "0:4",
+    "Odds": "2.05|3.5|3.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.64",
+        "away": "1.66"
+      }
+    }
+  },
+  "18 Aug 2025_Dunkerque-Nancy": {
+    "Date": "18 Aug 2025",
+    "Match": "Dunkerque-Nancy",
+    "Score": "1:3",
+    "Odds": "2.11|3.1|2.98",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "14"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "7"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "1.60"
+      }
+    }
+  },
+  "18 Aug 2025_Le Mans-Bastia": {
+    "Date": "18 Aug 2025",
+    "Match": "Le Mans-Bastia",
+    "Score": "1:0",
+    "Odds": "2.7|3.13|2.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.27",
+        "away": "1.26"
+      }
+    }
+  },
+  "18 Aug 2025_Rodez-Laval": {
+    "Date": "18 Aug 2025",
+    "Match": "Rodez-Laval",
+    "Score": "1:1",
+    "Odds": "2.5|3.2|2.7",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Laval",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.16",
+        "away": "1.14"
+      }
+    }
+  },
+  "18 Aug 2025_Clermont-Grenoble Foot 38": {
+    "Date": "18 Aug 2025",
+    "Match": "Clermont-Grenoble Foot 38",
+    "Score": "2:1",
+    "Odds": "2.15|3.28|3.2",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.72",
+        "away": "1.30"
+      }
+    }
+  },
+  "18 Aug 2025_Amiens SC-Annecy": {
+    "Date": "18 Aug 2025",
+    "Match": "Amiens SC-Annecy",
+    "Score": "0:1",
+    "Odds": "2.55|3.0|2.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.18",
+        "away": "0.97"
+      }
+    }
+  },
+  "18 Aug 2025_Le Mans-Montpellier": {
+    "Date": "18 Aug 2025",
+    "Match": "Le Mans-Montpellier",
+    "Score": "1:2",
+    "Odds": "2.26|3.0|2.69",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.15",
+        "away": "1.25"
+      }
+    }
+  },
+  "29 Aug 2025_Boulogne-Laval": {
+    "Date": "29 Aug 2025",
+    "Match": "Boulogne-Laval",
+    "Score": "1:2",
+    "Odds": "2.88|3.0|2.28",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Laval",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "8",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.43",
+        "away": "1.10"
+      }
+    }
+  },
+  "29 Aug 2025_Saint-Étienne-Grenoble Foot 38": {
+    "Date": "29 Aug 2025",
+    "Match": "Saint-Étienne-Grenoble Foot 38",
+    "Score": "1:1",
+    "Odds": "1.45|4.54|6.8",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "79%",
+        "away": "21%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "9",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "2.19",
+        "away": "0.79"
+      }
+    }
+  },
+  "29 Aug 2025_Bastia-Guingamp": {
+    "Date": "29 Aug 2025",
+    "Match": "Bastia-Guingamp",
+    "Score": "1:3",
+    "Odds": "1.98|3.35|3.55",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "27",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "1.34"
+      }
+    }
+  },
+  "29 Aug 2025_Reims-Le Mans": {
+    "Date": "29 Aug 2025",
+    "Match": "Reims-Le Mans",
+    "Score": "1:0",
+    "Odds": "1.93|3.2|3.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.30",
+        "away": "0.63"
+      }
+    }
+  },
+  "29 Aug 2025_Nancy-Pau": {
+    "Date": "29 Aug 2025",
+    "Match": "Nancy-Pau",
+    "Score": "2:2",
+    "Odds": "1.9|3.15|3.45",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Pau",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "11"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "11",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.91",
+        "away": "1.49"
+      }
+    }
+  },
+  "29 Aug 2025_Montpellier-Amiens SC": {
+    "Date": "29 Aug 2025",
+    "Match": "Montpellier-Amiens SC",
+    "Score": "1:1",
+    "Odds": "1.59|4.08|5.55",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.93",
+        "away": "0.67"
+      }
+    }
+  },
+  "29 Aug 2025_Laval-Clermont": {
+    "Date": "29 Aug 2025",
+    "Match": "Laval-Clermont",
+    "Score": "0:0",
+    "Odds": "1.9|3.32|3.62",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "13",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "6"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.46",
+        "away": "1.00"
+      }
+    }
+  },
+  "29 Aug 2025_Dunkerque-Troyes": {
+    "Date": "29 Aug 2025",
+    "Match": "Dunkerque-Troyes",
+    "Score": "2:0",
+    "Odds": "2.7|3.1|2.38",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "11"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.80",
+        "away": "1.28"
+      }
+    }
+  },
+  "29 Aug 2025_Red Star-Annecy": {
+    "Date": "29 Aug 2025",
+    "Match": "Red Star-Annecy",
+    "Score": "1:0",
+    "Odds": "1.9|3.2|4.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.65",
+        "away": "0.70"
+      }
+    }
+  },
+  "29 Aug 2025_Rodez-Boulogne": {
+    "Date": "29 Aug 2025",
+    "Match": "Rodez-Boulogne",
+    "Score": "1:0",
+    "Odds": "1.82|3.58|4.52",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "20"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "13"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.59",
+        "away": "2.23"
+      }
+    }
+  },
+  "12 Sep 2025_Boulogne-Pau": {
+    "Date": "12 Sep 2025",
+    "Match": "Boulogne-Pau",
+    "Score": "0:3",
+    "Odds": "2.33|3.1|2.71",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Pau",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "25",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "1.10"
+      }
+    }
+  },
+  "12 Sep 2025_Boulogne-Bastia": {
+    "Date": "12 Sep 2025",
+    "Match": "Boulogne-Bastia",
+    "Score": "1:0",
+    "Odds": "3.6|2.98|2.29",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.75",
+        "away": "1.51"
+      }
+    }
+  },
+  "12 Sep 2025_Guingamp-Montpellier": {
+    "Date": "12 Sep 2025",
+    "Match": "Guingamp-Montpellier",
+    "Score": "1:0",
+    "Odds": "2.6|3.2|2.65",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "13"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.17",
+        "away": "1.35"
+      }
+    }
+  },
+  "12 Sep 2025_Clermont-Saint-Étienne": {
+    "Date": "12 Sep 2025",
+    "Match": "Clermont-Saint-Étienne",
+    "Score": "1:2",
+    "Odds": "3.6|3.3|1.95",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.22",
+        "away": "1.68"
+      }
+    }
+  },
+  "12 Sep 2025_Annecy-Reims": {
+    "Date": "12 Sep 2025",
+    "Match": "Annecy-Reims",
+    "Score": "1:1",
+    "Odds": "3.25|3.0|2.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Reims",
+      "possession": {
+        "home": "32%",
+        "away": "68%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.87",
+        "away": "1.82"
+      }
+    }
+  },
+  "12 Sep 2025_Grenoble Foot 38-Dunkerque": {
+    "Date": "12 Sep 2025",
+    "Match": "Grenoble Foot 38-Dunkerque",
+    "Score": "1:0",
+    "Odds": "2.8|3.1|2.35",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "31%",
+        "away": "69%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.09",
+        "away": "1.60"
+      }
+    }
+  },
+  "12 Sep 2025_Troyes-Nancy": {
+    "Date": "12 Sep 2025",
+    "Match": "Troyes-Nancy",
+    "Score": "3:0",
+    "Odds": "2.25|3.18|3.4",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.53",
+        "away": "1.00"
+      }
+    }
+  },
+  "12 Sep 2025_Amiens SC-Bastia": {
+    "Date": "12 Sep 2025",
+    "Match": "Amiens SC-Bastia",
+    "Score": "0:0",
+    "Odds": "4.0|3.1|1.95",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.54",
+        "away": "0.84"
+      }
+    }
+  },
+  "12 Sep 2025_Le Mans-Rodez": {
+    "Date": "12 Sep 2025",
+    "Match": "Le Mans-Rodez",
+    "Score": "0:1",
+    "Odds": "2.09|3.35|3.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "7"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.85",
+        "away": "1.35"
+      }
+    }
+  },
+  "12 Sep 2025_Pau-Red Star": {
+    "Date": "12 Sep 2025",
+    "Match": "Pau-Red Star",
+    "Score": "0:3",
+    "Odds": "2.45|3.28|2.56",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "5"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "1.72"
+      }
+    }
+  },
+  "19 Sep 2025_Bastia-Rodez": {
+    "Date": "19 Sep 2025",
+    "Match": "Bastia-Rodez",
+    "Score": "2:3",
+    "Odds": "1.95|3.3|3.7",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "8"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "2.23",
+        "away": "1.19"
+      }
+    }
+  },
+  "19 Sep 2025_Montpellier-Boulogne": {
+    "Date": "19 Sep 2025",
+    "Match": "Montpellier-Boulogne",
+    "Score": "1:3",
+    "Odds": "1.6|3.55|5.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "10"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "14"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.80",
+        "away": "2.65"
+      }
+    }
+  },
+  "19 Sep 2025_Saint-Étienne-Reims": {
+    "Date": "19 Sep 2025",
+    "Match": "Saint-Étienne-Reims",
+    "Score": "3:2",
+    "Odds": "2.44|3.12|2.56",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Reims",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "10"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "6",
+        "away": "26"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.92",
+        "away": "1.99"
+      }
+    }
+  },
+  "19 Sep 2025_Montpellier-Bastia": {
+    "Date": "19 Sep 2025",
+    "Match": "Montpellier-Bastia",
+    "Score": "2:0",
+    "Odds": "2.13|2.9|3.0",
+    "Result": "Home"
+  },
+  "19 Sep 2025_Troyes-Guingamp": {
+    "Date": "19 Sep 2025",
+    "Match": "Troyes-Guingamp",
+    "Score": "5:2",
+    "Odds": "1.75|3.64|4.31",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "11",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.41",
+        "away": "1.14"
+      }
+    }
+  },
+  "19 Sep 2025_Laval-Amiens SC": {
+    "Date": "19 Sep 2025",
+    "Match": "Laval-Amiens SC",
+    "Score": "0:3",
+    "Odds": "1.77|3.61|3.59",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.57",
+        "away": "1.56"
+      }
+    }
+  },
+  "19 Sep 2025_Dunkerque-Le Mans": {
+    "Date": "19 Sep 2025",
+    "Match": "Dunkerque-Le Mans",
+    "Score": "2:2",
+    "Odds": "1.95|3.28|3.3",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.70",
+        "away": "1.03"
+      }
+    }
+  },
+  "19 Sep 2025_Grenoble Foot 38-Annecy": {
+    "Date": "19 Sep 2025",
+    "Match": "Grenoble Foot 38-Annecy",
+    "Score": "1:3",
+    "Odds": "2.24|3.03|2.91",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.72",
+        "away": "1.60"
+      }
+    }
+  },
+  "19 Sep 2025_Nancy-Red Star": {
+    "Date": "19 Sep 2025",
+    "Match": "Nancy-Red Star",
+    "Score": "0:1",
+    "Odds": "2.01|2.92|3.57",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "29%",
+        "away": "71%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "9"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.52",
+        "away": "1.82"
+      }
+    }
+  },
+  "19 Sep 2025_Rodez-Clermont": {
+    "Date": "19 Sep 2025",
+    "Match": "Rodez-Clermont",
+    "Score": "0:1",
+    "Odds": "1.83|3.35|3.63",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.02",
+        "away": "0.78"
+      }
+    }
+  },
+  "23 Sep 2025_Nancy-Reims": {
+    "Date": "23 Sep 2025",
+    "Match": "Nancy-Reims",
+    "Score": "0:1",
+    "Odds": "3.07|3.2|2.07",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Reims",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.73",
+        "away": "0.82"
+      }
+    }
+  },
+  "23 Sep 2025_Rodez-Pau": {
+    "Date": "23 Sep 2025",
+    "Match": "Rodez-Pau",
+    "Score": "1:2",
+    "Odds": "2.07|3.34|2.95",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Pau",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "22"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "16"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "3",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "2.25"
+      }
+    }
+  },
+  "23 Sep 2025_Troyes-Annecy": {
+    "Date": "23 Sep 2025",
+    "Match": "Troyes-Annecy",
+    "Score": "3:1",
+    "Odds": "1.62|3.41|4.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "7",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.99",
+        "away": "1.51"
+      }
+    }
+  },
+  "23 Sep 2025_Amiens SC-Saint-Étienne": {
+    "Date": "23 Sep 2025",
+    "Match": "Amiens SC-Saint-Étienne",
+    "Score": "0:1",
+    "Odds": "5.05|3.8|1.76",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "23"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "19"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.06",
+        "away": "2.15"
+      }
+    }
+  },
+  "23 Sep 2025_Reims-Clermont": {
+    "Date": "23 Sep 2025",
+    "Match": "Reims-Clermont",
+    "Score": "4:1",
+    "Odds": "1.5|4.0|5.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.13",
+        "away": "0.79"
+      }
+    }
+  },
+  "23 Sep 2025_Le Mans-Grenoble Foot 38": {
+    "Date": "23 Sep 2025",
+    "Match": "Le Mans-Grenoble Foot 38",
+    "Score": "1:0",
+    "Odds": "2.0|3.25|3.72",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "30%",
+        "away": "70%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "6"
+      },
+      "xg": {
+        "home": "0.82",
+        "away": "1.19"
+      }
+    }
+  },
+  "23 Sep 2025_Pau-Laval": {
+    "Date": "23 Sep 2025",
+    "Match": "Pau-Laval",
+    "Score": "1:0",
+    "Odds": "2.2|3.4|3.16",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Laval",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "0.70"
+      }
+    }
+  },
+  "23 Sep 2025_Annecy-Nancy": {
+    "Date": "23 Sep 2025",
+    "Match": "Annecy-Nancy",
+    "Score": "1:2",
+    "Odds": "2.63|3.1|2.77",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.38",
+        "away": "1.44"
+      }
+    }
+  },
+  "23 Sep 2025_Guingamp-Dunkerque": {
+    "Date": "23 Sep 2025",
+    "Match": "Guingamp-Dunkerque",
+    "Score": "2:1",
+    "Odds": "2.45|3.42|2.77",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.08",
+        "away": "1.53"
+      }
+    }
+  },
+  "23 Sep 2025_Red Star-Troyes": {
+    "Date": "23 Sep 2025",
+    "Match": "Red Star-Troyes",
+    "Score": "1:3",
+    "Odds": "2.5|3.0|2.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "8"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.33",
+        "away": "1.81"
+      }
+    }
+  },
+  "26 Sep 2025_Guingamp-Nancy": {
+    "Date": "26 Sep 2025",
+    "Match": "Guingamp-Nancy",
+    "Score": "2:2",
+    "Odds": "2.49|3.2|2.75",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "70%",
+        "away": "30%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.67",
+        "away": "0.81"
+      }
+    }
+  },
+  "26 Sep 2025_Bastia-Dunkerque": {
+    "Date": "26 Sep 2025",
+    "Match": "Bastia-Dunkerque",
+    "Score": "0:0",
+    "Odds": "2.17|3.2|2.95",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "59%",
+        "away": "41%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.49",
+        "away": "0.45"
+      }
+    }
+  },
+  "26 Sep 2025_Pau-Clermont": {
+    "Date": "26 Sep 2025",
+    "Match": "Pau-Clermont",
+    "Score": "3:1",
+    "Odds": "1.68|3.4|4.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "9"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "0.97",
+        "away": "1.11"
+      }
+    }
+  },
+  "26 Sep 2025_Amiens SC-Boulogne": {
+    "Date": "26 Sep 2025",
+    "Match": "Amiens SC-Boulogne",
+    "Score": "0:1",
+    "Odds": "2.41|3.05|2.63",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "19"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "13"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.52",
+        "away": "1.90"
+      }
+    }
+  },
+  "26 Sep 2025_Boulogne-Red Star": {
+    "Date": "26 Sep 2025",
+    "Match": "Boulogne-Red Star",
+    "Score": "1:2",
+    "Odds": "3.43|3.25|2.23",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.70",
+        "away": "1.11"
+      }
+    }
+  },
+  "26 Sep 2025_Saint-Étienne-Guingamp": {
+    "Date": "26 Sep 2025",
+    "Match": "Saint-Étienne-Guingamp",
+    "Score": "2:3",
+    "Odds": "1.46|4.1|5.3",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "5"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "1.49"
+      }
+    }
+  },
+  "26 Sep 2025_Laval-Montpellier": {
+    "Date": "26 Sep 2025",
+    "Match": "Laval-Montpellier",
+    "Score": "0:1",
+    "Odds": "2.89|3.05|2.43",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "12",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.00",
+        "away": "1.18"
+      }
+    }
+  },
+  "26 Sep 2025_Dunkerque-Amiens SC": {
+    "Date": "26 Sep 2025",
+    "Match": "Dunkerque-Amiens SC",
+    "Score": "6:2",
+    "Odds": "1.72|3.75|4.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "12",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.25",
+        "away": "0.70"
+      }
+    }
+  },
+  "26 Sep 2025_Clermont-Le Mans": {
+    "Date": "26 Sep 2025",
+    "Match": "Clermont-Le Mans",
+    "Score": "1:1",
+    "Odds": "2.51|3.05|2.54",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "17"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "13"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.82",
+        "away": "2.47"
+      }
+    }
+  },
+  "26 Sep 2025_Grenoble Foot 38-Bastia": {
+    "Date": "26 Sep 2025",
+    "Match": "Grenoble Foot 38-Bastia",
+    "Score": "0:0",
+    "Odds": "3.11|3.05|2.13",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "0.45"
+      }
+    }
+  },
+  "03 Oct 2025_Troyes-Bastia": {
+    "Date": "03 Oct 2025",
+    "Match": "Troyes-Bastia",
+    "Score": "1:0",
+    "Odds": "1.92|3.14|3.57",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "34%",
+        "away": "66%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "13"
+      },
+      "cards": {
+        "home": "6",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.12",
+        "away": "1.37"
+      }
+    }
+  },
+  "03 Oct 2025_Rodez-Reims": {
+    "Date": "03 Oct 2025",
+    "Match": "Rodez-Reims",
+    "Score": "2:2",
+    "Odds": "3.11|3.3|2.02",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Reims",
+      "possession": {
+        "home": "33%",
+        "away": "67%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "5",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.69"
+      }
+    }
+  },
+  "03 Oct 2025_Clermont-Annecy": {
+    "Date": "03 Oct 2025",
+    "Match": "Clermont-Annecy",
+    "Score": "0:1",
+    "Odds": "2.5|2.97|2.61",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "74%",
+        "away": "26%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.15",
+        "away": "1.12"
+      }
+    }
+  },
+  "03 Oct 2025_Grenoble Foot 38-Pau": {
+    "Date": "03 Oct 2025",
+    "Match": "Grenoble Foot 38-Pau",
+    "Score": "1:1",
+    "Odds": "3.02|2.92|2.24",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Pau",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "24"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "18"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.40",
+        "away": "2.40"
+      }
+    }
+  },
+  "03 Oct 2025_Boulogne-Guingamp": {
+    "Date": "03 Oct 2025",
+    "Match": "Boulogne-Guingamp",
+    "Score": "2:2",
+    "Odds": "2.41|3.31|2.48",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "2",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.96",
+        "away": "0.94"
+      }
+    }
+  },
+  "03 Oct 2025_Montpellier-Saint-Étienne": {
+    "Date": "03 Oct 2025",
+    "Match": "Montpellier-Saint-Étienne",
+    "Score": "0:2",
+    "Odds": "2.75|3.36|2.18",
+    "Result": "Away"
+  },
+  "03 Oct 2025_Red Star-Rodez": {
+    "Date": "03 Oct 2025",
+    "Match": "Red Star-Rodez",
+    "Score": "1:1",
+    "Odds": "1.91|3.2|3.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.66",
+        "away": "0.89"
+      }
+    }
+  },
+  "03 Oct 2025_Reims-Grenoble Foot 38": {
+    "Date": "03 Oct 2025",
+    "Match": "Reims-Grenoble Foot 38",
+    "Score": "2:4",
+    "Odds": "1.51|3.9|5.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "7",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.42",
+        "away": "0.86"
+      }
+    }
+  },
+  "03 Oct 2025_Le Mans-Troyes": {
+    "Date": "03 Oct 2025",
+    "Match": "Le Mans-Troyes",
+    "Score": "2:2",
+    "Odds": "3.1|3.25|2.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.62",
+        "away": "1.05"
+      }
+    }
+  },
+  "03 Oct 2025_Annecy-Laval": {
+    "Date": "03 Oct 2025",
+    "Match": "Annecy-Laval",
+    "Score": "0:0",
+    "Odds": "2.6|2.9|2.7",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Laval",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "4"
+      },
+      "corners": {
+        "home": "5",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "31",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.89",
+        "away": "0.51"
+      }
+    }
+  },
+  "18 Oct 2025_Montpellier-Nancy": {
+    "Date": "18 Oct 2025",
+    "Match": "Montpellier-Nancy",
+    "Score": "4:1",
+    "Odds": "2.05|3.34|3.41",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "9",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "2.25",
+        "away": "0.81"
+      }
+    }
+  },
+  "18 Oct 2025_Guingamp-Clermont": {
+    "Date": "18 Oct 2025",
+    "Match": "Guingamp-Clermont",
+    "Score": "0:1",
+    "Odds": "1.69|3.5|4.1",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "17",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.94",
+        "away": "0.48"
+      }
+    }
+  },
+  "18 Oct 2025_Pau-Dunkerque": {
+    "Date": "18 Oct 2025",
+    "Match": "Pau-Dunkerque",
+    "Score": "0:3",
+    "Odds": "2.19|3.16|2.88",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "0",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "8",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.18",
+        "away": "1.22"
+      }
+    }
+  },
+  "18 Oct 2025_Red Star-Grenoble Foot 38": {
+    "Date": "18 Oct 2025",
+    "Match": "Red Star-Grenoble Foot 38",
+    "Score": "1:0",
+    "Odds": "1.79|3.29|3.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.55",
+        "away": "1.35"
+      }
+    }
+  },
+  "18 Oct 2025_Reims-Troyes": {
+    "Date": "18 Oct 2025",
+    "Match": "Reims-Troyes",
+    "Score": "0:0",
+    "Odds": "1.95|3.33|3.27",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.26",
+        "away": "1.67"
+      }
+    }
+  },
+  "18 Oct 2025_Le Mans-Boulogne": {
+    "Date": "18 Oct 2025",
+    "Match": "Le Mans-Boulogne",
+    "Score": "1:0",
+    "Odds": "1.85|3.25|3.69",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "67%",
+        "away": "33%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.87",
+        "away": "0.59"
+      }
+    }
+  },
+  "18 Oct 2025_Nancy-Amiens SC": {
+    "Date": "18 Oct 2025",
+    "Match": "Nancy-Amiens SC",
+    "Score": "0:1",
+    "Odds": "1.7|3.6|4.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "24",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "21",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.12",
+        "away": "0.62"
+      }
+    }
+  },
+  "18 Oct 2025_Saint-Étienne-Le Mans": {
+    "Date": "18 Oct 2025",
+    "Match": "Saint-Étienne-Le Mans",
+    "Score": "2:3",
+    "Odds": "1.53|4.15|4.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "72%",
+        "away": "28%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "24"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "1.55"
+      }
+    }
+  },
+  "18 Oct 2025_Dunkerque-Montpellier": {
+    "Date": "18 Oct 2025",
+    "Match": "Dunkerque-Montpellier",
+    "Score": "0:1",
+    "Odds": "2.2|3.2|3.1",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.12",
+        "away": "0.93"
+      }
+    }
+  },
+  "18 Oct 2025_Laval-Red Star": {
+    "Date": "18 Oct 2025",
+    "Match": "Laval-Red Star",
+    "Score": "0:1",
+    "Odds": "2.6|2.9|2.77",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "22",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.23",
+        "away": "1.41"
+      }
+    }
+  },
+  "25 Oct 2025_Laval-Le Mans": {
+    "Date": "25 Oct 2025",
+    "Match": "Laval-Le Mans",
+    "Score": "1:1",
+    "Odds": "2.94|3.1|2.38",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.29",
+        "away": "0.88"
+      }
+    }
+  },
+  "25 Oct 2025_Troyes-Amiens SC": {
+    "Date": "25 Oct 2025",
+    "Match": "Troyes-Amiens SC",
+    "Score": "3:1",
+    "Odds": "1.35|4.2|6.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "55%",
+        "away": "45%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "4"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.77",
+        "away": "0.55"
+      }
+    }
+  },
+  "25 Oct 2025_Dunkerque-Red Star": {
+    "Date": "25 Oct 2025",
+    "Match": "Dunkerque-Red Star",
+    "Score": "3:0",
+    "Odds": "2.45|3.27|2.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "43%",
+        "away": "57%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "0.88"
+      }
+    }
+  },
+  "25 Oct 2025_Grenoble Foot 38-Guingamp": {
+    "Date": "25 Oct 2025",
+    "Match": "Grenoble Foot 38-Guingamp",
+    "Score": "0:0",
+    "Odds": "2.9|3.3|2.41",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.57",
+        "away": "0.78"
+      }
+    }
+  },
+  "25 Oct 2025_Rodez-Annecy": {
+    "Date": "25 Oct 2025",
+    "Match": "Rodez-Annecy",
+    "Score": "2:1",
+    "Odds": "2.15|3.1|3.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "1",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.71",
+        "away": "1.07"
+      }
+    }
+  },
+  "25 Oct 2025_Clermont-Montpellier": {
+    "Date": "25 Oct 2025",
+    "Match": "Clermont-Montpellier",
+    "Score": "1:1",
+    "Odds": "3.49|3.35|2.25",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "12"
+      },
+      "cards": {
+        "home": "0",
+        "away": "4"
+      },
+      "corners": {
+        "home": "4",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.52",
+        "away": "1.62"
+      }
+    }
+  },
+  "25 Oct 2025_Saint-Étienne-Pau": {
+    "Date": "25 Oct 2025",
+    "Match": "Saint-Étienne-Pau",
+    "Score": "6:0",
+    "Odds": "1.68|3.92|4.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Pau",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "1.31"
+      }
+    }
+  },
+  "25 Oct 2025_Boulogne-Reims": {
+    "Date": "25 Oct 2025",
+    "Match": "Boulogne-Reims",
+    "Score": "2:6",
+    "Odds": "3.71|3.2|1.99",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Reims",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "1",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.19",
+        "away": "1.79"
+      }
+    }
+  },
+  "25 Oct 2025_Annecy-Saint-Étienne": {
+    "Date": "25 Oct 2025",
+    "Match": "Annecy-Saint-Étienne",
+    "Score": "4:0",
+    "Odds": "4.2|3.47|1.68",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "6"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "0.71"
+      }
+    }
+  },
+  "25 Oct 2025_Amiens SC-Rodez": {
+    "Date": "25 Oct 2025",
+    "Match": "Amiens SC-Rodez",
+    "Score": "2:1",
+    "Odds": "2.8|3.54|2.26",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.14",
+        "away": "1.83"
+      }
+    }
+  },
+  "28 Oct 2025_Pau-Troyes": {
+    "Date": "28 Oct 2025",
+    "Match": "Pau-Troyes",
+    "Score": "1:1",
+    "Odds": "2.95|3.35|2.35",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "9",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "5"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "2.01",
+        "away": "1.11"
+      }
+    }
+  },
+  "28 Oct 2025_Red Star-Saint-Étienne": {
+    "Date": "28 Oct 2025",
+    "Match": "Red Star-Saint-Étienne",
+    "Score": "2:1",
+    "Odds": "2.65|3.38|2.24",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "1"
+      },
+      "corners": {
+        "home": "0",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.01",
+        "away": "1.66"
+      }
+    }
+  },
+  "28 Oct 2025_Amiens SC-Grenoble Foot 38": {
+    "Date": "28 Oct 2025",
+    "Match": "Amiens SC-Grenoble Foot 38",
+    "Score": "2:3",
+    "Odds": "3.04|3.25|2.48",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "18"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "9"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "27"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.76",
+        "away": "2.05"
+      }
+    }
+  },
+  "28 Oct 2025_Reims-Dunkerque": {
+    "Date": "28 Oct 2025",
+    "Match": "Reims-Dunkerque",
+    "Score": "1:2",
+    "Odds": "2.09|3.2|3.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "1"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.28",
+        "away": "0.76"
+      }
+    }
+  },
+  "28 Oct 2025_Montpellier-Rodez": {
+    "Date": "28 Oct 2025",
+    "Match": "Montpellier-Rodez",
+    "Score": "2:0",
+    "Odds": "1.88|3.38|3.41",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "71%",
+        "away": "29%"
+      },
+      "shots": {
+        "home": "26",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "21",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.39",
+        "away": "1.05"
+      }
+    }
+  },
+  "28 Oct 2025_Bastia-Clermont": {
+    "Date": "28 Oct 2025",
+    "Match": "Bastia-Clermont",
+    "Score": "1:0",
+    "Odds": "1.69|3.38|4.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "8"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.41",
+        "away": "0.85"
+      }
+    }
+  },
+  "28 Oct 2025_Guingamp-Laval": {
+    "Date": "28 Oct 2025",
+    "Match": "Guingamp-Laval",
+    "Score": "2:0",
+    "Odds": "1.99|3.18|3.3",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Laval",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "21"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "1.30"
+      }
+    }
+  },
+  "28 Oct 2025_Le Mans-Nancy": {
+    "Date": "28 Oct 2025",
+    "Match": "Le Mans-Nancy",
+    "Score": "1:0",
+    "Odds": "2.08|3.02|3.25",
+    "Result": "Home"
+  },
+  "28 Oct 2025_Annecy-Boulogne": {
+    "Date": "28 Oct 2025",
+    "Match": "Annecy-Boulogne",
+    "Score": "1:1",
+    "Odds": "1.99|3.04|3.47",
+    "Result": "Draw"
+  },
+  "28 Oct 2025_Nancy-Bastia": {
+    "Date": "28 Oct 2025",
+    "Match": "Nancy-Bastia",
+    "Score": "2:0",
+    "Odds": "2.38|2.85|2.95",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.23",
+        "away": "0.76"
+      }
+    }
+  },
+  "07 Nov 2025_Boulogne-Grenoble Foot 38": {
+    "Date": "07 Nov 2025",
+    "Match": "Boulogne-Grenoble Foot 38",
+    "Score": "3:1",
+    "Odds": "2.38|2.9|2.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "51%",
+        "away": "49%"
+      },
+      "shots": {
+        "home": "22",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "6"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.45",
+        "away": "1.82"
+      }
+    }
+  },
+  "07 Nov 2025_Troyes-Saint-Étienne": {
+    "Date": "07 Nov 2025",
+    "Match": "Troyes-Saint-Étienne",
+    "Score": "2:3",
+    "Odds": "2.33|3.55|2.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "21",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "2"
+      },
+      "cards": {
+        "home": "4",
+        "away": "1"
+      },
+      "corners": {
+        "home": "6",
+        "away": "0"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.35",
+        "away": "0.95"
+      }
+    }
+  },
+  "07 Nov 2025_Guingamp-Pau": {
+    "Date": "07 Nov 2025",
+    "Match": "Guingamp-Pau",
+    "Score": "2:2",
+    "Odds": "2.03|3.34|3.06",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Pau",
+      "possession": {
+        "home": "52%",
+        "away": "48%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.03",
+        "away": "1.21"
+      }
+    }
+  },
+  "07 Nov 2025_Le Mans-Red Star": {
+    "Date": "07 Nov 2025",
+    "Match": "Le Mans-Red Star",
+    "Score": "0:0",
+    "Odds": "2.2|2.95|3.06",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "0"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "0.86"
+      }
+    }
+  },
+  "07 Nov 2025_Montpellier-Annecy": {
+    "Date": "07 Nov 2025",
+    "Match": "Montpellier-Annecy",
+    "Score": "1:0",
+    "Odds": "1.72|3.3|4.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "48%",
+        "away": "52%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "11",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "22"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.44",
+        "away": "1.13"
+      }
+    }
+  },
+  "07 Nov 2025_Nancy-Laval": {
+    "Date": "07 Nov 2025",
+    "Match": "Nancy-Laval",
+    "Score": "0:2",
+    "Odds": "2.1|3.19|3.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Laval",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "3"
+      },
+      "corners": {
+        "home": "10",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.48",
+        "away": "0.96"
+      }
+    }
+  },
+  "07 Nov 2025_Clermont-Amiens SC": {
+    "Date": "07 Nov 2025",
+    "Match": "Clermont-Amiens SC",
+    "Score": "2:1",
+    "Odds": "1.9|3.25|3.93",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "5"
+      },
+      "cards": {
+        "home": "2",
+        "away": "6"
+      },
+      "corners": {
+        "home": "11",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.82",
+        "away": "1.02"
+      }
+    }
+  },
+  "07 Nov 2025_Grenoble Foot 38-Rodez": {
+    "Date": "07 Nov 2025",
+    "Match": "Grenoble Foot 38-Rodez",
+    "Score": "2:1",
+    "Odds": "2.36|3.1|2.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "10"
+      },
+      "cards": {
+        "home": "5",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.60",
+        "away": "1.65"
+      }
+    }
+  },
+  "07 Nov 2025_Bastia-Reims": {
+    "Date": "07 Nov 2025",
+    "Match": "Bastia-Reims",
+    "Score": "1:3",
+    "Odds": "3.15|2.9|2.44",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Reims",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "15",
+        "away": "4"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.53",
+        "away": "1.22"
+      }
+    }
+  },
+  "07 Nov 2025_Dunkerque-Boulogne": {
+    "Date": "07 Nov 2025",
+    "Match": "Dunkerque-Boulogne",
+    "Score": "1:1",
+    "Odds": "1.6|3.75|5.67",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "7"
+      },
+      "cards": {
+        "home": "5",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "23"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.29",
+        "away": "1.18"
+      }
+    }
+  },
+  "21 Nov 2025_Clermont-Boulogne": {
+    "Date": "21 Nov 2025",
+    "Match": "Clermont-Boulogne",
+    "Score": "1:1",
+    "Odds": "2.35|3.25|2.9",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "65%",
+        "away": "35%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "3",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "12"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.25",
+        "away": "1.78"
+      }
+    }
+  },
+  "21 Nov 2025_Bastia-Laval": {
+    "Date": "21 Nov 2025",
+    "Match": "Bastia-Laval",
+    "Score": "0:2",
+    "Odds": "2.27|2.85|3.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Laval",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "7"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "23"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.94",
+        "away": "1.51"
+      }
+    }
+  },
+  "21 Nov 2025_Reims-Montpellier": {
+    "Date": "21 Nov 2025",
+    "Match": "Reims-Montpellier",
+    "Score": "2:0",
+    "Odds": "2.15|3.1|3.45",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "12"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "N/A",
+        "away": "N/A"
+      },
+      "xg": {
+        "home": "1.60",
+        "away": "1.43"
+      }
+    }
+  },
+  "21 Nov 2025_Saint-Étienne-Nancy": {
+    "Date": "21 Nov 2025",
+    "Match": "Saint-Étienne-Nancy",
+    "Score": "2:1",
+    "Odds": "1.6|4.1|4.75",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "9",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "4",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "11",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.09",
+        "away": "1.09"
+      }
+    }
+  },
+  "21 Nov 2025_Amiens SC-Guingamp": {
+    "Date": "21 Nov 2025",
+    "Match": "Amiens SC-Guingamp",
+    "Score": "1:2",
+    "Odds": "3.45|3.4|2.06",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "14"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "8",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.31",
+        "away": "1.51"
+      }
+    }
+  },
+  "21 Nov 2025_Red Star-Clermont": {
+    "Date": "21 Nov 2025",
+    "Match": "Red Star-Clermont",
+    "Score": "2:2",
+    "Odds": "1.6|3.55|4.6",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "4"
+      },
+      "cards": {
+        "home": "3",
+        "away": "2"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "18",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.42",
+        "away": "0.79"
+      }
+    }
+  },
+  "21 Nov 2025_Annecy-Bastia": {
+    "Date": "21 Nov 2025",
+    "Match": "Annecy-Bastia",
+    "Score": "1:0",
+    "Odds": "2.14|2.73|3.35",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "16",
+        "away": "0"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "9",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "5"
+      },
+      "xg": {
+        "home": "2.16",
+        "away": "0.77"
+      }
+    }
+  },
+  "21 Nov 2025_Pau-Le Mans": {
+    "Date": "21 Nov 2025",
+    "Match": "Pau-Le Mans",
+    "Score": "1:2",
+    "Odds": "2.3|3.0|2.4",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "61%",
+        "away": "39%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.35",
+        "away": "0.72"
+      }
+    }
+  },
+  "21 Nov 2025_Laval-Troyes": {
+    "Date": "21 Nov 2025",
+    "Match": "Laval-Troyes",
+    "Score": "0:1",
+    "Odds": "3.2|3.04|2.22",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "46%",
+        "away": "54%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "10"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "3",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.50",
+        "away": "1.96"
+      }
+    }
+  },
+  "21 Nov 2025_Rodez-Dunkerque": {
+    "Date": "21 Nov 2025",
+    "Match": "Rodez-Dunkerque",
+    "Score": "1:1",
+    "Odds": "2.7|3.2|2.65",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "36%",
+        "away": "64%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "3"
+      },
+      "cards": {
+        "home": "2",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.34",
+        "away": "0.84"
+      }
+    }
+  },
+  "05 Dec 2025_Annecy-Le Mans": {
+    "Date": "05 Dec 2025",
+    "Match": "Annecy-Le Mans",
+    "Score": "1:2",
+    "Odds": "2.6|2.95|2.6",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "58%",
+        "away": "42%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "5",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "22",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "1.02",
+        "away": "0.85"
+      }
+    }
+  },
+  "05 Dec 2025_Nancy-Clermont": {
+    "Date": "05 Dec 2025",
+    "Match": "Nancy-Clermont",
+    "Score": "1:0",
+    "Odds": "1.95|3.5|3.7",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Nancy",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "20",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "14",
+        "away": "13"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.95",
+        "away": "1.55"
+      }
+    }
+  },
+  "05 Dec 2025_Reims-Laval": {
+    "Date": "05 Dec 2025",
+    "Match": "Reims-Laval",
+    "Score": "4:0",
+    "Odds": "1.65|3.6|5.57",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Laval",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "3"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "9"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.39",
+        "away": "0.37"
+      }
+    }
+  },
+  "05 Dec 2025_Dunkerque-Saint-Étienne": {
+    "Date": "05 Dec 2025",
+    "Match": "Dunkerque-Saint-Étienne",
+    "Score": "1:0",
+    "Odds": "2.57|3.5|2.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "8",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.80",
+        "away": "1.51"
+      }
+    }
+  },
+  "05 Dec 2025_Troyes-Rodez": {
+    "Date": "05 Dec 2025",
+    "Match": "Troyes-Rodez",
+    "Score": "1:1",
+    "Odds": "1.58|4.0|4.8",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "69%",
+        "away": "31%"
+      },
+      "shots": {
+        "home": "19",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "13",
+        "away": "8"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "2.10",
+        "away": "0.91"
+      }
+    }
+  },
+  "05 Dec 2025_Montpellier-Pau": {
+    "Date": "05 Dec 2025",
+    "Match": "Montpellier-Pau",
+    "Score": "0:1",
+    "Odds": "1.85|3.55|3.9",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Pau",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "13",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "22",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.45",
+        "away": "0.84"
+      }
+    }
+  },
+  "05 Dec 2025_Guingamp-Annecy": {
+    "Date": "05 Dec 2025",
+    "Match": "Guingamp-Annecy",
+    "Score": "0:3",
+    "Odds": "1.98|3.26|3.75",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "63%",
+        "away": "37%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "10"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "10",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "4",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.20",
+        "away": "1.72"
+      }
+    }
+  },
+  "05 Dec 2025_Le Mans-Amiens SC": {
+    "Date": "05 Dec 2025",
+    "Match": "Le Mans-Amiens SC",
+    "Score": "1:0",
+    "Odds": "1.41|4.0|8.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "62%",
+        "away": "38%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "3"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "2"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "23",
+        "away": "4"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.52",
+        "away": "0.52"
+      }
+    }
+  },
+  "05 Dec 2025_Grenoble Foot 38-Nancy": {
+    "Date": "05 Dec 2025",
+    "Match": "Grenoble Foot 38-Nancy",
+    "Score": "1:0",
+    "Odds": "2.9|3.0|2.87",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "56%",
+        "away": "44%"
+      },
+      "shots": {
+        "home": "15",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "9"
+      },
+      "cards": {
+        "home": "3",
+        "away": "3"
+      },
+      "corners": {
+        "home": "7",
+        "away": "1"
+      },
+      "fouls": {
+        "home": "19",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "5",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.69",
+        "away": "0.80"
+      }
+    }
+  },
+  "12 Dec 2025_Clermont-Laval": {
+    "Date": "12 Dec 2025",
+    "Match": "Clermont-Laval",
+    "Score": "4:1",
+    "Odds": "2.69|2.9|2.57",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Clermont",
+      "away_team": "Laval",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "13",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "7",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "7"
+      },
+      "cards": {
+        "home": "0",
+        "away": "2"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.62",
+        "away": "0.67"
+      }
+    }
+  },
+  "12 Dec 2025_Guingamp-Boulogne": {
+    "Date": "12 Dec 2025",
+    "Match": "Guingamp-Boulogne",
+    "Score": "3:0",
+    "Odds": "1.88|3.3|4.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Guingamp",
+      "away_team": "Boulogne",
+      "possession": {
+        "home": "64%",
+        "away": "36%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "8",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "10",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "11",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.94",
+        "away": "0.84"
+      }
+    }
+  },
+  "12 Dec 2025_Troyes-Red Star": {
+    "Date": "12 Dec 2025",
+    "Match": "Troyes-Red Star",
+    "Score": "1:0",
+    "Odds": "1.85|3.2|4.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "18",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "0"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "13"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.92",
+        "away": "0.98"
+      }
+    }
+  },
+  "12 Dec 2025_Boulogne-Troyes": {
+    "Date": "12 Dec 2025",
+    "Match": "Boulogne-Troyes",
+    "Score": "1:2",
+    "Odds": "3.75|3.15|1.99",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Troyes",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "8",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "4"
+      },
+      "corners": {
+        "home": "7",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "7"
+      },
+      "xg": {
+        "home": "0.94",
+        "away": "1.15"
+      }
+    }
+  },
+  "12 Dec 2025_Saint-Étienne-Bastia": {
+    "Date": "12 Dec 2025",
+    "Match": "Saint-Étienne-Bastia",
+    "Score": "2:2",
+    "Odds": "1.61|4.1|5.0",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "77%",
+        "away": "23%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "10",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "4"
+      },
+      "cards": {
+        "home": "2",
+        "away": "5"
+      },
+      "corners": {
+        "home": "5",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.12",
+        "away": "0.66"
+      }
+    }
+  },
+  "12 Dec 2025_Grenoble Foot 38-Montpellier": {
+    "Date": "12 Dec 2025",
+    "Match": "Grenoble Foot 38-Montpellier",
+    "Score": "1:1",
+    "Odds": "3.05|3.1|1.97",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "44%",
+        "away": "56%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "6"
+      },
+      "cards": {
+        "home": "0",
+        "away": "1"
+      },
+      "corners": {
+        "home": "7",
+        "away": "5"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "13"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.59",
+        "away": "1.40"
+      }
+    }
+  },
+  "12 Dec 2025_Red Star-Reims": {
+    "Date": "12 Dec 2025",
+    "Match": "Red Star-Reims",
+    "Score": "0:0",
+    "Odds": "3.2|3.3|2.2",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Red Star",
+      "away_team": "Reims",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "13"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "9"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "7",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "3"
+      },
+      "xg": {
+        "home": "0.78",
+        "away": "1.50"
+      }
+    }
+  },
+  "12 Dec 2025_Pau-Amiens SC": {
+    "Date": "12 Dec 2025",
+    "Match": "Pau-Amiens SC",
+    "Score": "1:2",
+    "Odds": "1.53|4.2|5.0",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "60%",
+        "away": "40%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "8"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "12",
+        "away": "2"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "8",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "24",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.74",
+        "away": "1.21"
+      }
+    }
+  },
+  "12 Dec 2025_Laval-Dunkerque": {
+    "Date": "12 Dec 2025",
+    "Match": "Laval-Dunkerque",
+    "Score": "1:2",
+    "Odds": "3.0|2.99|2.25",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "35%",
+        "away": "65%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "9"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "2",
+        "away": "7"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.83",
+        "away": "1.40"
+      }
+    }
+  },
+  "12 Dec 2025_Rodez-Guingamp": {
+    "Date": "12 Dec 2025",
+    "Match": "Rodez-Guingamp",
+    "Score": "2:1",
+    "Odds": "2.3|3.4|2.9",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Guingamp",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "16",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "11"
+      },
+      "cards": {
+        "home": "4",
+        "away": "4"
+      },
+      "corners": {
+        "home": "6",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "23",
+        "away": "8"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.64",
+        "away": "1.36"
+      }
+    }
+  },
+  "03 Jan 2026_Laval-Bastia": {
+    "Date": "03 Jan 2026",
+    "Match": "Laval-Bastia",
+    "Score": "0:2",
+    "Odds": "2.37|2.74|3.14",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Laval",
+      "away_team": "Bastia",
+      "possession": {
+        "home": "41%",
+        "away": "59%"
+      },
+      "shots": {
+        "home": "4",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "2",
+        "away": "6"
+      },
+      "cards": {
+        "home": "6",
+        "away": "3"
+      },
+      "corners": {
+        "home": "6",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "17",
+        "away": "18"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.62",
+        "away": "1.26"
+      }
+    }
+  },
+  "03 Jan 2026_Dunkerque-Pau": {
+    "Date": "03 Jan 2026",
+    "Match": "Dunkerque-Pau",
+    "Score": "3:1",
+    "Odds": "1.75|3.4|4.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Dunkerque",
+      "away_team": "Pau",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "12"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "0",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "5"
+      },
+      "xg": {
+        "home": "0.84",
+        "away": "1.57"
+      }
+    }
+  },
+  "03 Jan 2026_Annecy-Amiens SC": {
+    "Date": "03 Jan 2026",
+    "Match": "Annecy-Amiens SC",
+    "Score": "2:0",
+    "Odds": "1.73|3.4|4.25",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Annecy",
+      "away_team": "Amiens SC",
+      "possession": {
+        "home": "50%",
+        "away": "50%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "2",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "8",
+        "away": "6"
+      },
+      "cards": {
+        "home": "2",
+        "away": "2"
+      },
+      "corners": {
+        "home": "5",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "22",
+        "away": "11"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.11",
+        "away": "1.21"
+      }
+    }
+  },
+  "03 Jan 2026_Boulogne-Montpellier": {
+    "Date": "03 Jan 2026",
+    "Match": "Boulogne-Montpellier",
+    "Score": "1:0",
+    "Odds": "2.95|3.2|2.35",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Boulogne",
+      "away_team": "Montpellier",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "7"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "2"
+      },
+      "shots_off_target": {
+        "home": "5",
+        "away": "5"
+      },
+      "cards": {
+        "home": "3",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "2"
+      },
+      "fouls": {
+        "home": "9",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "7"
+      },
+      "xg": {
+        "home": "0.72",
+        "away": "0.82"
+      }
+    }
+  },
+  "03 Jan 2026_Montpellier-Dunkerque": {
+    "Date": "03 Jan 2026",
+    "Match": "Montpellier-Dunkerque",
+    "Score": "1:3",
+    "Odds": "2.5|2.96|2.8",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Montpellier",
+      "away_team": "Dunkerque",
+      "possession": {
+        "home": "49%",
+        "away": "51%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "16"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "11"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "6"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "3",
+        "away": "1"
+      },
+      "xg": {
+        "home": "1.15",
+        "away": "2.07"
+      }
+    }
+  },
+  "03 Jan 2026_Reims-Annecy": {
+    "Date": "03 Jan 2026",
+    "Match": "Reims-Annecy",
+    "Score": "2:1",
+    "Odds": "1.64|3.5|4.5",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Reims",
+      "away_team": "Annecy",
+      "possession": {
+        "home": "47%",
+        "away": "53%"
+      },
+      "shots": {
+        "home": "7",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "1"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "9"
+      },
+      "cards": {
+        "home": "2",
+        "away": "3"
+      },
+      "corners": {
+        "home": "2",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "15",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "6",
+        "away": "2"
+      },
+      "xg": {
+        "home": "0.91",
+        "away": "1.07"
+      }
+    }
+  },
+  "03 Jan 2026_Amiens SC-Nancy": {
+    "Date": "03 Jan 2026",
+    "Match": "Amiens SC-Nancy",
+    "Score": "1:2",
+    "Odds": "3.3|3.1|2.06",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Amiens SC",
+      "away_team": "Nancy",
+      "possession": {
+        "home": "66%",
+        "away": "34%"
+      },
+      "shots": {
+        "home": "14",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "5",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "4"
+      },
+      "cards": {
+        "home": "0",
+        "away": "3"
+      },
+      "corners": {
+        "home": "9",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "14",
+        "away": "20"
+      },
+      "offsides": {
+        "home": "4",
+        "away": "0"
+      },
+      "xg": {
+        "home": "1.68",
+        "away": "1.30"
+      }
+    }
+  },
+  "03 Jan 2026_Le Mans-Saint-Étienne": {
+    "Date": "03 Jan 2026",
+    "Match": "Le Mans-Saint-Étienne",
+    "Score": "0:0",
+    "Odds": "2.79|3.4|2.5",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Le Mans",
+      "away_team": "Saint-Étienne",
+      "possession": {
+        "home": "39%",
+        "away": "61%"
+      },
+      "shots": {
+        "home": "10",
+        "away": "14"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "6",
+        "away": "10"
+      },
+      "cards": {
+        "home": "2",
+        "away": "1"
+      },
+      "corners": {
+        "home": "5",
+        "away": "10"
+      },
+      "fouls": {
+        "home": "16",
+        "away": "7"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.37",
+        "away": "1.50"
+      }
+    }
+  },
+  "03 Jan 2026_Pau-Rodez": {
+    "Date": "03 Jan 2026",
+    "Match": "Pau-Rodez",
+    "Score": "3:3",
+    "Odds": "2.05|3.6|3.15",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Pau",
+      "away_team": "Rodez",
+      "possession": {
+        "home": "54%",
+        "away": "46%"
+      },
+      "shots": {
+        "home": "23",
+        "away": "5"
+      },
+      "shots_on_target": {
+        "home": "12",
+        "away": "3"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "2"
+      },
+      "cards": {
+        "home": "2",
+        "away": "4"
+      },
+      "corners": {
+        "home": "9",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "10",
+        "away": "10"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "1"
+      },
+      "xg": {
+        "home": "2.75",
+        "away": "0.88"
+      }
+    }
+  },
+  "03 Jan 2026_Bastia-Grenoble Foot 38": {
+    "Date": "03 Jan 2026",
+    "Match": "Bastia-Grenoble Foot 38",
+    "Score": "1:0",
+    "Odds": "2.15|3.08|3.1",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Bastia",
+      "away_team": "Grenoble Foot 38",
+      "possession": {
+        "home": "42%",
+        "away": "58%"
+      },
+      "shots": {
+        "home": "11",
+        "away": "17"
+      },
+      "shots_on_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "shots_off_target": {
+        "home": "7",
+        "away": "11"
+      },
+      "cards": {
+        "home": "4",
+        "away": "3"
+      },
+      "corners": {
+        "home": "1",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "22",
+        "away": "15"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "6"
+      },
+      "xg": {
+        "home": "1.13",
+        "away": "1.85"
+      }
+    }
+  },
+  "16 Jan 2026_Saint-Étienne-Clermont": {
+    "Date": "16 Jan 2026",
+    "Match": "Saint-Étienne-Clermont",
+    "Score": "1:0",
+    "Odds": "1.41|4.1|6.0",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Saint-Étienne",
+      "away_team": "Clermont",
+      "possession": {
+        "home": "57%",
+        "away": "43%"
+      },
+      "shots": {
+        "home": "17",
+        "away": "11"
+      },
+      "shots_on_target": {
+        "home": "6",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "11",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "0"
+      },
+      "corners": {
+        "home": "6",
+        "away": "4"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "14"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "3"
+      },
+      "xg": {
+        "home": "1.82",
+        "away": "1.24"
+      }
+    }
+  },
+  "16 Jan 2026_Troyes-Reims": {
+    "Date": "16 Jan 2026",
+    "Match": "Troyes-Reims",
+    "Score": "2:1",
+    "Odds": "2.25|3.05|2.92",
+    "Result": "Home",
+    "h2h_stats": {
+      "home_team": "Troyes",
+      "away_team": "Reims",
+      "possession": {
+        "home": "38%",
+        "away": "62%"
+      },
+      "shots": {
+        "home": "12",
+        "away": "15"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "9",
+        "away": "11"
+      },
+      "cards": {
+        "home": "4",
+        "away": "2"
+      },
+      "corners": {
+        "home": "3",
+        "away": "9"
+      },
+      "fouls": {
+        "home": "12",
+        "away": "19"
+      },
+      "offsides": {
+        "home": "1",
+        "away": "2"
+      },
+      "xg": {
+        "home": "1.35",
+        "away": "1.71"
+      }
+    }
+  },
+  "16 Jan 2026_Grenoble Foot 38-Red Star": {
+    "Date": "16 Jan 2026",
+    "Match": "Grenoble Foot 38-Red Star",
+    "Score": "0:3",
+    "Odds": "2.5|3.1|2.5",
+    "Result": "Away",
+    "h2h_stats": {
+      "home_team": "Grenoble Foot 38",
+      "away_team": "Red Star",
+      "possession": {
+        "home": "40%",
+        "away": "60%"
+      },
+      "shots": {
+        "home": "6",
+        "away": "6"
+      },
+      "shots_on_target": {
+        "home": "3",
+        "away": "5"
+      },
+      "shots_off_target": {
+        "home": "3",
+        "away": "1"
+      },
+      "cards": {
+        "home": "4",
+        "away": "0"
+      },
+      "corners": {
+        "home": "2",
+        "away": "3"
+      },
+      "fouls": {
+        "home": "20",
+        "away": "16"
+      },
+      "offsides": {
+        "home": "2",
+        "away": "4"
+      },
+      "xg": {
+        "home": "0.86",
+        "away": "0.91"
+      }
+    }
+  },
+  "16 Jan 2026_Rodez-Le Mans": {
+    "Date": "16 Jan 2026",
+    "Match": "Rodez-Le Mans",
+    "Score": "1:1",
+    "Odds": "2.87|3.05|2.36",
+    "Result": "Draw",
+    "h2h_stats": {
+      "home_team": "Rodez",
+      "away_team": "Le Mans",
+      "possession": {
+        "home": "45%",
+        "away": "55%"
+      },
+      "shots": {
+        "home": "5",
+        "away": "10"
+      },
+      "shots_on_target": {
+        "home": "1",
+        "away": "4"
+      },
+      "shots_off_target": {
+        "home": "4",
+        "away": "6"
+      },
+      "cards": {
+        "home": "1",
+        "away": "2"
+      },
+      "corners": {
+        "home": "4",
+        "away": "8"
+      },
+      "fouls": {
+        "home": "13",
+        "away": "17"
+      },
+      "offsides": {
+        "home": "0",
+        "away": "1"
+      },
+      "xg": {
+        "home": "0.73",
+        "away": "1.30"
+      }
+    }
+  }
+}

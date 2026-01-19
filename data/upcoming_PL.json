@@ -1,0 +1,119 @@
+[
+  {
+    "home": "Brighton & Hove Albion",
+    "away": "AFC Bournemouth",
+    "odds": {
+      "home": 1.76,
+      "draw": 3.75,
+      "away": 3.4
+    }
+  },
+  {
+    "home": "Aston Villa",
+    "away": "Everton",
+    "odds": {
+      "home": 1.64,
+      "draw": 3.96,
+      "away": 5.74
+    }
+  },
+  {
+    "home": "Wolverhampton Wanderers",
+    "away": "Newcastle United",
+    "odds": {
+      "home": 4.33,
+      "draw": 3.95,
+      "away": 1.77
+    }
+  },
+  {
+    "home": "Everton",
+    "away": "Leeds United",
+    "odds": {
+      "home": 2.3,
+      "draw": 3.15,
+      "away": 3.3
+    }
+  },
+  {
+    "home": "Arsenal",
+    "away": "Manchester United",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Brentford",
+    "away": "Nottingham Forest",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Crystal Palace",
+    "away": "Chelsea",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Newcastle United",
+    "away": "Aston Villa",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "AFC Bournemouth",
+    "away": "Liverpool",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Burnley",
+    "away": "Tottenham Hotspur",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Fulham",
+    "away": "Brighton & Hove Albion",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Manchester City",
+    "away": "Wolverhampton Wanderers",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "West Ham United",
+    "away": "Sunderland",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  }
+]

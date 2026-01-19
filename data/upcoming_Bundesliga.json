@@ -1,0 +1,173 @@
+[
+  {
+    "home": "Union Berlin",
+    "away": "Borussia Dortmund",
+    "odds": {
+      "home": 3.76,
+      "draw": 3.45,
+      "away": 1.94
+    }
+  },
+  {
+    "home": "Eintracht Frankfurt",
+    "away": "Hoffenheim",
+    "odds": {
+      "home": 2.47,
+      "draw": 3.7,
+      "away": 2.54
+    }
+  },
+  {
+    "home": "Heidenheim",
+    "away": "RB Leipzig",
+    "odds": {
+      "home": 4.6,
+      "draw": 4.1,
+      "away": 1.65
+    }
+  },
+  {
+    "home": "Bayern München",
+    "away": "Augsburg",
+    "odds": {
+      "home": 1.09,
+      "draw": 11.0,
+      "away": 17.0
+    }
+  },
+  {
+    "home": "Mainz 05",
+    "away": "Wolfsburg",
+    "odds": {
+      "home": 2.3,
+      "draw": 3.45,
+      "away": 2.91
+    }
+  },
+  {
+    "home": "Bayer Leverkusen",
+    "away": "Werder Bremen",
+    "odds": {
+      "home": 1.54,
+      "draw": 4.4,
+      "away": 5.2
+    }
+  },
+  {
+    "home": "St. Pauli",
+    "away": "Hamburger SV",
+    "odds": {
+      "home": 2.37,
+      "draw": 3.25,
+      "away": 2.94
+    }
+  },
+  {
+    "home": "Augsburg",
+    "away": "Freiburg",
+    "odds": {
+      "home": 2.7,
+      "draw": 3.3,
+      "away": 2.73
+    }
+  },
+  {
+    "home": "Stuttgart",
+    "away": "Union Berlin",
+    "odds": {
+      "home": 1.6,
+      "draw": 4.1,
+      "away": 5.57
+    }
+  },
+  {
+    "home": "Eintracht Frankfurt",
+    "away": "Bayer Leverkusen",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Augsburg",
+    "away": "St. Pauli",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Hoffenheim",
+    "away": "Union Berlin",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Werder Bremen",
+    "away": "Borussia M'gladbach",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "RB Leipzig",
+    "away": "Mainz 05",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Köln",
+    "away": "Wolfsburg",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "St. Pauli",
+    "away": "RB Leipzig",
+    "odds": {
+      "home": 3.92,
+      "draw": 3.66,
+      "away": 1.9
+    }
+  },
+  {
+    "home": "Werder Bremen",
+    "away": "Hoffenheim",
+    "odds": {
+      "home": 2.88,
+      "draw": 3.6,
+      "away": 2.3
+    }
+  },
+  {
+    "home": "Freiburg",
+    "away": "Köln",
+    "odds": {
+      "home": 1.83,
+      "draw": 3.75,
+      "away": 4.15
+    }
+  },
+  {
+    "home": "Borussia M'gladbach",
+    "away": "Stuttgart",
+    "odds": {
+      "home": 2.9,
+      "draw": 3.75,
+      "away": 2.25
+    }
+  }
+]
