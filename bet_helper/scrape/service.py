@@ -41,7 +41,7 @@ def _odds_str_from_match_dict(match_dict: dict) -> str:
     return f"{_norm(h)}|{_norm(d)}|{_norm(a)}"
 
 
-def update_historical_from_fixtures(league: str, fixtures: list[dict]) -> int:
+def update_historical_from_fixtures(league: str, fixtures: list[dict], include_h2h: bool = True) -> int:
     """
     Update historical_matches_{league}.json from scraped fixture groups.
     Only writes matches with results (scores present).
@@ -64,7 +64,7 @@ def update_historical_from_fixtures(league: str, fixtures: list[dict]) -> int:
     except Exception:
         last_saved_date = None
 
-    scraper = FootyStatsScraper(username=None, password=None)
+    scraper = FootyStatsScraper(username=None, password=None) if include_h2h else None
     added = 0
     try:
         for group in fixtures:
@@ -101,7 +101,7 @@ def update_historical_from_fixtures(league: str, fixtures: list[dict]) -> int:
                 # Scrape H2H stats if we have a URL
                 h2h_url = m.get("h2h_url")
                 h2h_stats = None
-                if h2h_url:
+                if include_h2h and scraper and h2h_url:
                     try:
                         h2h_stats = scraper.scrape_fixture_details(h2h_url)
                     except Exception:
@@ -127,7 +127,8 @@ def update_historical_from_fixtures(league: str, fixtures: list[dict]) -> int:
 
     finally:
         try:
-            scraper._close_driver()
+            if scraper:
+                scraper._close_driver()
         except Exception:
             pass
 
@@ -137,7 +138,7 @@ def update_historical_from_fixtures(league: str, fixtures: list[dict]) -> int:
     return added
 
 
-def scrape_league(league: str, update_upcoming: bool = True) -> ScrapeReport:
+def scrape_league(league: str, update_upcoming: bool = True, include_h2h: bool = True) -> ScrapeReport:
     """
     Scrape fixtures; if delta exists update historical file; optionally refresh upcoming fixtures cache.
     """
@@ -183,7 +184,7 @@ def scrape_league(league: str, update_upcoming: bool = True) -> ScrapeReport:
     updated_historical = False
     if has_delta:
         logging.info(f"[scrape] Delta detected for {league}: {new_matches_count} new matches. Updating historical file...")
-        added = update_historical_from_fixtures(league, fixtures)
+        added = update_historical_from_fixtures(league, fixtures, include_h2h=include_h2h)
         updated_historical = added > 0
         logging.info(f"[scrape] Historical update complete for {league}: added={added}")
     else:
@@ -209,4 +210,3 @@ def scrape_league(league: str, update_upcoming: bool = True) -> ScrapeReport:
         upcoming_path=str(upcoming_path(league)),
         timestamp=datetime.utcnow().isoformat() + "Z",
     )
-
