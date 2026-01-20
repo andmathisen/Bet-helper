@@ -1,0 +1,137 @@
+[
+  {
+    "home": "Elche CF",
+    "away": "Sevilla FC",
+    "odds": {
+      "home": 2.14,
+      "draw": 3.32,
+      "away": 3.15
+    }
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "FC Barcelona",
+    "odds": {
+      "home": 5.1,
+      "draw": 4.4,
+      "away": 1.61
+    }
+  },
+  {
+    "home": "Celta de Vigo",
+    "away": "Rayo Vallecano",
+    "odds": {
+      "home": 1.79,
+      "draw": 3.15,
+      "away": 3.9
+    }
+  },
+  {
+    "home": "Atlético Madrid",
+    "away": "Deportivo Alavés",
+    "odds": {
+      "home": 1.37,
+      "draw": 4.9,
+      "away": 8.6
+    }
+  },
+  {
+    "home": "Getafe CF",
+    "away": "Valencia CF",
+    "odds": {
+      "home": 2.7,
+      "draw": 2.81,
+      "away": 3.2
+    }
+  },
+  {
+    "home": "Girona FC",
+    "away": "Getafe CF",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Deportivo Alavés",
+    "away": "Real Betis",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Real Sociedad",
+    "away": "Celta de Vigo",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "FC Barcelona",
+    "away": "Real Oviedo",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Atlético Madrid",
+    "away": "RCD Mallorca",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Villarreal",
+    "away": "Real Madrid",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Sevilla FC",
+    "away": "Athletic Club Bilbao",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Valencia CF",
+    "away": "RCD Espanyol",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "CA Osasuna",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  },
+  {
+    "home": "Levante UD",
+    "away": "Elche CF",
+    "odds": {
+      "home": 0,
+      "draw": 0,
+      "away": 0
+    }
+  }
+]
