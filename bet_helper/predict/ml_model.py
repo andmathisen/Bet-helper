@@ -542,9 +542,11 @@ def train_ml_model(
             logging.info(f"  LabelEncoder class order verified: {list(label_encoder.classes_)}")
     
     # Train XGBoost model
+    # Using "shallow_fast" configuration from evaluation (best performer: 1.113 logloss vs 1.139 baseline)
+    # Shallower trees (max_depth=3) + slower learning rate (0.06) + more trees performs better
     logging.info(f"Training XGBoost model on {len(X)} samples with {len(feature_names)} features...")
-    logging.info(f"  Model parameters: n_estimators=100, max_depth=4, learning_rate=0.1")
-    logging.info(f"  Regularization: reg_alpha=1.0 (L1), reg_lambda=1.0 (L2), min_child_weight=3")
+    logging.info(f"  Model parameters: n_estimators=200, max_depth=3, learning_rate=0.06 (shallow_fast config)")
+    logging.info(f"  Regularization: reg_alpha=1.0 (L1), reg_lambda=1.0 (L2), min_child_weight=2")
     
     # Split data for validation
     from sklearn.model_selection import train_test_split
@@ -554,15 +556,15 @@ def train_ml_model(
     model = xgb.XGBClassifier(
         objective="multi:softprob",
         num_class=3,
-        n_estimators=100,
-        max_depth=4,  # Reduced from 6 to reduce overfitting
-        learning_rate=0.1,
-        subsample=0.8,
-        colsample_bytree=0.8,
+        n_estimators=200,  # Increased from 100 - shallow_fast uses 200
+        max_depth=3,  # Reduced from 4 to 3 (shallow_fast - best performer in evaluation)
+        learning_rate=0.06,  # Reduced from 0.1 to 0.06 (slower learning, better generalization)
+        subsample=0.9,  # Increased from 0.8 (shallow_fast uses 0.9)
+        colsample_bytree=0.9,  # Increased from 0.8 (shallow_fast uses 0.9)
         reg_alpha=1.0,  # L1 regularization - encourages feature sparsity
         reg_lambda=1.0,  # L2 regularization - reduces feature weights
-        min_child_weight=3,  # Minimum sum of instance weight needed in a child (higher = more conservative)
-        gamma=0.1,  # Minimum loss reduction required to make a split (higher = more conservative)
+        min_child_weight=2,  # Reduced from 3 to 2 (shallow_fast uses 2)
+        gamma=0.0,  # Reduced from 0.1 to 0.0 (shallow_fast uses 0.0 - no minimum split loss)
         random_state=42,
         eval_metric="mlogloss",
         early_stopping_rounds=10,  # Stop if validation loss doesn't improve for 10 rounds (XGBoost 2.0+ requires this in constructor)
@@ -613,14 +615,14 @@ def train_ml_model(
         objective="multi:softprob",
         num_class=3,
         n_estimators=best_iter,
-        max_depth=4,
-        learning_rate=0.1,
-        subsample=0.8,
-        colsample_bytree=0.8,
+        max_depth=3,  # Match shallow_fast configuration
+        learning_rate=0.06,  # Match shallow_fast configuration
+        subsample=0.9,  # Match shallow_fast configuration
+        colsample_bytree=0.9,  # Match shallow_fast configuration
         reg_alpha=1.0,
         reg_lambda=1.0,
-        min_child_weight=3,
-        gamma=0.1,
+        min_child_weight=2,  # Match shallow_fast configuration
+        gamma=0.0,  # Match shallow_fast configuration
         random_state=42,
         eval_metric="mlogloss",
         verbose=0,
@@ -737,29 +739,70 @@ def fit_ml_model(historical_data: dict, league: str, use_all_leagues: bool = Tru
         # Combine historical data from all leagues in a consistent order
         # Sort league codes to ensure consistent dictionary key ordering
         all_league_codes = sorted(LEAGUE_CODE_TO_PATH.keys())
-        combined_historical = {}
         
-        # Always combine in sorted order, regardless of which league called this function
-        for league_code in all_league_codes:
-            try:
-                if league_code == league:
-                    # Use the provided historical_data for current league
-                    for match_id, match_data in historical_data.items():
-                        combined_historical[f"{league_code}_{match_id}"] = match_data
-                else:
-                    # Load from file for other leagues
+        # Check if historical_data already contains all leagues (prefixed with league codes)
+        # If it does, use it directly instead of reloading from files
+        if historical_data and len(historical_data) > 0:
+            # Count how many league prefixes we have in the keys
+            prefixes_found = set()
+            for key in historical_data.keys():
+                if "_" in key:
+                    prefix = key.split("_", 1)[0]
+                    if prefix in all_league_codes:
+                        prefixes_found.add(prefix)
+            
+            # If we have data from multiple leagues, assume it already contains all leagues
+            if len(prefixes_found) > 1:
+                logging.debug(f"Using provided historical_data with {len(prefixes_found)} leagues ({len(historical_data)} matches)")
+                training_data = historical_data
+                cache_league_key = "all_leagues"
+            else:
+                # Only one league in provided data, need to load others
+                combined_historical = {}
+                
+                # Use provided data for current league (with or without prefix)
+                for match_id, match_data in historical_data.items():
+                    if match_id.startswith(f"{league}_"):
+                        # Already prefixed
+                        combined_historical[match_id] = match_data
+                    else:
+                        # Not prefixed, add prefix
+                        combined_historical[f"{league}_{match_id}"] = match_data
+                
+                # Load from file for other leagues
+                for league_code in all_league_codes:
+                    if league_code == league:
+                        continue  # Already added above
+                    
+                    try:
+                        hist_path = historical_path(league_code)
+                        other_hist = load_json(hist_path, default={}) or {}
+                        if isinstance(other_hist, dict):
+                            for match_id, match_data in other_hist.items():
+                                combined_historical[f"{league_code}_{match_id}"] = match_data
+                    except Exception as e:
+                        logging.debug(f"Could not load historical data for {league_code}: {e}")
+                        continue
+                
+                training_data = combined_historical
+                cache_league_key = "all_leagues"
+        else:
+            # No historical_data provided, load from files
+            combined_historical = {}
+            
+            for league_code in all_league_codes:
+                try:
                     hist_path = historical_path(league_code)
                     other_hist = load_json(hist_path, default={}) or {}
                     if isinstance(other_hist, dict):
-                        # Prefix match IDs with league code to avoid collisions
                         for match_id, match_data in other_hist.items():
                             combined_historical[f"{league_code}_{match_id}"] = match_data
-            except Exception as e:
-                logging.debug(f"Could not load historical data for {league_code}: {e}")
-                continue
-        
-        training_data = combined_historical
-        cache_league_key = "all_leagues"  # Use single cache for all-leagues model
+                except Exception as e:
+                    logging.debug(f"Could not load historical data for {league_code}: {e}")
+                    continue
+            
+            training_data = combined_historical
+            cache_league_key = "all_leagues"  # Use single cache for all-leagues model
     else:
         training_data = historical_data
         cache_league_key = league

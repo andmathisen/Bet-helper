@@ -1,0 +1,57 @@
+{
+  "timestamp": "2026-01-20T21:31:30.350683",
+  "leagues": [
+    "Bundesliga",
+    "Bundesliga2",
+    "Championship",
+    "Eredivisie",
+    "LaLiga",
+    "LeagueOne",
+    "LeagueTwo",
+    "Ligue1",
+    "Ligue2",
+    "PL",
+    "SerieA",
+    "SerieB"
+  ],
+  "splits": 5,
+  "grid": "medium",
+  "min_matches": 150,
+  "dataset_size": 1915,
+  "feature_count": 55,
+  "label_distribution": [
+    564,
+    502,
+    849
+  ],
+  "results": [
+    {
+      "logloss": 1.1134928000926916,
+      "brier": 0.6697553157806396,
+      "accuracy": 0.4307210031347962,
+      "folds": 5,
+      "name": "shallow_fast"
+    },
+    {
+      "logloss": 1.1274381830628866,
+      "brier": 0.6773510694503784,
+      "accuracy": 0.4401253918495297,
+      "folds": 5,
+      "name": "strong_reg"
+    },
+    {
+      "logloss": 1.139565723619151,
+      "brier": 0.6825358510017395,
+      "accuracy": 0.4231974921630094,
+      "folds": 5,
+      "name": "baseline"
+    },
+    {
+      "logloss": 1.1560138027353204,
+      "brier": 0.6918728590011597,
+      "accuracy": 0.4282131661442007,
+      "folds": 5,
+      "name": "deeper"
+    }
+  ]
+}

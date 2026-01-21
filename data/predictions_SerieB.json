@@ -151,11 +151,11 @@
         "away_avg_scored_away_5": 0.008401131257414818,
         "away_avg_scored_home_10": -0.02753351628780365,
         "away_avg_scored_home_5": 0.0007598202209919691,
-        "away_cards_against": 0.017319656908512115,
+        "away_cards_against": 0.017128799110651016,
         "away_cards_for": 0.010936655104160309,
         "away_corners_against": 0.0033257598988711834,
         "away_corners_for": 0.009480857290327549,
-        "away_days_since_last_match": 0.02373291552066803,
+        "away_days_since_last_match": 0.024053191766142845,
         "away_ppg_10": -0.04114712029695511,
         "away_ppg_5": 0.0023792365100234747,
         "away_shots_against": 0.025712713599205017,
@@ -173,7 +173,7 @@
         "home_avg_scored_away_5": -0.0029674405232071877,
         "home_avg_scored_home_10": 0.00042196607682853937,
         "home_avg_scored_home_5": 0.026661228388547897,
-        "home_cards_against": 0.001960557885468006,
+        "home_cards_against": 0.0017697011353448033,
         "home_cards_for": 0.010417819954454899,
         "home_corners_against": 0.01057042833417654,
         "home_corners_for": 0.0033325899858027697,
@@ -185,7 +185,7 @@
         "home_sot_against": 0.013692758977413177,
         "home_sot_for": -0.1329311579465866,
         "home_xg_against": 0.02342294715344906,
-        "home_xg_for": -0.02623596042394638,
+        "home_xg_for": -0.026174522936344147,
         "league_Bundesliga": 0.0,
         "league_Bundesliga2": 0.0,
         "league_Championship": 0.0,
@@ -342,14 +342,14 @@
             "direction": "positive"
           },
           {
+            "feature": "away_days_since_last_match",
+            "contribution": 0.0241,
+            "direction": "positive"
+          },
+          {
             "feature": "home_ppg_10",
             "contribution": -0.0239,
             "direction": "negative"
-          },
-          {
-            "feature": "away_days_since_last_match",
-            "contribution": 0.0237,
-            "direction": "positive"
           },
           {
             "feature": "home_xg_against",
@@ -690,11 +690,11 @@
         "away_avg_scored_away_5": 0.008728528395295143,
         "away_avg_scored_home_10": -0.01070991437882185,
         "away_avg_scored_home_5": 0.0020434155594557524,
-        "away_cards_against": 0.01348823681473732,
+        "away_cards_against": 0.01060444861650467,
         "away_cards_for": -0.03110656514763832,
         "away_corners_against": 0.014569373801350594,
         "away_corners_for": 0.037431810051202774,
-        "away_days_since_last_match": -0.0014493439812213182,
+        "away_days_since_last_match": 3.072453546337783e-05,
         "away_ppg_10": -0.043320395052433014,
         "away_ppg_5": -0.0014684619382023811,
         "away_shots_against": 0.006497334688901901,
@@ -712,7 +712,7 @@
         "home_avg_scored_away_5": -0.005757995881140232,
         "home_avg_scored_home_10": -0.0005089188925921917,
         "home_avg_scored_home_5": 0.037332963198423386,
-        "home_cards_against": 0.0027030217461287975,
+        "home_cards_against": 0.003671957179903984,
         "home_cards_for": 0.010954692028462887,
         "home_corners_against": 0.013472369872033596,
         "home_corners_for": -0.01416836492717266,
@@ -724,7 +724,7 @@
         "home_sot_against": 0.03095938265323639,
         "home_sot_for": -0.2027168869972229,
         "home_xg_against": -0.007783501874655485,
-        "home_xg_for": -0.04931877180933952,
+        "home_xg_for": -0.048883985728025436,
         "league_Bundesliga": 0.0,
         "league_Bundesliga2": 0.0,
         "league_Championship": 0.0,
@@ -872,7 +872,7 @@
           },
           {
             "feature": "home_xg_for",
-            "contribution": -0.0493,
+            "contribution": -0.0489,
             "direction": "negative"
           },
           {
@@ -1229,11 +1229,11 @@
         "away_avg_scored_away_5": -0.0030297813937067986,
         "away_avg_scored_home_10": -0.017851388081908226,
         "away_avg_scored_home_5": -0.01150998380035162,
-        "away_cards_against": 0.016050921753048897,
+        "away_cards_against": 0.01580178551375866,
         "away_cards_for": -0.007283590734004974,
         "away_corners_against": -0.0017317256424576044,
         "away_corners_for": 0.015959933400154114,
-        "away_days_since_last_match": 0.0014855448389425874,
+        "away_days_since_last_match": -0.0007588921580463648,
         "away_ppg_10": -0.033162813633680344,
         "away_ppg_5": 0.0016337897395715117,
         "away_shots_against": 0.01277490146458149,
@@ -1241,7 +1241,7 @@
         "away_sot_against": 0.016443714499473572,
         "away_sot_for": -0.003641675226390362,
         "away_xg_against": 0.02459734119474888,
-        "away_xg_for": -0.007704467047005892,
+        "away_xg_for": -0.006457681301981211,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": 0.011878646910190582,
         "home_avg_conceded_away_5": 0.0021586983930319548,
@@ -1258,7 +1258,7 @@
         "home_days_since_last_match": -0.004413747228682041,
         "home_ppg_10": -0.02342224307358265,
         "home_ppg_5": -0.010680458508431911,
-        "home_shots_against": -0.0357208289206028,
+        "home_shots_against": -0.03447404131293297,
         "home_shots_for": -0.024780821055173874,
         "home_sot_against": -0.007796557154506445,
         "home_sot_for": 0.030234545469284058,
@@ -1391,7 +1391,7 @@
           },
           {
             "feature": "home_shots_against",
-            "contribution": -0.0357,
+            "contribution": -0.0345,
             "direction": "negative"
           },
           {
@@ -1760,11 +1760,11 @@
         "away_avg_scored_away_5": 0.011356979608535767,
         "away_avg_scored_home_10": -0.01824364811182022,
         "away_avg_scored_home_5": -0.0011237503495067358,
-        "away_cards_against": -0.025036068633198738,
+        "away_cards_against": -0.025593454018235207,
         "away_cards_for": 0.06191258132457733,
         "away_corners_against": -0.0026786529924720526,
         "away_corners_for": 0.009172989055514336,
-        "away_days_since_last_match": -0.005743679124861956,
+        "away_days_since_last_match": -0.009530743584036827,
         "away_ppg_10": -0.023494461551308632,
         "away_ppg_5": 0.0022171102464199066,
         "away_shots_against": -0.03689974173903465,
@@ -1772,7 +1772,7 @@
         "away_sot_against": 0.03425601124763489,
         "away_sot_for": 0.002064176369458437,
         "away_xg_against": -0.0011295201256871223,
-        "away_xg_for": -0.01822241209447384,
+        "away_xg_for": -0.018518254160881042,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": -0.010651527903974056,
         "home_avg_conceded_away_5": 0.002275534439831972,
@@ -1789,7 +1789,7 @@
         "home_days_since_last_match": -0.004413747228682041,
         "home_ppg_10": -0.01508033275604248,
         "home_ppg_5": -0.03572556748986244,
-        "home_shots_against": -0.03444043919444084,
+        "home_shots_against": -0.02980014868080616,
         "home_shots_for": 0.04243163764476776,
         "home_sot_against": -0.006813136860728264,
         "home_sot_for": 0.0984504371881485,
@@ -1946,11 +1946,6 @@
             "direction": "negative"
           },
           {
-            "feature": "home_shots_against",
-            "contribution": -0.0344,
-            "direction": "negative"
-          },
-          {
             "feature": "away_sot_against",
             "contribution": 0.0343,
             "direction": "positive"
@@ -1959,6 +1954,11 @@
             "feature": "home_xg_for",
             "contribution": 0.0303,
             "direction": "positive"
+          },
+          {
+            "feature": "home_shots_against",
+            "contribution": -0.0298,
+            "direction": "negative"
           },
           {
             "feature": "home_avg_scored_home_5",
@@ -2291,11 +2291,11 @@
         "away_avg_scored_away_5": 0.009536552242934704,
         "away_avg_scored_home_10": -0.015455171465873718,
         "away_avg_scored_home_5": -0.008137714117765427,
-        "away_cards_against": 0.013601650483906269,
+        "away_cards_against": 0.02923971600830555,
         "away_cards_for": -0.03767131268978119,
         "away_corners_against": 0.0046767061576247215,
         "away_corners_for": -0.027087073773145676,
-        "away_days_since_last_match": 0.0011342860525473952,
+        "away_days_since_last_match": -0.007874744944274426,
         "away_ppg_10": -0.03935297578573227,
         "away_ppg_5": 0.0016337897395715117,
         "away_shots_against": -0.04440092667937279,
@@ -2303,7 +2303,7 @@
         "away_sot_against": 0.027269739657640457,
         "away_sot_for": -0.022494520992040634,
         "away_xg_against": -0.006781930103898048,
-        "away_xg_for": -0.03037610463798046,
+        "away_xg_for": -0.03122578375041485,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": 0.006299161352217197,
         "home_avg_conceded_away_5": 0.002275534439831972,
@@ -2320,7 +2320,7 @@
         "home_days_since_last_match": -0.00235624797642231,
         "home_ppg_10": -0.006716626230627298,
         "home_ppg_5": 0.014232933521270752,
-        "home_shots_against": 0.09880030900239944,
+        "home_shots_against": 0.0930209532380104,
         "home_shots_for": 0.0542900525033474,
         "home_sot_against": 0.019045589491724968,
         "home_sot_for": 0.028465641662478447,
@@ -2448,7 +2448,7 @@
         "away": [
           {
             "feature": "home_shots_against",
-            "contribution": 0.0988,
+            "contribution": 0.093,
             "direction": "positive"
           },
           {
@@ -2488,12 +2488,12 @@
           },
           {
             "feature": "away_xg_for",
-            "contribution": -0.0304,
+            "contribution": -0.0312,
             "direction": "negative"
           },
           {
-            "feature": "home_sot_for",
-            "contribution": 0.0285,
+            "feature": "away_cards_against",
+            "contribution": 0.0292,
             "direction": "positive"
           }
         ]
@@ -2830,11 +2830,11 @@
         "away_avg_scored_away_5": -0.03304659202694893,
         "away_avg_scored_home_10": 0.04704132676124573,
         "away_avg_scored_home_5": -0.0007988462457433343,
-        "away_cards_against": 0.011773655191063881,
+        "away_cards_against": 0.011582797393202782,
         "away_cards_for": 0.02605993114411831,
         "away_corners_against": -0.003733375808224082,
         "away_corners_for": 0.004586226772516966,
-        "away_days_since_last_match": 0.014526685699820518,
+        "away_days_since_last_match": 0.014846961945295334,
         "away_ppg_10": 0.14509317278862,
         "away_ppg_5": 0.012036183848977089,
         "away_shots_against": 0.018328936770558357,
@@ -2852,7 +2852,7 @@
         "home_avg_scored_away_5": -0.007568059489130974,
         "home_avg_scored_home_10": -0.0005089188925921917,
         "home_avg_scored_home_5": 0.032986510545015335,
-        "home_cards_against": -0.003195204772055149,
+        "home_cards_against": -0.0033860616385936737,
         "home_cards_for": 0.019109997898340225,
         "home_corners_against": -0.00047528580762445927,
         "home_corners_for": -0.005055980756878853,
@@ -2864,7 +2864,7 @@
         "home_sot_against": 0.01834230311214924,
         "home_sot_for": -0.043532829731702805,
         "home_xg_against": -0.013917375355958939,
-        "home_xg_for": -0.03882516920566559,
+        "home_xg_for": -0.038763731718063354,
         "league_Bundesliga": 0.0,
         "league_Bundesliga2": 0.0,
         "league_Championship": 0.0,
@@ -3369,11 +3369,11 @@
         "away_avg_scored_away_5": 0.007671469822525978,
         "away_avg_scored_home_10": -0.02785065770149231,
         "away_avg_scored_home_5": -0.008707720786333084,
-        "away_cards_against": 0.033462245017290115,
+        "away_cards_against": 0.033271387219429016,
         "away_cards_for": 0.07685995101928711,
         "away_corners_against": -0.011668868362903595,
         "away_corners_for": 0.009613015688955784,
-        "away_days_since_last_match": 0.018047554418444633,
+        "away_days_since_last_match": 0.0183678288012743,
         "away_ppg_10": -0.06528953462839127,
         "away_ppg_5": 0.001227339031174779,
         "away_shots_against": -0.024407994002103806,
@@ -3391,7 +3391,7 @@
         "home_avg_scored_away_5": -0.002759714610874653,
         "home_avg_scored_home_10": 0.00042196607682853937,
         "home_avg_scored_home_5": -0.05464767664670944,
-        "home_cards_against": -0.012208636850118637,
+        "home_cards_against": -0.012399494647979736,
         "home_cards_for": -0.0018124610651284456,
         "home_corners_against": -0.00962408259510994,
         "home_corners_for": -0.0005079852417111397,
@@ -3403,7 +3403,7 @@
         "home_sot_against": 0.010080292820930481,
         "home_sot_for": -0.1262814998626709,
         "home_xg_against": 0.03405873849987984,
-        "home_xg_for": -0.03463471308350563,
+        "home_xg_for": -0.0345732755959034,
         "league_Bundesliga": 0.0,
         "league_Bundesliga2": 0.0,
         "league_Championship": 0.0,
@@ -3566,7 +3566,7 @@
           },
           {
             "feature": "away_cards_against",
-            "contribution": 0.0335,
+            "contribution": 0.0333,
             "direction": "positive"
           },
           {
@@ -3908,11 +3908,11 @@
         "away_avg_scored_away_5": 0.008074067533016205,
         "away_avg_scored_home_10": -0.03319898992776871,
         "away_avg_scored_home_5": -0.006619996391236782,
-        "away_cards_against": 0.0020326939411461353,
+        "away_cards_against": 0.0014753062278032303,
         "away_cards_for": 0.07824362069368362,
         "away_corners_against": 0.01134402398020029,
         "away_corners_for": -2.2261490812525153e-05,
-        "away_days_since_last_match": -0.010409295558929443,
+        "away_days_since_last_match": -0.014196360483765602,
         "away_ppg_10": -0.05367659032344818,
         "away_ppg_5": 0.0027511955704540014,
         "away_shots_against": -0.020959937945008278,
@@ -3920,7 +3920,7 @@
         "away_sot_against": -0.005701396614313126,
         "away_sot_for": -0.001552148605696857,
         "away_xg_against": -0.01531301997601986,
-        "away_xg_for": -0.01090751588344574,
+        "away_xg_for": -0.011203357949852943,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": -0.016075843945145607,
         "home_avg_conceded_away_5": -0.0018194231670349836,
@@ -3937,7 +3937,7 @@
         "home_days_since_last_match": -0.0023824467789381742,
         "home_ppg_10": -0.04953436926007271,
         "home_ppg_5": -0.01896309293806553,
-        "home_shots_against": -0.0075015295296907425,
+        "home_shots_against": -0.0028612352907657623,
         "home_shots_for": -0.0009250619914382696,
         "home_sot_against": 0.012853607535362244,
         "home_sot_for": -0.187200665473938,
@@ -4447,11 +4447,11 @@
         "away_avg_scored_away_5": 0.010706325992941856,
         "away_avg_scored_home_10": -0.018352525308728218,
         "away_avg_scored_home_5": 0.008926471695303917,
-        "away_cards_against": 0.0362267829477787,
+        "away_cards_against": 0.037342797964811325,
         "away_cards_for": -0.013968495652079582,
         "away_corners_against": 0.001575667760334909,
         "away_corners_for": -0.024202371016144753,
-        "away_days_since_last_match": -0.006557570304721594,
+        "away_days_since_last_match": -0.008671233430504799,
         "away_ppg_10": -0.06107691675424576,
         "away_ppg_5": 0.0027511955704540014,
         "away_shots_against": 0.03846156597137451,
@@ -4459,7 +4459,7 @@
         "away_sot_against": -0.0014070903416723013,
         "away_sot_for": -0.004447391722351313,
         "away_xg_against": -0.001425083028152585,
-        "away_xg_for": -0.01693626306951046,
+        "away_xg_for": -0.01705462485551834,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": 0.01047770120203495,
         "home_avg_conceded_away_5": -0.0053741238079965115,
@@ -4476,7 +4476,7 @@
         "home_days_since_last_match": -0.004907356575131416,
         "home_ppg_10": -0.029517440125346184,
         "home_ppg_5": -0.00369093706831336,
-        "home_shots_against": -0.02436966821551323,
+        "home_shots_against": -0.023253655061125755,
         "home_shots_for": -0.0434025414288044,
         "home_sot_against": 0.017946522682905197,
         "home_sot_for": 0.06820926815271378,
@@ -4623,13 +4623,13 @@
             "direction": "positive"
           },
           {
-            "feature": "home_avg_scored_home_5",
-            "contribution": 0.0365,
+            "feature": "away_cards_against",
+            "contribution": 0.0373,
             "direction": "positive"
           },
           {
-            "feature": "away_cards_against",
-            "contribution": 0.0362,
+            "feature": "home_avg_scored_home_5",
+            "contribution": 0.0365,
             "direction": "positive"
           },
           {
@@ -4648,8 +4648,8 @@
             "direction": "negative"
           },
           {
-            "feature": "home_shots_against",
-            "contribution": -0.0244,
+            "feature": "away_corners_for",
+            "contribution": -0.0242,
             "direction": "negative"
           }
         ]
@@ -4986,11 +4986,11 @@
         "away_avg_scored_away_5": 0.007979679852724075,
         "away_avg_scored_home_10": -0.01798304356634617,
         "away_avg_scored_home_5": 0.0038962815888226032,
-        "away_cards_against": 0.006163934711366892,
+        "away_cards_against": 0.005606546998023987,
         "away_cards_for": -0.01836785301566124,
         "away_corners_against": -0.021469395607709885,
         "away_corners_for": 0.018506191670894623,
-        "away_days_since_last_match": 0.002681390382349491,
+        "away_days_since_last_match": -0.0011056748917326331,
         "away_ppg_10": -0.03515957295894623,
         "away_ppg_5": 0.0016337897395715117,
         "away_shots_against": 0.03406038507819176,
@@ -4998,7 +4998,7 @@
         "away_sot_against": -0.010050065815448761,
         "away_sot_for": 0.0033449698239564896,
         "away_xg_against": 0.001716878148727119,
-        "away_xg_for": -0.014339955523610115,
+        "away_xg_for": -0.014635797590017319,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": 0.01070211548358202,
         "home_avg_conceded_away_5": 0.00799628160893917,
@@ -5015,7 +5015,7 @@
         "home_days_since_last_match": -0.009749085642397404,
         "home_ppg_10": -0.027584919705986977,
         "home_ppg_5": -0.006237564608454704,
-        "home_shots_against": -0.02298939786851406,
+        "home_shots_against": -0.01834910549223423,
         "home_shots_for": -0.008315106853842735,
         "home_sot_against": 0.014384043402969837,
         "home_sot_for": 0.08392125368118286,
@@ -5182,14 +5182,14 @@
             "direction": "positive"
           },
           {
-            "feature": "home_shots_against",
-            "contribution": -0.023,
-            "direction": "negative"
-          },
-          {
             "feature": "away_avg_conceded_home_5",
             "contribution": 0.023,
             "direction": "positive"
+          },
+          {
+            "feature": "away_corners_against",
+            "contribution": -0.0215,
+            "direction": "negative"
           }
         ]
       }
@@ -5525,11 +5525,11 @@
         "away_avg_scored_away_5": -0.02893628552556038,
         "away_avg_scored_home_10": 0.06929732859134674,
         "away_avg_scored_home_5": -0.005069621838629246,
-        "away_cards_against": -0.0032683778554201126,
+        "away_cards_against": -0.0035175136290490627,
         "away_cards_for": 0.016333619132637978,
         "away_corners_against": -0.010548561811447144,
         "away_corners_for": 0.006973649375140667,
-        "away_days_since_last_match": -0.007668657694011927,
+        "away_days_since_last_match": -0.009913094341754913,
         "away_ppg_10": 0.08233427256345749,
         "away_ppg_5": 0.003803676227107644,
         "away_shots_against": -0.00604824535548687,
@@ -5537,7 +5537,7 @@
         "away_sot_against": 0.014306210912764072,
         "away_sot_for": 0.0037013646215200424,
         "away_xg_against": 0.031230608001351357,
-        "away_xg_for": 0.1519695371389389,
+        "away_xg_for": 0.15321631729602814,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": 0.0035395261365920305,
         "home_avg_conceded_away_5": -0.005594583693891764,
@@ -5554,7 +5554,7 @@
         "home_days_since_last_match": -0.0042512668296694756,
         "home_ppg_10": -0.04217320680618286,
         "home_ppg_5": 0.002128280932083726,
-        "home_shots_against": -0.035983938723802567,
+        "home_shots_against": -0.034737151116132736,
         "home_shots_for": -0.034547820687294006,
         "home_sot_against": 0.02324075810611248,
         "home_sot_for": 0.07467924058437347,
@@ -5682,7 +5682,7 @@
         "away": [
           {
             "feature": "away_xg_for",
-            "contribution": 0.152,
+            "contribution": 0.1532,
             "direction": "positive"
           },
           {
@@ -5727,7 +5727,7 @@
           },
           {
             "feature": "home_shots_against",
-            "contribution": -0.036,
+            "contribution": -0.0347,
             "direction": "negative"
           }
         ]
@@ -6064,11 +6064,11 @@
         "away_avg_scored_away_5": 0.00832241028547287,
         "away_avg_scored_home_10": 0.004292229190468788,
         "away_avg_scored_home_5": 0.005102150142192841,
-        "away_cards_against": 0.03529292345046997,
+        "away_cards_against": 0.036408934742212296,
         "away_cards_for": -0.021895017474889755,
         "away_corners_against": -0.03481408581137657,
         "away_corners_for": 0.01712794601917267,
-        "away_days_since_last_match": -0.008915611542761326,
+        "away_days_since_last_match": -0.011029275134205818,
         "away_ppg_10": -0.02626819536089897,
         "away_ppg_5": 0.0023792365100234747,
         "away_shots_against": 0.03468115255236626,
@@ -6076,7 +6076,7 @@
         "away_sot_against": 0.0003913056571036577,
         "away_sot_for": -0.00425564032047987,
         "away_xg_against": -0.009204274043440819,
-        "away_xg_for": -0.012420549057424068,
+        "away_xg_for": -0.012538911774754524,
         "home_advantage": 0.0,
         "home_avg_conceded_away_10": 0.012940319254994392,
         "home_avg_conceded_away_5": 0.030311711132526398,
@@ -6093,7 +6093,7 @@
         "home_days_since_last_match": -0.009749085642397404,
         "home_ppg_10": -0.006267014425247908,
         "home_ppg_5": -0.009707406163215637,
-        "home_shots_against": -0.024537144228816032,
+        "home_shots_against": -0.02342113107442856,
         "home_shots_for": -0.022236375138163567,
         "home_sot_against": 0.00041974615305662155,
         "home_sot_for": 0.07155590504407883,
@@ -6226,7 +6226,7 @@
           },
           {
             "feature": "away_cards_against",
-            "contribution": 0.0353,
+            "contribution": 0.0364,
             "direction": "positive"
           },
           {
@@ -6256,7 +6256,7 @@
           },
           {
             "feature": "home_shots_against",
-            "contribution": -0.0245,
+            "contribution": -0.0234,
             "direction": "negative"
           },
           {

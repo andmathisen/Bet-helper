@@ -10945,11 +10945,11 @@
         "away_avg_scored_away_5": -0.021409984678030014,
         "away_avg_scored_home_10": -0.031652528792619705,
         "away_avg_scored_home_5": 0.002869842341169715,
-        "away_cards_against": 0.0516604520380497,
+        "away_cards_against": 0.051595740020275116,
         "away_cards_for": -0.010046173818409443,
         "away_corners_against": 0.013761243782937527,
         "away_corners_for": 0.0027488276828080416,
-        "away_days_since_last_match": 0.002830136800184846,
+        "away_days_since_last_match": 0.0030242654029279947,
         "away_ppg_10": 0.024547070264816284,
         "away_ppg_5": -0.0014740250771865249,
         "away_shots_against": 0.030560459941625595,
@@ -10967,7 +10967,7 @@
         "home_avg_scored_away_5": -0.0027031321078538895,
         "home_avg_scored_home_10": 0.0002005148126045242,
         "home_avg_scored_home_5": -0.025294680148363113,
-        "home_cards_against": 0.0038988906890153885,
+        "home_cards_against": 0.0038341814652085304,
         "home_cards_for": -0.004482215270400047,
         "home_corners_against": 0.012411832809448242,
         "home_corners_for": 0.02769159898161888,
@@ -10979,7 +10979,7 @@
         "home_sot_against": 0.012470556423068047,
         "home_sot_for": 0.0512370727956295,
         "home_xg_against": -0.007643114775419235,
-        "home_xg_for": 0.039207372814416885,
+        "home_xg_for": 0.0391426607966423,
         "league_Bundesliga": 0.0,
         "league_Bundesliga2": 0.0,
         "league_Championship": 0.0,
@@ -11127,7 +11127,7 @@
           },
           {
             "feature": "away_cards_against",
-            "contribution": 0.0517,
+            "contribution": 0.0516,
             "direction": "positive"
           },
           {
@@ -11142,7 +11142,7 @@
           },
           {
             "feature": "home_xg_for",
-            "contribution": 0.0392,
+            "contribution": 0.0391,
             "direction": "positive"
           },
           {

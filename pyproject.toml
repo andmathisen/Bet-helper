@@ -20,6 +20,10 @@ numpy = "^1.26.4"
 scikit-learn = "^1.4.0"
 xgboost = "^2.1.1"
 shap = "^0.45.0"
+# Note: stable-baselines3 and gymnasium installed via pip due to build issues with Poetry
+# Run: pip install stable-baselines3 gymnasium --no-build-isolation
+# stable-baselines3 = "^2.0.0"
+# gymnasium = "^0.28.0"
 
 [tool.poetry.scripts]
 bet-helper = "bet_helper.cli:main"

@@ -54,3 +54,9 @@ yarn.lock
 # Data files (optional - uncomment if you don't want to track these)
 # *.json
 # *.html
+
+
+*.pkl
+data/historical_matches_*.json
+data/calibration*
+data/ml*

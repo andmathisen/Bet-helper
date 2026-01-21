@@ -12,7 +12,6 @@ LEAGUE_CODE_TO_PATH: Dict[str, str] = {
     "Bundesliga": "/germany/bundesliga",
     "Bundesliga2": "/germany/2-bundesliga",
     "Championship": "/england/championship",
-    "LigaPortugal": "/portugal/liga-portugal",
     "Ligue1": "/france/ligue-1",
     "Ligue2": "/france/ligue-2",
     "LeagueOne": "/england/efl-league-one",
